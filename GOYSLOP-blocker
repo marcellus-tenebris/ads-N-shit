@@ -1,5 +1,5 @@
 ! Title: GOYSLOP-blocker
-! Description: Personal uBO filters
+! Description: Personal uBO for blocking GOYSLOB that's been feed to us GOYS
 ! Expires: 1 day
 
 ||ad.doubleclick.net^$third-party
