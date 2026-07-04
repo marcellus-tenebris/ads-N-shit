@@ -1,3 +1,7 @@
+! Title: GOYSLOP-blocker
+! Description: Personal uBO filters
+! Expires: 1 day
+
 ||ad.doubleclick.net^$third-party
 ||googleads.g.doubleclick.net^$third-party
 ||m.doubleclick.net^$third-party
