@@ -1,6 +1,6 @@
 ! Title: GOYSLOP-blocker
 ! Description: Personal uBO for blocking GOYSLOB that's been feed to us GOYS
-! Expires: 1 hour
+! Expires: 1 day
 
 ||ad.doubleclick.net^$third-party
 ||googleads.g.doubleclick.net^$third-party
