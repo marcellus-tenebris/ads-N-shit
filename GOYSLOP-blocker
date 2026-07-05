@@ -1430,8 +1430,8 @@ $removeparam=srsltid
 ||akamaihd.net/analytics^
 ||cdn77.com/analytics^
 ||bootstrapcdn.com/analytics^
-*$csp=battery-status 'none'
-*$csp=network-information 'none'
+!*$csp=battery-status 'none'
+!*$csp=network-information 'none'
 ||discord.com/api/science^
 ||optimize.google.com^$third-party
 ||googleoptimize.com^$third-party
