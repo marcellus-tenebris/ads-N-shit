@@ -1353,7 +1353,7 @@ $removeparam=srsltid
 ||arkoselabs.com^$third-party
 ||funcaptcha.com^$third-party
 ||hcaptcha.com^$third-party
-||cloudflare.com/cdn-cgi/challenge-platform^
+!||cloudflare.com/cdn-cgi/challenge-platform^
 ||jwpltx.com^$third-party
 ||jwplatform.com/analytics^
 ||brightcove.com/analytics^
