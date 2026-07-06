@@ -1353,7 +1353,7 @@ $removeparam=srsltid
 ||arkoselabs.com^$third-party
 ||funcaptcha.com^$third-party
 ||hcaptcha.com^$third-party
-!||cloudflare.com/cdn-cgi/challenge-platform^
+||cloudflare.com/cdn-cgi/challenge-platform^
 ||jwpltx.com^$third-party
 ||jwplatform.com/analytics^
 ||brightcove.com/analytics^
@@ -1430,8 +1430,8 @@ $removeparam=srsltid
 ||akamaihd.net/analytics^
 ||cdn77.com/analytics^
 ||bootstrapcdn.com/analytics^
-!*$csp=battery-status 'none'
-!*$csp=network-information 'none'
+*$csp=battery-status 'none'
+*$csp=network-information 'none'
 ||discord.com/api/science^
 ||optimize.google.com^$third-party
 ||googleoptimize.com^$third-party
@@ -1457,154 +1457,177 @@ $removeparam=srsltid
 ||netnut.io^
 ||flirtify.com^
 ||accounts.google.com^
+||lcdn.tsyndicate.com^
+||tango.me^
+||tango.ai^
+||bigo.tv^
+||deepai.org^
+||quillbot.com^
+||notegpt.io^
+||talkie-ai.com^
+||f-droid.org/assets/phone-frame_kEDoOnDDPLnsqH4lVaEun9wfQgM9ivrhk5OiUWWdKHc=.png$image
+||static-eu-cdn.eporner.com/new/adinhead.png$image
+||camjke.com^
+||business.facebook.com^
+||s.zline0.com^
 
-! ============================================================
-! COSMETIC
-! ============================================================
-
-x.com##[role="main"] [aria-label="Home timeline"]:upward(1):style(max-width: 700px !important; margin-right: 30px !important)
-x.com##[role="main"] [aria-label="Home timeline"]:upward(5) .r-113js5t:style(width: 1150px !important)
-x.com##[role="main"] [aria-label="Home timeline"] section:upward(1):style(max-width: 999px !important)
-x.com##[role="main"] [aria-label="Home timeline"] [href$="/header_photo"]:upward(2):style(max-width: 999px !important)
-temp-mail.org##.page-footer
-temp-mail.org##.bottom-seo-text
-temp-mail.org##.section-populer-article
-temp-mail.org##.mid-intro-text
-temp-mail.org##.goPremiumBtn.goPremium.btn-outline-dark.tm-btn
-temp-mail.org##.popover-qr.btn-l-gary.icon-btn.btn-rds
-temp-mail.org##.hidden-xs-sm.align-v-mid.col > .btn-appstore
-temp-mail.org##.temp-emailbox-text
-www.speedtest.net##.footer
-www.speedtest.net##.nav-item-text
-www.speedtest.net##.lower-content-blend.lower-content
-www.speedtest.net##.connection-component-container > .result-data
-www.speedtest.net##.js-data-ip.result-data
-www.speedtest.net##.js-sponsor-name.result-data
-www.speedtest.net##.result-item-icon.result-item-align-left.result-item-host.result-item > .server-current > .server-current > div.result-data
-www.speedtest.net##.result-area-nav-center.result-area-nav.result-area > ul > li > [href="/results"]
+!====================================================
+! COSMATICS
+!====================================================
+12vids.com##.table
+||cdn-ilaobab.nitrocdn.com/lePUICgBcWyaBxcotrhntvbRsPrKoqSc/assets/images/optimized/rev-5d4d543/girlawy.com/wp-content/uploads/download*.png$image
+ensuretips.com##.skpzbfbyduwytnymzrqdxnwmzmhabdgrqzlicfhnytnmvxjrniazjfmoy.cxjmofqzalhsutrqnzmwmgzfnubdriouluyzncsukzbfgdhbemhwtjfmoy
+ensuretips.com##.zzgycxlpwmxhsdtluqehphruhyewtjnffkfhdnvkvjgrywvuuthxrgw.wkrywxfwyjuanvwwzodwtozkzddmjcchoyowpqzgjfqznfzfhszzhxrgw
+fast.com##.language-selector-container
 fast.com##.powered-by-container
 fast.com##.share-container
-fast.com##.language-selector-container
+fast.com##.your-speed-message > .localized
+f-droid.org##.banner--name__keepandroidopen.banner--danger.banner
+f-droid.org##div.sidebar-widget:nth-of-type(3)
+f-droid.org##.download-and-screenshot
+go4news.online##.popSc
+himovies.sx##.mb-3.alert
+leakvids.com##.table
+letterboxd.com##[href^="/search/articles/hauru/"]
+letterboxd.com##[href^="/search/episodes/hauru/"]
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
-letterboxd.com##.main-nav-people.navitem
 letterboxd.com##.main-nav-activity.navitem
-letterboxd.com##section.smenu-wrapper:nth-of-type(4)
-letterboxd.com##.-rss.-navicon.navitem
 letterboxd.com##.main-nav-films.films-page.navitem
-letterboxd.com##.-selected.main-nav-lists.lists-page.navitem
+letterboxd.com##.main-nav-journal.navitem
+letterboxd.com##.main-nav-people.navitem
+letterboxd.com##.-rss.-navicon.navitem
 letterboxd.com##section#latest-news.section:nth-of-type(2)
-letterboxd.com##section.section:nth-of-type(7)
 letterboxd.com##section#latest-news.section:nth-of-type(8)
+letterboxd.com##section.section:nth-of-type(7)
+letterboxd.com##section.smenu-wrapper:nth-of-type(4)
+letterboxd.com##.-selected.main-nav-lists.lists-page.navitem
 letterboxd.com##.stories-section.section
 letterboxd.com##.title-hero
-www.imdb.com##.navbar__flyout--breakpoint-l.navbar__imdbpro-content.fyZBWo.sc-1bf6e1d3-0
-www.imdb.com##.hamburger__icon.ewhCrq.sc-8798a0ad-2.ipc-responsive-button--button-radius.ipc-responsive-button--single-padding.ipc-btn--on-textPrimary.ipc-responsive-button--transition-l.ipc-btn--theme-baseAlt.ipc-responsive-button
-www.imdb.com##.navbar__flyout--breakpoint-m.AHcUU.fyZBWo.sc-44b56d54-2.sc-1bf6e1d3-0 > .navbar__flyout__text-button-after-mobile.ipc-text-button.ipc-btn--on-textPrimary.ipc-btn--button-radius.ipc-btn--theme-baseAlt.ipc-btn--core-baseAlt.ipc-btn--default-height.ipc-btn--center-align-content.ipc-btn--single-padding.ipc-btn
-www.imdb.com##.footer.imdb-footer.glbPmq.sc-62727d1a-0
-www.imdb.com##.navbar__imdbpro.JBPPI.sc-b5ad688e-0
-www.imdb.com##.hJOoCl.sc-c13a10ca-0
-www.imdb.com##div.page-grid.eRoFYl.sc-42bf884a-0.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(8)
-www.imdb.com##section.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section:nth-of-type(2)
-www.imdb.com##.mtPrt.sc-438dc625-0.ipc-page-content-container--center.ipc-page-content-container > .celwidget.ipc-page-section--baseAlt.ipc-page-section
-www.lyricsify.com##.footer
-www.opensubtitles.org###ray-announcement-host
-f-droid.org##.banner--name__keepandroidopen.banner--danger.banner
-www.storysaver.net###footer
-www.storysaver.net##section.special.main:nth-of-type(3)
-www.storysaver.net###howto
-www.storysaver.net##h1
-www.storysaver.net###first > footer.major > .special.actions
-www.storysaver.net###nav
-www.storysaver.net###first > header.major > h2
-www.facebook.com##.xti2d7y > li > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
-www.facebook.com##.xf7dkkf.x1l90r2v.xv54qhq.xyamay9.x2lah0s
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(19) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(13) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(11) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(16) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(17) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(14) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(2) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(5)
-www.facebook.com##footer > .xi81zsa.xo1l8bm.x1sibtaa.x1nxh6w3.x3x7a5m.x1tu3fi.x1943h6x.x1fgarty.x1cpjm7i.x1gmr53x.xhkezso.x1s928wv.x1lliihq.x10flsy6.x1vvkbs.x13faqbe.xeuugli.x193iq5w
-www.facebook.com##.x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5 > .x1y1aw1k > div:nth-of-type(1)
-letterboxd.com##.main-nav-journal.navitem
-fast.com##.your-speed-message > .localized
-www.facebook.com##.xz9dl7a.xf7dkkf.xv54qhq.x1a8lsjc.x1a02dak.x78zum5.x6s0dn4
-www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
-x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-1kqtdi0.css-175oi2r
-x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
-x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(9) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(20) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(18) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(6) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(5) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-www.imdb.com##.navbar__imdb-pro--toggle.navbar__flyout__text-button-after-mobile.ipc-text-button.ipc-btn--on-textPrimary.ipc-btn--button-radius.ipc-btn--theme-baseAlt.ipc-btn--core-baseAlt.ipc-btn--default-height.ipc-btn--center-align-content.ipc-btn--single-padding.ipc-btn
-letterboxd.com##[href^="/search/episodes/hauru/"]
-letterboxd.com##[href^="/search/articles/hauru/"]
-www.youtube.com###country-code
-search.brave.com##.svelte-4jwo3w.t-tertiary.desktop-small-regular
-search.brave.com###main > .svelte-jz8lnl
+newsvix.online##.popSc
+noodlemagazine.com##.footer
+noodlemagazine.com##.particles-js-canvas-el
+primepropertynow.com##.popSc
+redvid.io##footer.overflow-hidden.relative
+redvid.io##.header-inner
+redvid.io##.hero-badge
+redvid.io##.hero-subtitle
+redvid.io##.hero-terms
+redvid.io##.hero-title
+redvid.io##main
 search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(3)
 search.brave.com##li.svelte-l0weru.tab-item:nth-of-type(4) > .svelte-l0weru.desktop-default-semibold
 search.brave.com##li.svelte-l0weru.tab-item:nth-of-type(6) > .svelte-l0weru.desktop-default-semibold
+search.brave.com###main > .svelte-jz8lnl
 search.brave.com###quick-goggles-button > .svelte-7b1tqz.header-button-icon
 search.brave.com##.svelte-19urzty.t-tertiary.desktop-xsmall-regular
-www.deviantart.com##.V8qzlV.DuRxKc
-www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
-redvid.io##main
-redvid.io##footer.overflow-hidden.relative
-www.storysaver.net###yuk
-
-! ============================================================
-! COSMETIC X
-! ============================================================
-
-noodlemagazine.com##.particles-js-canvas-el
+search.brave.com##.svelte-4jwo3w.t-tertiary.desktop-small-regular
+spankbang.com##.p-4.bg-surface-secondary.rounded-lg.justify-between.flex-col.h-full.flex
+spankbang.com##.xl\:py-4.xl\:px-10.p-4.bg-surface-tertiary.gap-4.flex-col.flex
+temp-mail.org##.bottom-seo-text
+temp-mail.org##.goPremiumBtn.goPremium.btn-outline-dark.tm-btn
+temp-mail.org##.hidden-xs-sm.align-v-mid.col > .btn-appstore
+temp-mail.org##.mid-intro-text
+temp-mail.org##.page-footer
+temp-mail.org##.popover-qr.btn-l-gary.icon-btn.btn-rds
+temp-mail.org##.section-populer-article
+temp-mail.org##.temp-emailbox-text
 trips.newsvix.online##.popSc
-newsvix.online##.popSc
-noodlemagazine.com##.footer
+vidzstream.online###overlay-77r5l0
+vidzstream.online###overlay-8zw7ct
+vidzstream.online###overlay-enp7jh
+vidzstream.online###overlay-n4n7tj
+vidzstream.online###overlay-st2ebf
+vidzstream.online###overlay-wsyhz8
+www.apkmirror.com##div.listWidget:nth-of-type(3)
+www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
+www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
+www.aznude.com##.native-footer-mobile
+www.deviantart.com##.V8qzlV.DuRxKc
 www.eporner.com###copyright
 www.eporner.com###foot
 www.eporner.com##.footer-text
-xhopen.com##.widthWrap-cb57f
-xhopen.com##.login-section
-xhopen.com##.newNav-3682d.right.top-menu__side-group
-ensuretips.com##.zzgycxlpwmxhsdtluqehphruhyewtjnffkfhdnvkvjgrywvuuthxrgw.wkrywxfwyjuanvwwzodwtozkzddmjcchoyowpqzgjfqznfzfhszzhxrgw
-||cdn-ilaobab.nitrocdn.com/lePUICgBcWyaBxcotrhntvbRsPrKoqSc/assets/images/optimized/rev-5d4d543/girlawy.com/wp-content/uploads/download*.png$image
-ensuretips.com##.skpzbfbyduwytnymzrqdxnwmzmhabdgrqzlicfhnytnmvxjrniazjfmoy.cxjmofqzalhsutrqnzmwmgzfnubdriouluyzncsukzbfgdhbemhwtjfmoy
-go4news.online##.popSc
-primepropertynow.com##.popSc
-himovies.sx##.mb-3.alert
+www.eporner.com###headmenu
 www.erome.com##.footer
 www.erome.com##.sign-in.dropdown.hidden-tn.hidden-xxs.hidden-xs.hidden-sm > .dropdown-toggle
-||static-eu-cdn.eporner.com/new/adinhead.png$image
-www.eporner.com###headmenu
-spankbang.com##.xl\:py-4.xl\:px-10.p-4.bg-surface-tertiary.gap-4.flex-col.flex
-www.heavy-r.com##div.col-md-3.col-sm-4.col-xs-6.col-xxs-12:nth-of-type(9)
-www.heavy-r.com##div.col-md-3.col-sm-4.col-xs-6.col-xxs-12:nth-of-type(8)
-www.luscious.net##.o-border--bottom.o-flex-center.site-banner
+www.facebook.com##footer > .xi81zsa.xo1l8bm.x1sibtaa.x1nxh6w3.x3x7a5m.x1tu3fi.x1943h6x.x1fgarty.x1cpjm7i.x1gmr53x.xhkezso.x1s928wv.x1lliihq.x10flsy6.x1vvkbs.x13faqbe.xeuugli.x193iq5w
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(11) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(13) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(14) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(16) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(17) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(18) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(19) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(20) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(2) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(5) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(6) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(9) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(5)
+www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##.x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5 > .x1y1aw1k > div:nth-of-type(1)
+www.facebook.com##.xf7dkkf.x1l90r2v.xv54qhq.xyamay9.x2lah0s
+www.facebook.com##.xti2d7y > li > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+www.facebook.com##.xz9dl7a.xf7dkkf.xv54qhq.x1a8lsjc.x1a02dak.x78zum5.x6s0dn4
 www.google.com##.YNk70c.dc8jac.f6F9Be
-vidzstream.online###overlay-wsyhz8
-vidzstream.online###overlay-enp7jh
-vidzstream.online###overlay-77r5l0
-vidzstream.online###overlay-st2ebf
-vidzstream.online###overlay-n4n7tj
-vidzstream.online###overlay-8zw7ct
-www.ixxx.com##.dark\:border-zinc-800.border-zinc-200.border-t.shrink-0.dark\:bg-zinc-950.bg-zinc-50.footer-container
-12vids.com##.table
-leakvids.com##.table
-www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN > div
-www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
-www.xrares.com##.privMSG.text-danger
-xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(51)
-xhopen.com##.video-thumb__moment.video-thumb.thumb-list__item.item-19ee5
-spankbang.com##.p-4.bg-surface-secondary.rounded-lg.justify-between.flex-col.h-full.flex
-xhopen.com##div.container-64b3c:nth-of-type(2)
+www.heavy-r.com##div.col-md-3.col-sm-4.col-xs-6.col-xxs-12:nth-of-type(8)
+www.heavy-r.com##div.col-md-3.col-sm-4.col-xs-6.col-xxs-12:nth-of-type(9)
 www.heavy-r.com##.hidden-xs.actions
+www.imdb.com##div.page-grid.eRoFYl.sc-42bf884a-0.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(8)
+www.imdb.com##.footer.imdb-footer.glbPmq.sc-62727d1a-0
+www.imdb.com##.hamburger__icon.ewhCrq.sc-8798a0ad-2.ipc-responsive-button--button-radius.ipc-responsive-button--single-padding.ipc-btn--on-textPrimary.ipc-responsive-button--transition-l.ipc-btn--theme-baseAlt.ipc-responsive-button
+www.imdb.com##.hJOoCl.sc-c13a10ca-0
+www.imdb.com##.mtPrt.sc-438dc625-0.ipc-page-content-container--center.ipc-page-content-container > .celwidget.ipc-page-section--baseAlt.ipc-page-section
+www.imdb.com##.navbar__flyout--breakpoint-l.navbar__imdbpro-content.fyZBWo.sc-1bf6e1d3-0
+www.imdb.com##.navbar__flyout--breakpoint-m.AHcUU.fyZBWo.sc-44b56d54-2.sc-1bf6e1d3-0 > .navbar__flyout__text-button-after-mobile.ipc-text-button.ipc-btn--on-textPrimary.ipc-btn--button-radius.ipc-btn--theme-baseAlt.ipc-btn--core-baseAlt.ipc-btn--default-height.ipc-btn--center-align-content.ipc-btn--single-padding.ipc-btn
+www.imdb.com##.navbar__imdbpro.JBPPI.sc-b5ad688e-0
+www.imdb.com##.navbar__imdb-pro--toggle.navbar__flyout__text-button-after-mobile.ipc-text-button.ipc-btn--on-textPrimary.ipc-btn--button-radius.ipc-btn--theme-baseAlt.ipc-btn--core-baseAlt.ipc-btn--default-height.ipc-btn--center-align-content.ipc-btn--single-padding.ipc-btn
+www.imdb.com##section.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section:nth-of-type(2)
+www.ixxx.com##.dark\:border-zinc-800.border-zinc-200.border-t.shrink-0.dark\:bg-zinc-950.bg-zinc-50.footer-container
+www.luscious.net##.o-border--bottom.o-flex-center.site-banner
+www.lyricsify.com##.footer
+www.opensubtitles.org###ray-announcement-host
+www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
+www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
+www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN > div
+www.speedtest.net##.connection-component-container > .result-data
+www.speedtest.net##.footer
+www.speedtest.net##.js-data-ip.result-data
+www.speedtest.net##.js-sponsor-name.result-data
+www.speedtest.net##.lower-content-blend.lower-content
+www.speedtest.net##.nav-item-text
+www.speedtest.net##.result-area-nav-center.result-area-nav.result-area > ul > li > [href="/results"]
+www.speedtest.net##.result-item-icon.result-item-align-left.result-item-host.result-item > .server-current > .server-current > div.result-data
+www.storysaver.net###first > footer.major > .special.actions
+www.storysaver.net###first > header.major > h2
+www.storysaver.net###footer
+www.storysaver.net##h1
+www.storysaver.net###howto
+www.storysaver.net###nav
+www.storysaver.net##section.special.main:nth-of-type(3)
+www.storysaver.net###yuk
+www.xrares.com##.privMSG.text-danger
+www.youtube.com###country-code
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
+x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
+x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-1kqtdi0.css-175oi2r
+x.com##[role="main"] [aria-label="Home timeline"] [href$="/header_photo"]:upward(2):style(max-width: 999px !important)
+x.com##[role="main"] [aria-label="Home timeline"] section:upward(1):style(max-width: 999px !important)
+x.com##[role="main"] [aria-label="Home timeline"]:upward(1):style(max-width: 700px !important; margin-right: 30px !important)
+x.com##[role="main"] [aria-label="Home timeline"]:upward(5) .r-113js5t:style(width: 1150px !important)
+xhamster.com##.withShadow-35a92.popup-35a92
+xhopen.com##div.container-64b3c:nth-of-type(2)
 xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(19)
+xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(50)
+xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(51)
+xhopen.com##.login-section
+xhopen.com##.newNav-3682d.right.top-menu__side-group
+xhopen.com##.video-thumb__moment.video-thumb.thumb-list__item.item-19ee5
+xhopen.com##.widthWrap-cb57f
 ytboob.com###block-19
 ytboob.com##.flex-container-desktop
-xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(50)
+www.xvideos2.com##body > div:nth-of-type(4)
+www.xvideos2.com##.tb_full_init.after-16.after-15.thumb-block.thumb-nat-exo-ad.thumb-nat-ad.thumb-ad
+vidzstream.com###overlay-h5s7tz
+vidzstream.com###overlay-tx6hn3
+vidzstream.com###overlay-ottaap
