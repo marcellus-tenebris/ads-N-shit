@@ -119,7 +119,6 @@ $removeparam=yclid
 *##+js(aeld, visibilitychange)
 *##+js(nostif, ab_test)
 *##+js(nostif, experiments)
-*##+js(nowebrtc)
 *##+js(set, localStorage.abTests, undefined)
 *##+js(set, localStorage.experiments, undefined)
 *$csp=battery-status 'none'
@@ -511,7 +510,6 @@ $removeparam=yclid
 ||clientjs.io^
 ||clientjs.org^
 ||cloudflare.com/cdn-cgi/beacon/expect-ct$xmlhttprequest
-||cloudflare.com/cdn-cgi/challenge-platform^
 ||cloudflare.com/cdn-cgi/rum$xmlhttprequest
 ||cloudflareinsights.com^$third-party
 ||cnet.com^$removeparam=ftag
@@ -1488,11 +1486,11 @@ $removeparam=yclid
 ||zoominfo.com^
 ||zopim.com^
 !
-!==================================
+! =============================================
 ! COSMATICS
-!==================================
+! =============================================
 !
-!12vids.com##.table
+12vids.com##.table
 chatgpt.com##.disabled\:opacity-30.disabled\:text-\[\#f4f4f4\].hover\:opacity-70.transition-colors.rounded-full.justify-center.items-center.w-9.h-9.flex.relative.keyboard-focused\:focus-ring.text-submit-btn-text.composer-submit-button-color
 chatgpt.com##.min-w-9.w-9.min-h-9.h-9.composer-btn
 chatgpt.com##a.gap-1\.5.hoverable.__menu-item.group:nth-of-type(3)
