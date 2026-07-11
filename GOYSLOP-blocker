@@ -1492,7 +1492,12 @@ $removeparam=yclid
 ! COSMATICS
 !==================================
 !
-12vids.com##.table
+!12vids.com##.table
+chatgpt.com##.disabled\:opacity-30.disabled\:text-\[\#f4f4f4\].hover\:opacity-70.transition-colors.rounded-full.justify-center.items-center.w-9.h-9.flex.relative.keyboard-focused\:focus-ring.text-submit-btn-text.composer-submit-button-color
+chatgpt.com##.min-w-9.w-9.min-h-9.h-9.composer-btn
+chatgpt.com##a.gap-1\.5.hoverable.__menu-item.group:nth-of-type(3)
+chatgpt.com##a.hoverable.__menu-item.group:nth-of-type(4)
+chatgpt.com##div.\[\&\:nth-child\(1_of_\:has\(div\:not\(\[role\=group\]\)\)\)\]\:before\:hidden.first\:before\:hidden.before\:h-px.before\:block.before\:my-1.before\:mx-4.content-sheet\:before\:mx-6.content-sheet\:before\:my-3.before\:bg-token-border-default.\[\:not\(\:has\(div\:not\(\[role\=group\]\)\)\)\]\:hidden.empty\:hidden:nth-of-type(2) > div > div.__menu-item.group:nth-of-type(1)
 ensuretips.com##.skpzbfbyduwytnymzrqdxnwmzmhabdgrqzlicfhnytnmvxjrniazjfmoy.cxjmofqzalhsutrqnzmwmgzfnubdriouluyzncsukzbfgdhbemhwtjfmoy
 ensuretips.com##.zzgycxlpwmxhsdtluqehphruhyewtjnffkfhdnvkvjgrywvuuthxrgw.wkrywxfwyjuanvwwzodwtozkzddmjcchoyowpqzgjfqznfzfhszzhxrgw
 f-droid.org##.banner--name__keepandroidopen.banner--danger.banner
@@ -1502,6 +1507,8 @@ fast.com##.language-selector-container
 fast.com##.powered-by-container
 fast.com##.share-container
 fast.com##.your-speed-message > .localized
+girlawy.com###telegram-popup-overlay
+girlawy.com##.vip-btn
 go4news.online##.popSc
 himovies.sx##.mb-3.alert
 leakvids.com##.table
@@ -1520,6 +1527,7 @@ letterboxd.com##section#latest-news.section:nth-of-type(2)
 letterboxd.com##section#latest-news.section:nth-of-type(8)
 letterboxd.com##section.section:nth-of-type(7)
 letterboxd.com##section.smenu-wrapper:nth-of-type(4)
+mcpelife.com##.app-panel-wrap
 newsvix.online##.popSc
 noodlemagazine.com##.footer
 noodlemagazine.com##.particles-js-canvas-el
