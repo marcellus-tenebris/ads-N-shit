@@ -375,6 +375,7 @@ $removeparam=yclid
 ||aweber.com/*/image/*$third-party
 ||awempire.com^$third-party
 ||awin1.com^$third-party
+||aznude.pics^
 ||baidu.com/stat/$xmlhttprequest
 ||baidu.com^$third-party
 ||barilliance.com^$third-party
@@ -631,6 +632,7 @@ $removeparam=yclid
 ||extreme-ip-lookup.com^$third-party
 ||extremetube.com/track/$xmlhttprequest
 ||exxonmobil.com^
+||ey43.com^
 ||eyereturn.com^$third-party
 ||f-droid.org/assets/phone-frame_kEDoOnDDPLnsqH4lVaEun9wfQgM9ivrhk5OiUWWdKHc=.png$image
 ||facebook.com/ajax/bootloader-endpoint/$xmlhttprequest
@@ -1485,7 +1487,6 @@ $removeparam=yclid
 ||zoom.us/wc/tracking$xmlhttprequest
 ||zoominfo.com^
 ||zopim.com^
-||aznude.pics^
 !
 ! =============================================
 ! COSMATICS
@@ -1506,11 +1507,27 @@ fast.com##.language-selector-container
 fast.com##.powered-by-container
 fast.com##.share-container
 fast.com##.your-speed-message > .localized
+fyptt.to##.fl-row-align-center.fl-row-default-height.fl-node-5f719fef28ed8.fl-row-bg-color.fl-row-full-width.fl-row > .fl-row-content-wrap
 girlawy.com###telegram-popup-overlay
 girlawy.com##.vip-btn
 go4news.online##.popSc
 himovies.sx##.mb-3.alert
 leakvids.com##.table
+letterboxd.com##.-rss.-navicon.navitem
+letterboxd.com##.-selected.main-nav-lists.lists-page.navitem
+letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
+letterboxd.com##.main-nav-activity.navitem
+letterboxd.com##.main-nav-films.films-page.navitem
+letterboxd.com##.main-nav-journal.navitem
+letterboxd.com##.main-nav-people.navitem
+letterboxd.com##.stories-section.section
+letterboxd.com##.title-hero
+letterboxd.com##[href^="/search/articles/hauru/"]
+letterboxd.com##[href^="/search/episodes/hauru/"]
+letterboxd.com##section#latest-news.section:nth-of-type(2)
+letterboxd.com##section#latest-news.section:nth-of-type(8)
+letterboxd.com##section.section:nth-of-type(7)
+letterboxd.com##section.smenu-wrapper:nth-of-type(4)
 mcpelife.com##.app-panel-wrap
 newsvix.online##.popSc
 noodlemagazine.com##.footer
@@ -1544,6 +1561,7 @@ temp-mail.org##.popover-qr.btn-l-gary.icon-btn.btn-rds
 temp-mail.org##.section-populer-article
 temp-mail.org##.temp-emailbox-text
 trips.newsvix.online##.popSc
+vidara.to##.text-center.p-7.rounded-xl.mb-5.relative
 vidzstream.com###overlay-h5s7tz
 vidzstream.com###overlay-ottaap
 vidzstream.com###overlay-tx6hn3
