@@ -702,6 +702,9 @@ $removeparam=yclid
 ||fiverr.com^$removeparam=ref_ctx_id
 ||fiverr.com^$removeparam=source
 ||flirtify.com^
+||flock.co^
+||flock.com^
+||flocksafety.com^
 ||fls-na.amazon.com^$third-party
 ||flurry.com^$third-party
 ||forbes.com/tracking/$xmlhttprequest
@@ -1063,6 +1066,7 @@ $removeparam=yclid
 ||paypal.com/webapps/hermes^$third-party
 ||paypalobjects.com/*/analytics.js$script,third-party
 ||pcupdater.pro^
+||pemsrv.com^
 ||pendo.io^$third-party
 ||pepperjam.com^$third-party
 ||perimeterx.com^$third-party
@@ -1108,6 +1112,7 @@ $removeparam=yclid
 ||pornhub.com^$removeparam=t
 ||pornhub.com^$removeparam=utm_campaign
 ||pornhub.com^$removeparam=utm_source
+||pornhubapparel.com^
 ||pornmd.com/widget/track$xmlhttprequest
 ||posthog.com/decide$xmlhttprequest
 ||posthog.com/e$xmlhttprequest
@@ -1487,7 +1492,6 @@ $removeparam=yclid
 ||zoom.us/wc/tracking$xmlhttprequest
 ||zoominfo.com^
 ||zopim.com^
-||pemsrv.com^
 !
 ! =============================================
 ! COSMATICS
@@ -1499,6 +1503,7 @@ chatgpt.com##.min-w-9.w-9.min-h-9.h-9.composer-btn
 chatgpt.com##a.gap-1\.5.hoverable.__menu-item.group:nth-of-type(3)
 chatgpt.com##a.hoverable.__menu-item.group:nth-of-type(4)
 chatgpt.com##div.\[\&\:nth-child\(1_of_\:has\(div\:not\(\[role\=group\]\)\)\)\]\:before\:hidden.first\:before\:hidden.before\:h-px.before\:block.before\:my-1.before\:mx-4.content-sheet\:before\:mx-6.content-sheet\:before\:my-3.before\:bg-token-border-default.\[\:not\(\:has\(div\:not\(\[role\=group\]\)\)\)\]\:hidden.empty\:hidden:nth-of-type(2) > div > div.__menu-item.group:nth-of-type(1)
+claude.ai##.bg-bg-300.pointer-events-auto.duration-150.transition-opacity.select-none.text-text-500.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
 ensuretips.com##.skpzbfbyduwytnymzrqdxnwmzmhabdgrqzlicfhnytnmvxjrniazjfmoy.cxjmofqzalhsutrqnzmwmgzfnubdriouluyzncsukzbfgdhbemhwtjfmoy
 ensuretips.com##.zzgycxlpwmxhsdtluqehphruhyewtjnffkfhdnvkvjgrywvuuthxrgw.wkrywxfwyjuanvwwzodwtozkzddmjcchoyowpqzgjfqznfzfhszzhxrgw
 f-droid.org##.banner--name__keepandroidopen.banner--danger.banner
@@ -1557,6 +1562,7 @@ vidzstream.online###overlay-enp7jh
 vidzstream.online###overlay-n4n7tj
 vidzstream.online###overlay-st2ebf
 vidzstream.online###overlay-wsyhz8
+www.alotporn.com##.col-asside
 www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
 www.apkmirror.com##div.listWidget:nth-of-type(3)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
