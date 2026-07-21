@@ -1846,3 +1846,6 @@ www.reddit.com##.inline-flex.button.justify-center.items-center.button-plain.px-
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2)
 www.reddit.com##faceplate-tracker.contents:nth-of-type(5) > .mt-0.list-none.relative
 www.reddit.com##faceplate-tracker.contents:nth-of-type(4) > .mt-0.list-none.relative > .no-underline.-outline-offset-1.py-xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
+www.reddit.com##.nd\:hidden > .rounded-none.border-none.bg-transparent.m-0.p-0
+www.reddit.com##.justify-end.flex-col.flex.grow.py-md.visible
+www.reddit.com##.nd\:w-\[54px\].nd\:invisible.nd\:h-xl.nd\:max-h-\[32px\].nd\:block
