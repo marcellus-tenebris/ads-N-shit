@@ -248,6 +248,7 @@ $removeparam=yclid
 ||adultforce.com^$third-party
 ||adultfriendfinder.com^$third-party
 ||adverti.com^$third-party
+||advertisers.truecaller.com^
 ||advertising-api-eu.amazon.com^$third-party
 ||advertising.apple.com^$third-party
 ||advice-ads.s3.amazonaws.com^$third-party
@@ -1385,6 +1386,7 @@ $removeparam=yclid
 ||udcm.yahoo.com^$third-party
 ||umeng.com^$third-party
 ||unagi.amazon.com^$third-party
+||undress.cc^
 ||undressai.tools^
 ||unpkg.com/fingerprintjs$script,third-party
 ||us.i.posthog.com^$third-party
