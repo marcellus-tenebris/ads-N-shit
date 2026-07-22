@@ -3,7 +3,7 @@
 ! Expires: 1 hour
 !
 ! THE GOYSLOP WILL KILL YOU
-! GOYS LIFES MATTERS (GLM)
+! GOYS LIFES MATTERS
 !
 ##.ad-container
 ##.adbox
@@ -192,6 +192,12 @@ $removeparam=yclid
 ||a.exoclick.com^
 ||aax.amazon-adsystem.com^$domain=imdb.com
 ||ab-tasty.com^
+||abcam.ai^
+||abcam.co^
+||abcam.com^
+||abcam.io^
+||abcam.online^
+||abcam.tv^
 ||about.google^
 ||accountkit.com^
 ||accounts.google.com^
@@ -247,6 +253,7 @@ $removeparam=yclid
 ||adultentertainmentads.com^$third-party
 ||adultforce.com^$third-party
 ||adultfriendfinder.com^$third-party
+||adultnext.com^
 ||adverti.com^$third-party
 ||advertisers.truecaller.com^
 ||advertising-api-eu.amazon.com^$third-party
@@ -354,6 +361,7 @@ $removeparam=yclid
 ||api.segment.io^$third-party
 ||app-measurement.com^
 ||app.appsflyer.com^$third-party
+||app.liner.com^
 ||appcues.com^$third-party
 ||apple.com/metrics/$xmlhttprequest
 ||apple.com^$removeparam=/^ign-itsc[a-z]+=/
@@ -387,6 +395,7 @@ $removeparam=yclid
 ||bdstatic.com^$third-party
 ||beeg.com/api/stats$xmlhttprequest
 ||behaviosec.com^
+||belacash.net^
 ||best4kpornsites.com^
 ||bestbuy.com/~~/t/track$xmlhttprequest
 ||bestbuy.com^$removeparam=acampID
@@ -416,12 +425,14 @@ $removeparam=yclid
 ||bitmedia.io^$third-party
 ||blackrock.com^
 ||blackrockinvestmentinstitute.com^
+||blaze.today^
 ||blizzard.com/analytics$xmlhttprequest
 ||blockchain-ads.com^
 ||bluekai.com^
 ||bnc.lt^
 ||boeing.com^
 ||bongacams.com/track$xmlhttprequest
+||bongacams.com^
 ||booking.com/ajax/stats$xmlhttprequest
 ||books-analytics-events.apple.com^$third-party
 ||bootstrapcdn.com/analytics^
@@ -569,6 +580,7 @@ $removeparam=yclid
 ||deepai.org^
 ||demandbase.com^
 ||demdex.net^$third-party
+||deviantartads.com^
 ||didomi.io^$third-party
 ||discord.com/api/science$xmlhttprequest
 ||discord.com/api/science^
@@ -713,6 +725,8 @@ $removeparam=yclid
 ||fp.clarity.ms^$third-party
 ||fpjs.io^$third-party
 ||fpnpmcdn.net^$third-party
+||freecamgirl.com^
+||freecamgirl.net^
 ||freehdcams.xxx^
 ||freewheel.tv^$third-party
 ||freshchat.com^$third-party
@@ -724,6 +738,7 @@ $removeparam=yclid
 ||fundingchoicesmessages.google.com^$third-party
 ||fyber.com^
 ||gainsight.com^$third-party
+||gamebol.com^
 ||gamespot.com^$removeparam=PostType
 ||gamespot.com^$removeparam=ServiceType
 ||gamespot.com^$removeparam=TheTime
@@ -745,12 +760,20 @@ $removeparam=yclid
 ||github.com/hydro_click$xmlhttprequest
 ||gitlab.com/-/metrics$xmlhttprequest
 ||go.ggtrk.com^
+||go.gsrv.co^
+||go.gsrv.com^
+||go.gsrv.dev^
+||go.gsrv.net^
+||go.gsrv.online^
+||go.gsrv.org^
+||go.gsrv^
 ||go.neo4j.com^
 ||go.traff-1.com^
 ||go.xxx-tracker.com^
 ||gog.com^$removeparam=link_id
 ||gog.com^$removeparam=track_click
 ||goldmansachs.com^
+||golovehub.com^
 ||google-analytics.com/collect$important,third-party
 ||google-analytics.com^
 ||google.com^$removeparam=gs_lp
@@ -842,6 +865,9 @@ $removeparam=yclid
 ||ixigua.com^
 ||jads.co^$third-party
 ||jarir.com/analytics$xmlhttprequest
+||jasonsavard.com^
+||jerkmate.com^
+||jerkmates.com^
 ||jetpack.wordpress.com^$third-party
 ||jpmorganchase.com^
 ||js.ad-score.com^
@@ -877,6 +903,7 @@ $removeparam=yclid
 ||letterboxd.com/s/track$xmlhttprequest
 ||lijit.com^
 ||limelight.com^$third-party
+||liner.com^
 ||linkedin.com/analytics/track$xmlhttprequest
 ||linkedin.com/impression/track$xmlhttprequest
 ||linkedin.com/learning$removeparam=u
@@ -928,6 +955,13 @@ $removeparam=yclid
 ||marketo.net^$third-party
 ||mathtag.com^
 ||matomo.org^$third-party
+||maxai.ai^
+||maxai.app^
+||maxai.co^
+||maxai.com^
+||maxai.live^
+||maxai.net^
+||maxai.org^
 ||maxmind.com^$third-party
 ||media.net^
 ||mediamath.com^
@@ -1007,6 +1041,7 @@ $removeparam=yclid
 ||notegpt.io^
 ||notes-analytics-events.apple.com^$third-party
 ||notion.so/api/v3/ping^
+||nowifigames.org^
 ||nr-data.net^$third-party
 ||nsa.gov^
 ||nsogroup.com^
@@ -1046,8 +1081,10 @@ $removeparam=yclid
 ||oracle.com^
 ||oracle.com^$third-party
 ||orange.eg/analytics$xmlhttprequest
+||orders.temp-mail.org^
 ||osano.com^$third-party
 ||osn.com/api/analytics$xmlhttprequest
+||ourdreamersai16.com^
 ||outbrain.com^
 ||outlook.live.com/mail/0/action/tracing/$xmlhttprequest
 ||outlook.live.com/owa/0/odata/v1/telemetry/$xmlhttprequest
@@ -1131,6 +1168,8 @@ $removeparam=yclid
 ||proton.me^$third-party,domain=~proton.me
 ||protonmail.com^$third-party,domain=~protonmail.com
 ||protonvpn.com^$third-party,domain=~protonvpn.com
+||pub4164.zbuef.online^
+||pub4164.zbuef^
 ||pubmatic.com^
 ||pulsepoint.com^
 ||pushcrew.com^$third-party
@@ -1179,6 +1218,7 @@ $removeparam=yclid
 ||rlcdn.com^
 ||robinhood.com/api/logging$xmlhttprequest
 ||rollbar.com^$third-party
+||rr.rndomnm.com^
 ||rtx.com^
 ||rubiconproject.com^
 ||rudderstack.com^$third-party
@@ -1221,6 +1261,7 @@ $removeparam=yclid
 ||sexflirtbox.com^
 ||sextable.com^$third-party
 ||sextracker.com^$third-party
+||sexvr.com^
 ||shahid.mbc.net/api/stats$xmlhttprequest
 ||shahid.mbc.net/statistics$xmlhttprequest
 ||shareasale.com^$third-party
@@ -1229,6 +1270,10 @@ $removeparam=yclid
 ||shop.tiktok.com/api/metrics$xmlhttprequest
 ||shopify.com/s/assets/analytics$script
 ||shutterstock.com^$removeparam=src
+||sider.ai^
+||sider.com^
+||sider.live^
+||sider.net^
 ||signal.co^$third-party
 ||signal.org/analytics$xmlhttprequest
 ||similar-web.com^$third-party
@@ -1308,6 +1353,7 @@ $removeparam=yclid
 ||tapjoy.com^$third-party
 ||target.com/apis/analytics$xmlhttprequest
 ||tawk.to^$third-party
+||tckcandy.com^
 ||te-data.net/track$xmlhttprequest
 ||teads.tv^
 ||tealiumiq.com^$third-party
@@ -1369,6 +1415,7 @@ $removeparam=yclid
 ||tumblr.com/svc/privacy/consent$xmlhttprequest
 ||tune.com^$third-party
 ||tvpage.com^$third-party
+||twinred.com^
 ||twitch.tv/api/channel/*/panels$xmlhttprequest
 ||twitch.tv/api/segment/$xmlhttprequest
 ||twitch.tv/api/v5/clips/$xmlhttprequest
@@ -1386,7 +1433,12 @@ $removeparam=yclid
 ||udcm.yahoo.com^$third-party
 ||umeng.com^$third-party
 ||unagi.amazon.com^$third-party
+||undress.app^
 ||undress.cc^
+||undress.co^
+||undress.com^
+||undress.live^
+||undress.org^
 ||undressai.tools^
 ||unpkg.com/fingerprintjs$script,third-party
 ||us.i.posthog.com^$third-party
@@ -1431,6 +1483,13 @@ $removeparam=yclid
 ||wechat.com/cgi-bin/report$xmlhttprequest
 ||weibo.com/aj/proxy$xmlhttprequest
 ||weights.gg^
+||wetab.ai^
+||wetab.co^
+||wetab.com^
+||wetab.link^
+||wetab.live^
+||wetab.net^
+||wetab.org^
 ||whatfix.com^
 ||whatruns.com^
 ||widgets.outbrain.com^
@@ -1494,85 +1553,75 @@ $removeparam=yclid
 ||zoom.us/wc/tracking$xmlhttprequest
 ||zoominfo.com^
 ||zopim.com^
-||golovehub.com^
-||undress.app^
-||undress.com^
-||undress.co^
-||undress.org^
-||undress.live^
-||twinred.com^
-||belacash.net^
-||jerkmate.com^
-||jerkmates.com^
-||adultnext.com^
-||orders.temp-mail.org^
-||deviantartads.com^
-||pub4164.zbuef^
-||pub4164.zbuef.online^
-||ourdreamersai16.com^
-||tckcandy.com^
-||go.gsrv^
-||go.gsrv.dev^
-||go.gsrv.com^
-||go.gsrv.net^
-||go.gsrv.online^
-||go.gsrv.co^
-||go.gsrv.org^
-||bongacams.com^
-||sexvr.com^
-||rr.rndomnm.com^
-||jasonsavard.com^
-||gamebol.com^
-||nowifigames.org^
-||blaze.today^
-||wetab.link^
-||wetab.com^
-||wetab.org^
-||wetab.net^
-||wetab.live^
-||wetab.co^
-||wetab.ai^
-||sider.ai^
-||sider.com^
-||sider.net^
-||sider.live^
-||liner.com^
-||app.liner.com^
-||maxai.co^
-||maxai.com^
-||maxai.net^
-||maxai.ai^
-||maxai.org^
-||maxai.live^
-||maxai.app^
 !
 ! =============================================
 ! COSMATICS
 ! =============================================
 !
 12vids.com##.table
+abbdsm.com##.close-play__container
+abbdsm.com##.video__wrapper > h2
+abebony.com##.close-play__container
+abebony.com##.nopop.jw-channel.jw-reset > .jw-reset
+abebony.com##.right
+abebony.com##.unlock-full-btn
+abebony.com##.videoplayer-container > div > .banner__container
+abjav.com##.close-play__container
+abjav.com##.left > .banner__container
+ablesbian.com##.app__container > div
+ablesbian.com##.btns > .livecam-btn
+ablesbian.com##.close-play__container
+ablesbian.com##.footer__container
+ablesbian.com##.jw-custom-btn.jw-related-toggle-button
+ablesbian.com##.jw-reset-text.jw-title
+ablesbian.com##.right > section
+ablesbian.com##.unlock-full-btn
+ablesbian.com##.videoplayer-container > .banner__container
+ablesbian.com##button.header__btn:nth-of-type(2)
+anal.media##.desktop.homepageCreative
+bdsmstreak.com##.px-4.py-1\.5.text-sm.text-center.text-white.bg-brand-600
+bdsmstreak.com##.sm\:text-sm.text-\[0\.8rem\].dark\:ring-brand-800\/50.ring-brand-200.ring-1.dark\:to-pink-900\/20.dark\:from-brand-900\/30.to-pink-50.from-brand-50.bg-gradient-to-r.rounded-lg.py-2.px-3.gap-2.items-center.flex.mb-3
 chatgpt.com##.disabled\:opacity-30.disabled\:text-\[\#f4f4f4\].hover\:opacity-70.transition-colors.rounded-full.justify-center.items-center.w-9.h-9.flex.relative.keyboard-focused\:focus-ring.text-submit-btn-text.composer-submit-button-color
 chatgpt.com##.min-w-9.w-9.min-h-9.h-9.composer-btn
 chatgpt.com##a.gap-1\.5.hoverable.__menu-item.group:nth-of-type(3)
 chatgpt.com##a.hoverable.__menu-item.group:nth-of-type(4)
 chatgpt.com##div.\[\&\:nth-child\(1_of_\:has\(div\:not\(\[role\=group\]\)\)\)\]\:before\:hidden.first\:before\:hidden.before\:h-px.before\:block.before\:my-1.before\:mx-4.content-sheet\:before\:mx-6.content-sheet\:before\:my-3.before\:bg-token-border-default.\[\:not\(\:has\(div\:not\(\[role\=group\]\)\)\)\]\:hidden.empty\:hidden:nth-of-type(2) > div > div.__menu-item.group:nth-of-type(1)
 claude.ai##.bg-bg-300.pointer-events-auto.duration-150.transition-opacity.select-none.text-text-500.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
+claude.ai##.mt-4.px-2.flex-col.flex > .duration-150.ease-out.transition-opacity.opacity-0.justify-between.items-center.flex
 ensuretips.com##.skpzbfbyduwytnymzrqdxnwmzmhabdgrqzlicfhnytnmvxjrniazjfmoy.cxjmofqzalhsutrqnzmwmgzfnubdriouluyzncsukzbfgdhbemhwtjfmoy
 ensuretips.com##.zzgycxlpwmxhsdtluqehphruhyewtjnffkfhdnvkvjgrywvuuthxrgw.wkrywxfwyjuanvwwzodwtozkzddmjcchoyowpqzgjfqznfzfhszzhxrgw
 f-droid.org##.banner--name__keepandroidopen.banner--danger.banner
 f-droid.org##.download-and-screenshot
 f-droid.org##div.sidebar-widget:nth-of-type(3)
+fapello.com##.uk-visible\@l.my-2.text-sm.text-center.space-x-3.font-semibold.flex.capitalize
+fapello.com##div.p-5.space-x-5.flex:nth-of-type(5)
+fapello.com##div.p-5.space-x-5.flex:nth-of-type(6)
 fast.com##.language-selector-container
 fast.com##.powered-by-container
 fast.com##.share-container
 fast.com##.your-speed-message > .localized
+fleshed.com##.right_background
+fleshed.com##div.related_list_container-thirds.related_list_container:nth-of-type(3) > .related_list
+fyptt.to##.comment-approval-notice
+fyptt.to##.comment-respond
 fyptt.to##.fl-row-align-center.fl-row-default-height.fl-node-5f719fef28ed8.fl-row-bg-color.fl-row-full-width.fl-row > .fl-row-content-wrap
+fyptt.to##[href="https://www.ourdreamersai16.com/81D5R3H/3QQG7/"]
+girlawy.com###primary-menu
 girlawy.com###telegram-popup-overlay
+girlawy.com##.clearfix.site-footer
+girlawy.com##.comments-area.fbox
 girlawy.com##.vip-btn
+girlawy.com##p:nth-of-type(3)
+girlawy.com##p:nth-of-type(4)
 go4news.online##.popSc
+heavyfetish.com##.footer
 himovies.sx##.mb-3.alert
 leakvids.com##.table
+luluvdo.com##.footer
+luluvdo.com##.header
 mcpelife.com##.app-panel-wrap
+mygrowl.com###list_videos_related_videos_filter_list
+mygrowl.com##.sidebar
 newsvix.online##.popSc
 noodlemagazine.com##.footer
 noodlemagazine.com##.particles-js-canvas-el
@@ -1594,8 +1643,11 @@ search.brave.com##li.svelte-l0weru.tab-item:nth-of-type(4)
 search.brave.com##li.svelte-l0weru.tab-item:nth-of-type(4) > .svelte-l0weru.desktop-default-semibold
 search.brave.com##li.svelte-l0weru.tab-item:nth-of-type(6) > .svelte-l0weru.desktop-default-semibold
 search.brave.com##li.svelte-l0weru.tab-item:nth-of-type(7)
+spankbang.com##.links
 spankbang.com##.p-4.bg-surface-secondary.rounded-lg.justify-between.flex-col.h-full.flex
+spankbang.com##.upload
 spankbang.com##.xl\:py-4.xl\:px-10.p-4.bg-surface-tertiary.gap-4.flex-col.flex
+spankbang.com##div.my-6 > .text-body-md.text-secondary
 temp-mail.org##.bottom-seo-text
 temp-mail.org##.goPremiumBtn.goPremium.btn-outline-dark.tm-btn
 temp-mail.org##.hidden-xs-sm.align-v-mid.col > .btn-appstore
@@ -1605,9 +1657,13 @@ temp-mail.org##.popover-qr.btn-l-gary.icon-btn.btn-rds
 temp-mail.org##.section-populer-article
 temp-mail.org##.temp-emailbox-text
 trips.newsvix.online##.popSc
+ukdevilz.com##.footer
+vidara.to##.backdrop-blur-md.bg-\[\#0c0d12\]\/90.border-white\/\[0\.06\].border-b.z-30.top-0.sticky
+vidara.to##.py-10.border-white\/\[0\.06\].border-t
 vidara.to##.text-center.p-7.rounded-xl.mb-5.relative
 vidzstream.com###overlay-h5s7tz
 vidzstream.com###overlay-ottaap
+vidzstream.com###overlay-qvtpoc
 vidzstream.com###overlay-tx6hn3
 vidzstream.online###overlay-77r5l0
 vidzstream.online###overlay-8zw7ct
@@ -1615,42 +1671,68 @@ vidzstream.online###overlay-enp7jh
 vidzstream.online###overlay-n4n7tj
 vidzstream.online###overlay-st2ebf
 vidzstream.online###overlay-wsyhz8
+wowne.ws###gridshow-copyright-area
+wowne.ws###gridshow-secondary-navigation
+wowne.ws##.code-block-9.code-block
+wowne.ws##.gridshow-box.comments-area
+wowne.ws##.gridshow-clearfix.gridshow-sidebar-widget-areas.gridshow-sidebar-one-wrapper
+wowne.ws##.gridshow-container.gridshow-copyright-area-inside
+wowne.ws##.gridshow-entry-meta-single
+wowne.ws##center
 www.alotporn.com##.col-asside
+www.analdin.xxx##.container > div > p
 www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
 www.apkmirror.com##div.listWidget:nth-of-type(3)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
 www.aznude.com##.native-footer-mobile
+www.cfnmtoob.com##.col.aside
+www.cfnmtoob.com##.footer
+www.cfnmtoob.com##.page-main > .inline-aff-sec
+www.deviantart.com##.D6qOaV > .BMczPF.DxHJMm.KcCp_d.gHe8Dc.oNWMr2.qlAJA0.reset-link
+www.deviantart.com##.D6qOaV > .MUL49O.zGd3qo
+www.deviantart.com##.DuRxKc
+www.deviantart.com##.IAYubw.RaRPpo.GpTSTX.qTQCI_.WlC1rB
+www.deviantart.com##.IAYubw.RaRPpo.GpTSTX.qTQCI_.x9vAFG.WlC1rB
+www.deviantart.com##.K_z_y4.CYG14H
+www.deviantart.com##.MJROuc
 www.deviantart.com##.V8qzlV.DuRxKc
+www.deviantart.com##.WBKYLB.MUL49O.odC8_l
+www.deviantart.com##.YIXsZw.dgMz3k.XpwMfT.qlAJA0.reset-link
+www.deviantart.com##.ajOBFk > .MUL49O.zGd3qo
+www.deviantart.com##.oxV3Ej
+www.deviantart.com##.qQ6xGi.JVUoxs.m4QFSe
+www.deviantart.com##.tq6fkA.zGd3qo.hRCmWj.o7eh7N.MhsiA6.reset-button
+www.deviantart.com##div.jI6fQl.IM6IXh:nth-of-type(3) > span.boBk3j:nth-of-type(1)
+www.deviantart.com##div.jI6fQl.IM6IXh:nth-of-type(3) > span.boBk3j:nth-of-type(2) > .z2zAry
+www.deviantart.com##div.t6vNBi:nth-of-type(2)
+www.deviantart.com##div:nth-of-type(5) > .t6vNBi > div:nth-of-type(4)
+www.deviantart.com##span.VZtP20.boBk3j > .z2zAry
 www.eporner.com###copyright
 www.eporner.com###foot
 www.eporner.com###headmenu
+www.eporner.com###mainBlogPosts
+www.eporner.com##.catheadtext
 www.eporner.com##.footer-text
-claude.ai##.mt-4.px-2.flex-col.flex > .duration-150.ease-out.transition-opacity.opacity-0.justify-between.items-center.flex
+www.eporner.com##.open.catheadtext
+www.eporner.com##div.toptopbel2:nth-of-type(9)
+www.erogarga.com###site-navigation
+www.erogarga.com##[href="https://escortsites.org/"]
+www.erogarga.com##[href="https://pornabc.com/"]
+www.erogarga.com##[href="https://tsthots.com/"]
 www.erogarga.com##[href="https://ultrathots.com/"]
 www.erogarga.com##[href="https://undressai.tools"]
-www.erogarga.com##[href="https://escortsites.org/"]
-www.erogarga.com##[href="https://tsthots.com/"]
-www.erogarga.com##[href="https://pornabc.com/"]
-www.erogarga.com###site-navigation
-xhamster3.com##.xp-subscribe__logo
-xhamster3.com##.diamondButton-2252c.buttons-2252c.button-cdbbb.button-7e7d1.extra-indigo-64d24.medium-64d24.root-64d24
-xhamster3.com##.widthWrap-cb57f
-xhamster3.com##.xh-multiline-editable.textarea.inputAreaInner-77ac5
-xhamster3.com##.header-preference-hint.preference-hint.straight.hint-1495d
-xhamster3.com##.login-section
-xhamster3.com##div.video-thumb.thumb-list__item:nth-of-type(24)
-xhamster3.com##div.container-64b3c:nth-of-type(2)
-xhamster3.com##.link-3682d.primary-48288.root-48288
-xhamster.com##.diamondButton-2252c.buttons-2252c.button-cdbbb.button-7e7d1.extra-indigo-64d24.medium-64d24.root-64d24
-xhamster.com##.xp-subscribe__logo
-xhamster.com##.xh-multiline-editable.textarea.inputAreaInner-77ac5
 www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 www.facebook.com##.x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5 > .x1y1aw1k > div:nth-of-type(1)
 www.facebook.com##.xf7dkkf.x1l90r2v.xv54qhq.xyamay9.x2lah0s
 www.facebook.com##.xti2d7y > li > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
 www.facebook.com##.xz9dl7a.xf7dkkf.xv54qhq.x1a8lsjc.x1a02dak.x78zum5.x6s0dn4
+www.facebook.com##div.x1xegmmw.xl56j7k.x5yr21d.x78zum5.x6s0dn4:nth-of-type(1) > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-span
+www.facebook.com##div.x1xegmmw.xl56j7k.x5yr21d.x78zum5.x6s0dn4:nth-of-type(2)
 www.facebook.com##footer > .xi81zsa.xo1l8bm.x1sibtaa.x1nxh6w3.x3x7a5m.x1tu3fi.x1943h6x.x1fgarty.x1cpjm7i.x1gmr53x.xhkezso.x1s928wv.x1lliihq.x10flsy6.x1vvkbs.x13faqbe.xeuugli.x193iq5w
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(1) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(10) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(11) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(12) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(13) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(14) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(16) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
@@ -1659,8 +1741,12 @@ www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.x
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(19) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(2) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(20) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(3) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(4) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(5) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(6) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(7) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl
+www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(8) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(9) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(5)
 www.google.com##.AghGtd.KxwPGc
@@ -1670,14 +1756,7 @@ www.google.com##.YNk70c.dc8jac.f6F9Be
 www.google.com##.iThwld.T14B5e.FPdoLc > center
 www.google.com##.iTjxkf.KxwPGc > a.pHiOh
 www.google.com##.uU7dJb
-www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
-www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
-www.youtube.com##.ytSmartImationsContent > ytd-button-renderer > yt-button-shape > .ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextTonal.ytSpecButtonShapeNextHost
-ukdevilz.com##.footer
-www.cfnmtoob.com##.col.aside
-||www.cfnmtoob.com/images/cfnmcambottom.png$image
-www.cfnmtoob.com##.page-main > .inline-aff-sec
-www.cfnmtoob.com##.footer
+www.heavy-r.com##.hd_bar_anchor_text
 www.heavy-r.com##.hidden-xs.actions
 www.heavy-r.com##div.col-md-3.col-sm-4.col-xs-6.col-xxs-12:nth-of-type(8)
 www.heavy-r.com##div.col-md-3.col-sm-4.col-xs-6.col-xxs-12:nth-of-type(9)
@@ -1697,31 +1776,35 @@ www.lyricsify.com##.footer
 www.opensubtitles.org###ray-announcement-host
 www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
 www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN > div
-www.reddit.com##.gap-xs.items-center.flex-wrap.gap-2xs.flex.list-none.m-0.p-0.text-caption-1.text-neutral-content-weak
-www.speedtest.net##.connection-component-container > .result-data
-vidzstream.com###overlay-qvtpoc
-luluvdo.com##.footer
-luluvdo.com##.header
-vidara.to##.py-10.border-white\/\[0\.06\].border-t
-vidara.to##.backdrop-blur-md.bg-\[\#0c0d12\]\/90.border-white\/\[0\.06\].border-b.z-30.top-0.sticky
-fyptt.to##.comment-respond
-fyptt.to##.comment-approval-notice
-fyptt.to##[href="https://www.ourdreamersai16.com/81D5R3H/3QQG7/"]
-www.rainblow.xxx##.fluid_start_container
-www.rainblow.xxx##.fluid_button_download.fluid_control_bar_link.fluid_button.fluid_control_bar_link_holder > .fluid_control_bar_link
-www.rainblow.xxx##.zpot-horizontal-img > center
+www.pornawy.com##.table
 www.rainblow.xxx##.container > center
+www.rainblow.xxx##.fade_in.text_link_holder
+www.rainblow.xxx##.fluid_button_download.fluid_control_bar_link.fluid_button.fluid_control_bar_link_holder > .fluid_control_bar_link
+www.rainblow.xxx##.fluid_start_container
 www.rainblow.xxx##.footer
 www.rainblow.xxx##.footer-margin
 www.rainblow.xxx##.hqb-topbar
-www.rainblow.xxx##.zblurb.table
-www.rainblow.xxx##.fade_in.text_link_holder
 www.rainblow.xxx##.video-holder > center
+www.rainblow.xxx##.xpot-horizontal-b.xpot-horizontal
+www.rainblow.xxx##.zblurb.table
+www.rainblow.xxx##.zpot-horizontal-img > center
+www.rainblow.xxx##li:nth-of-type(7)
 www.rainblow.xxx##li:nth-of-type(8)
 www.rainblow.xxx##li:nth-of-type(9)
-www.rainblow.xxx##li:nth-of-type(7)
-www.rainblow.xxx##.xpot-horizontal-b.xpot-horizontal
-heavyfetish.com##.footer
+www.reddit.com##.gap-xs.items-center.flex-wrap.gap-2xs.flex.list-none.m-0.p-0.text-caption-1.text-neutral-content-weak
+www.reddit.com##.inline-flex.button.justify-center.items-center.button-plain.px-\[calc\(var\(--rem12\)-var\(--button-border-width\,0px\)\)\].button-medium.active\:no-underline.hover\:no-underline.no-underline
+www.reddit.com##.justify-end.flex-col.flex.grow.py-md.visible
+www.reddit.com##.left-nav-create-community-button.mt-0.list-none.relative > .bg-transparent.s\:rounded-2.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
+www.reddit.com##.nd\:hidden > .rounded-none.border-none.bg-transparent.m-0.p-0
+www.reddit.com##.nd\:visible > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > .mt-0.list-none.relative > .s\:rounded-2.bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
+www.reddit.com##.nd\:w-\[54px\].nd\:invisible.nd\:h-xl.nd\:max-h-\[32px\].nd\:block
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > faceplate-expandable-section-helper:nth-of-type(1) > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative > .s\:rounded-2.bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(1)
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(2)
+www.reddit.com##faceplate-tracker.contents:nth-of-type(4) > .mt-0.list-none.relative > .no-underline.-outline-offset-1.py-xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
+www.reddit.com##faceplate-tracker.contents:nth-of-type(5) > .mt-0.list-none.relative
+www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2)
+www.speedtest.net##.connection-component-container > .result-data
 www.speedtest.net##.footer
 www.speedtest.net##.js-data-ip.result-data
 www.speedtest.net##.js-sponsor-name.result-data
@@ -1737,13 +1820,18 @@ www.storysaver.net###nav
 www.storysaver.net###yuk
 www.storysaver.net##h1
 www.storysaver.net##section.special.main:nth-of-type(3)
+www.tnaflix.com##footer
 www.xrares.com##.privMSG.text-danger
 www.xvideos2.com##.tb_full_init.after-16.after-15.thumb-block.thumb-nat-exo-ad.thumb-nat-ad.thumb-ad
 www.xvideos2.com##body > div:nth-of-type(4)
 www.youtube.com###country-code
+www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
+www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.ab_pl_man, false)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, false)
+www.youtube.com##.ytSmartImationsContent > ytd-button-renderer > yt-button-shape > .ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextTonal.ytSpecButtonShapeNextHost
+x-x-x.tube###inpage-ad-container
 x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-1kqtdi0.css-175oi2r
 x.com##[role="main"] [aria-label="Home timeline"] [href$="/header_photo"]:upward(2):style(max-width: 999px !important)
 x.com##[role="main"] [aria-label="Home timeline"] section:upward(1):style(max-width: 999px !important)
@@ -1752,11 +1840,29 @@ x.com##[role="main"] [aria-label="Home timeline"]:upward(5) .r-113js5t:style(wid
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
+xhamster.com##.diamondButton-2252c.buttons-2252c.button-cdbbb.button-7e7d1.extra-indigo-64d24.medium-64d24.root-64d24
+xhamster.com##.header-preference-hint.preference-hint.straight.hint-1495d
+xhamster.com##.login-section
+xhamster.com##.right.top-menu__side-group
+xhamster.com##.widthWrap-cb57f
 xhamster.com##.withShadow-35a92.popup-35a92
+xhamster.com##.xh-multiline-editable.textarea.inputAreaInner-77ac5
+xhamster.com##.xp-subscribe__logo
+xhamster.com##div.container-64b3c:nth-of-type(10)
+xhamster3.com##.diamondButton-2252c.buttons-2252c.button-cdbbb.button-7e7d1.extra-indigo-64d24.medium-64d24.root-64d24
+xhamster3.com##.header-preference-hint.preference-hint.straight.hint-1495d
+xhamster3.com##.link-3682d.primary-48288.root-48288
+xhamster3.com##.login-section
+xhamster3.com##.widthWrap-cb57f
+xhamster3.com##.xh-multiline-editable.textarea.inputAreaInner-77ac5
+xhamster3.com##.xp-subscribe__logo
+xhamster3.com##div.container-64b3c:nth-of-type(2)
+xhamster3.com##div.video-thumb.thumb-list__item:nth-of-type(24)
 xhopen.com##.login-section
 xhopen.com##.newNav-3682d.right.top-menu__side-group
 xhopen.com##.video-thumb__moment.video-thumb.thumb-list__item.item-19ee5
 xhopen.com##.widthWrap-cb57f
+xhopen.com##.xh-multiline-editable.textarea.inputAreaInner-77ac5
 xhopen.com##div.container-64b3c:nth-of-type(2)
 xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(19)
 xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(50)
@@ -1765,91 +1871,4 @@ ytboob.com###block-19
 ytboob.com##.flex-container-desktop
 ||cdn-ilaobab.nitrocdn.com/lePUICgBcWyaBxcotrhntvbRsPrKoqSc/assets/images/optimized/rev-5d4d543/girlawy.com/wp-content/uploads/download*.png$image
 ||girlawy.com/wp-content/uploads/download*.png$image
-fapello.com##.uk-visible\@l.my-2.text-sm.text-center.space-x-3.font-semibold.flex.capitalize
-fapello.com##div.p-5.space-x-5.flex:nth-of-type(5)
-fapello.com##div.p-5.space-x-5.flex:nth-of-type(6)
-spankbang.com##div.my-6 > .text-body-md.text-secondary
-spankbang.com##.upload
-spankbang.com##.links
-xhamster.com##.login-section
-xhamster.com##div.container-64b3c:nth-of-type(10)
-xhamster.com##.header-preference-hint.preference-hint.straight.hint-1495d
-xhamster.com##.right.top-menu__side-group
-xhamster.com##.widthWrap-cb57f
-xhopen.com##.xh-multiline-editable.textarea.inputAreaInner-77ac5
-www.eporner.com###mainBlogPosts
-www.eporner.com##div.toptopbel2:nth-of-type(9)
-www.eporner.com##.open.catheadtext
-www.eporner.com##.catheadtext
-girlawy.com##.comments-area.fbox
-girlawy.com##.clearfix.site-footer
-girlawy.com##p:nth-of-type(4)
-girlawy.com###primary-menu
-girlawy.com##p:nth-of-type(3)
-www.pornawy.com##.table
-wowne.ws##.gridshow-container.gridshow-copyright-area-inside
-wowne.ws###gridshow-secondary-navigation
-wowne.ws###gridshow-copyright-area
-wowne.ws##center
-wowne.ws##.code-block-9.code-block
-wowne.ws##.gridshow-entry-meta-single
-wowne.ws##.gridshow-clearfix.gridshow-sidebar-widget-areas.gridshow-sidebar-one-wrapper
-wowne.ws##.gridshow-box.comments-area
-abbdsm.com##.close-play__container
-abbdsm.com##.video__wrapper > h2
-www.analdin.xxx##.container > div > p
-bdsmstreak.com##.sm\:text-sm.text-\[0\.8rem\].dark\:ring-brand-800\/50.ring-brand-200.ring-1.dark\:to-pink-900\/20.dark\:from-brand-900\/30.to-pink-50.from-brand-50.bg-gradient-to-r.rounded-lg.py-2.px-3.gap-2.items-center.flex.mb-3
-bdsmstreak.com##.px-4.py-1\.5.text-sm.text-center.text-white.bg-brand-600
-fleshed.com##div.related_list_container-thirds.related_list_container:nth-of-type(3) > .related_list
-fleshed.com##.right_background
-www.heavy-r.com##.hd_bar_anchor_text
-mygrowl.com###list_videos_related_videos_filter_list
-mygrowl.com##.sidebar
-www.tnaflix.com##footer
-x-x-x.tube###inpage-ad-container
-abebony.com##.close-play__container
-abebony.com##.right
-abebony.com##.videoplayer-container > div > .banner__container
-abebony.com##.unlock-full-btn
-abebony.com##.nopop.jw-channel.jw-reset > .jw-reset
-abjav.com##.close-play__container
-abjav.com##.left > .banner__container
-www.deviantart.com##.K_z_y4.CYG14H
-www.deviantart.com##.YIXsZw.dgMz3k.XpwMfT.qlAJA0.reset-link
-www.deviantart.com##.ajOBFk > .MUL49O.zGd3qo
-www.deviantart.com##.tq6fkA.zGd3qo.hRCmWj.o7eh7N.MhsiA6.reset-button
-www.deviantart.com##.qQ6xGi.JVUoxs.m4QFSe
-www.deviantart.com##.WBKYLB.MUL49O.odC8_l
-www.deviantart.com##div.t6vNBi:nth-of-type(2)
-www.deviantart.com##.IAYubw.RaRPpo.GpTSTX.qTQCI_.x9vAFG.WlC1rB
-www.deviantart.com##.IAYubw.RaRPpo.GpTSTX.qTQCI_.WlC1rB
-www.deviantart.com##.D6qOaV > .MUL49O.zGd3qo
-www.deviantart.com##.D6qOaV > .BMczPF.DxHJMm.KcCp_d.gHe8Dc.oNWMr2.qlAJA0.reset-link
-www.deviantart.com##div.jI6fQl.IM6IXh:nth-of-type(3) > span.boBk3j:nth-of-type(1)
-www.deviantart.com##div.jI6fQl.IM6IXh:nth-of-type(3) > span.boBk3j:nth-of-type(2) > .z2zAry
-www.deviantart.com##span.VZtP20.boBk3j > .z2zAry
-www.deviantart.com##.DuRxKc
-www.deviantart.com##div:nth-of-type(5) > .t6vNBi > div:nth-of-type(4)
-www.deviantart.com##.MJROuc
-www.deviantart.com##.oxV3Ej
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(1) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(3) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(4) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(8) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(12) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(7) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl
-www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(10) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl
-www.facebook.com##div.x1xegmmw.xl56j7k.x5yr21d.x78zum5.x6s0dn4:nth-of-type(2)
-www.facebook.com##div.x1xegmmw.xl56j7k.x5yr21d.x78zum5.x6s0dn4:nth-of-type(1) > .x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x.x1vvkbs.x16tdsg8.x1hl2dhg.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-span
-www.reddit.com##.nd\:visible > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > .mt-0.list-none.relative > .s\:rounded-2.bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
-www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > faceplate-expandable-section-helper:nth-of-type(1) > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative > .s\:rounded-2.bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
-www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(2)
-www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(1)
-www.reddit.com##.left-nav-create-community-button.mt-0.list-none.relative > .bg-transparent.s\:rounded-2.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
-www.reddit.com##.inline-flex.button.justify-center.items-center.button-plain.px-\[calc\(var\(--rem12\)-var\(--button-border-width\,0px\)\)\].button-medium.active\:no-underline.hover\:no-underline.no-underline
-www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2)
-www.reddit.com##faceplate-tracker.contents:nth-of-type(5) > .mt-0.list-none.relative
-www.reddit.com##faceplate-tracker.contents:nth-of-type(4) > .mt-0.list-none.relative > .no-underline.-outline-offset-1.py-xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
-www.reddit.com##.nd\:hidden > .rounded-none.border-none.bg-transparent.m-0.p-0
-www.reddit.com##.justify-end.flex-col.flex.grow.py-md.visible
-www.reddit.com##.nd\:w-\[54px\].nd\:invisible.nd\:h-xl.nd\:max-h-\[32px\].nd\:block
+||www.cfnmtoob.com/images/cfnmcambottom.png$image
