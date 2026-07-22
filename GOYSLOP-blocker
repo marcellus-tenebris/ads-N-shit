@@ -1,5 +1,10 @@
 ! Title: GOYSLOP-Blocker
+! Description: Personal uBO for blocking GOYSLOB that's been feed to us GOYS
 ! Expires: 1 hour
+!
+! THE GOYSLOP WILL KILL YOU
+! GOYS LIFES MATTERS
+!
 ##.ad-container
 ##.adbox
 ##.ads
@@ -369,6 +374,7 @@ $removeparam=yclid
 ||arabclicks.com^$third-party
 ||arabicads.com^$third-party
 ||arkoselabs.com^$third-party
+||as.fontheader.com^
 ||asana.com/api/1.0/track^
 ||atdmt.com^$third-party
 ||atinternet.com^$third-party
@@ -455,6 +461,7 @@ $removeparam=yclid
 ||camjke.com^
 ||camsoda.com/api/v1/track$xmlhttprequest
 ||candiru.com^
+||candyai.gg^
 ||canva.com/api/analytics^
 ||casalemedia.com^
 ||ccbot.org^
@@ -565,6 +572,7 @@ $removeparam=yclid
 ||crwdcntrl.net^$third-party
 ||crxmouse.com^
 ||cryptoloot.pro^
+||cumeroplay.com^
 ||data.ads.oppomobile.com^$third-party
 ||data.mistat.india.xiaomi.com^$third-party
 ||data.mistat.rus.xiaomi.com^$third-party
@@ -747,6 +755,13 @@ $removeparam=yclid
 ||geo.yahoo.com^$third-party
 ||geolocation-db.com^$third-party
 ||get.adobe.com^
+||ggtrk.ai^
+||ggtrk.co^
+||ggtrk.com^
+||ggtrk.dev^
+||ggtrk.net^
+||ggtrk.online^
+||ggtrk.org^
 ||gigya-api.com^$third-party
 ||gigya.com^$third-party
 ||github.com/_private/browser/errors$xmlhttprequest
@@ -754,13 +769,6 @@ $removeparam=yclid
 ||github.com/events$xmlhttprequest
 ||github.com/hydro_click$xmlhttprequest
 ||gitlab.com/-/metrics$xmlhttprequest
-||ggtrk.com^
-||ggtrk.net^
-||ggtrk.co^
-||ggtrk.dev^
-||ggtrk.online^
-||ggtrk.org^
-||ggtrk.ai^
 ||go.ggtrk.com^
 ||go.gsrv.co^
 ||go.gsrv.com^
@@ -769,12 +777,12 @@ $removeparam=yclid
 ||go.gsrv.online^
 ||go.gsrv.org^
 ||go.gsrv^
+||go.mavrtracktor.com^
 ||go.neo4j.com^
-||neo4j.com^
+||go.pornpics.chat^
 ||go.traff-1.com^
-||traff-1.com^
+||go.xliiirdr.com^
 ||go.xxx-tracker.com^
-||xxx-tracker.com^
 ||gog.com^$removeparam=link_id
 ||gog.com^$removeparam=track_click
 ||goldmansachs.com^
@@ -874,6 +882,7 @@ $removeparam=yclid
 ||jerkmate.com^
 ||jerkmates.com^
 ||jetpack.wordpress.com^$third-party
+||join.teamskeet.com^
 ||jpmorganchase.com^
 ||js.ad-score.com^
 ||js.stripe.com/v3/fingerprinted$script,third-party
@@ -960,6 +969,7 @@ $removeparam=yclid
 ||marketo.net^$third-party
 ||mathtag.com^
 ||matomo.org^$third-party
+||mavrtracktor.com^
 ||maxai.ai^
 ||maxai.app^
 ||maxai.co^
@@ -1018,6 +1028,7 @@ $removeparam=yclid
 ||nansen.ai^$third-party
 ||nativo.com^
 ||naughtyads.com^$third-party
+||neo4j.com^
 ||netflix.com/api/shakti/$xmlhttprequest
 ||netflix.com/ichnaea/$xmlhttprequest
 ||netflix.com^$removeparam=/^jb[a-z]*?=/
@@ -1238,6 +1249,7 @@ $removeparam=yclid
 ||samsungads.com^$third-party
 ||saudiarabia-ads.com^$third-party
 ||saudinet.sa^$third-party
+||savedvids.com^
 ||sber.ru^
 ||sberbank.ru^
 ||sbrf.ru^
@@ -1272,6 +1284,7 @@ $removeparam=yclid
 ||shareasale.com^$third-party
 ||sharethis.com^$third-party
 ||sharethrough.com^
+||shesfreakylive.com^
 ||shop.tiktok.com/api/metrics$xmlhttprequest
 ||shopify.com/s/assets/analytics$script
 ||shutterstock.com^$removeparam=src
@@ -1364,6 +1377,7 @@ $removeparam=yclid
 ||tealiumiq.com^$third-party
 ||teams.microsoft.com/api/mt/$xmlhttprequest
 ||teams.microsoft.com/api/telemetry/$xmlhttprequest
+||teamskeet.com^
 ||techcrunch.com^$removeparam=guccounter
 ||techcrunch.com^$removeparam=guce_referrer
 ||techcrunch.com^$removeparam=guce_referrer_sig
@@ -1397,6 +1411,7 @@ $removeparam=yclid
 ||toutiao.com^
 ||tpc.googlesyndication.com^$third-party
 ||tr.snapchat.com^$third-party
+||traff-1.com^
 ||traffic-media.co^$third-party
 ||trafficfactory.biz^$third-party
 ||trafficforce.com^$third-party
@@ -1523,14 +1538,17 @@ $removeparam=yclid
 ||xhamster.com/x-stat$xmlhttprequest
 ||xhamster.com^$removeparam=referrer
 ||xhamster.com^$removeparam=utm_source
+||xliiirdr.com^
 ||xnxx.com/stats$xmlhttprequest
 ||xnxx.com/track$xmlhttprequest
+||xujangram.com^
 ||xvideos-red.com/account/log$xmlhttprequest
 ||xvideos.com/account/log$xmlhttprequest
 ||xvideos.com/ping$xmlhttprequest
 ||xvideos.com/track/$xmlhttprequest
 ||xvideos.com^$removeparam=sub
 ||xvideos.com^$removeparam=sub2
+||xxx-tracker.com^
 ||yandex.*^$removeparam=lr
 ||yandex.*^$removeparam=redircnt
 ||yastatic.net^
@@ -1558,20 +1576,10 @@ $removeparam=yclid
 ||zoom.us/wc/tracking$xmlhttprequest
 ||zoominfo.com^
 ||zopim.com^
-||xujangram.com^
-||shesfreakylive.com^
-||as.fontheader.com^
-||go.mavrtracktor.com^
-||mavrtracktor.com^
-||go.xliiirdr.com^
-||xliiirdr.com^
-||teamskeet.com^
-||join.teamskeet.com^
-||candyai.gg^
-||cumeroplay.com^
-||go.pornpics.chat^
 !
-! ======================= !
+! =============================================
+! COSMATICS
+! =============================================
 !
 12vids.com##.table
 abbdsm.com##.close-play__container
@@ -1594,6 +1602,7 @@ ablesbian.com##.unlock-full-btn
 ablesbian.com##.videoplayer-container > .banner__container
 ablesbian.com##button.header__btn:nth-of-type(2)
 anal.media##.desktop.homepageCreative
+around.xxx##.mt-\[-8px\].text-right.text-xs
 bdsmstreak.com##.px-4.py-1\.5.text-sm.text-center.text-white.bg-brand-600
 bdsmstreak.com##.sm\:text-sm.text-\[0\.8rem\].dark\:ring-brand-800\/50.ring-brand-200.ring-1.dark\:to-pink-900\/20.dark\:from-brand-900\/30.to-pink-50.from-brand-50.bg-gradient-to-r.rounded-lg.py-2.px-3.gap-2.items-center.flex.mb-3
 chatgpt.com##.disabled\:opacity-30.disabled\:text-\[\#f4f4f4\].hover\:opacity-70.transition-colors.rounded-full.justify-center.items-center.w-9.h-9.flex.relative.keyboard-focused\:focus-ring.text-submit-btn-text.composer-submit-button-color
@@ -1631,15 +1640,19 @@ girlawy.com##p:nth-of-type(4)
 go4news.online##.popSc
 heavyfetish.com##.footer
 himovies.sx##.mb-3.alert
+inporn.com##.btn-play
 leakvids.com##.table
 luluvdo.com##.footer
 luluvdo.com##.header
+luluvid.com##.footer
+luluvid.com##.header
 mcpelife.com##.app-panel-wrap
 mygrowl.com###list_videos_related_videos_filter_list
 mygrowl.com##.sidebar
 newsvix.online##.popSc
 noodlemagazine.com##.footer
 noodlemagazine.com##.particles-js-canvas-el
+porndaft.com##.hidden-sm.hidden-xs.right
 primepropertynow.com##.popSc
 redvid.io##.header-inner
 redvid.io##.hero-badge
@@ -1671,6 +1684,11 @@ temp-mail.org##.page-footer
 temp-mail.org##.popover-qr.btn-l-gary.icon-btn.btn-rds
 temp-mail.org##.section-populer-article
 temp-mail.org##.temp-emailbox-text
+thisvid.com##.block-comments.comments
+thisvid.com##.footer
+thisvid.com##.main-nav > li:nth-of-type(9)
+thisvid.com##.nav-header > li
+thisvid.com##.report_btn > [href="#"]
 trips.newsvix.online##.popSc
 ukdevilz.com##.footer
 vidara.to##.backdrop-blur-md.bg-\[\#0c0d12\]\/90.border-white\/\[0\.06\].border-b.z-30.top-0.sticky
@@ -1699,6 +1717,7 @@ www.analdin.xxx##.container > div > p
 www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
 www.apkmirror.com##div.listWidget:nth-of-type(3)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
+www.ashemaletube.me##.side-content-block
 www.aznude.com##.native-footer-mobile
 www.cfnmtoob.com##.col.aside
 www.cfnmtoob.com##.footer
@@ -1722,6 +1741,7 @@ www.deviantart.com##div.jI6fQl.IM6IXh:nth-of-type(3) > span.boBk3j:nth-of-type(2
 www.deviantart.com##div.t6vNBi:nth-of-type(2)
 www.deviantart.com##div:nth-of-type(5) > .t6vNBi > div:nth-of-type(4)
 www.deviantart.com##span.VZtP20.boBk3j > .z2zAry
+www.drtuber.com##.vb_rvt_2
 www.eporner.com###copyright
 www.eporner.com###foot
 www.eporner.com###headmenu
@@ -1764,6 +1784,7 @@ www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.x
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(8) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .x1lliihq.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.xo1y3bh.x140muxe.xu25z0z.x1fmog5m.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xeuugli.x2lwn1j.x1lziwak.xat24cr.x14z9mp.xdj266r.x3ct3a4.x2lah0s.xdl72j9.x1ypdohk.x9f619.x14e42zd.x1qhh985.x10w94by.x972fbf.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.x1phubyo.xqeqjp1.xc5r6h4.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1r8uycs.x1gtkyd9.x12pbpz1.x3su7b9.x1tr5nd9.xbktkl8.x1ws5yxj.xw01apr.x4cne27.xifccgj.xeuugli.xl56j7k.x1iyjqo2.xdt5ytf.x78zum5.x9f619.x1qjc9v5.html-div
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(9) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(5)
+www.fucker.com##.register.item > [href^="https://candyai.gg/home2"]
 www.google.com##.AghGtd.KxwPGc
 www.google.com##.SDkEP > .dRYYxd.fM33ce
 www.google.com##.YNk70c.TrMVnc.f6F9Be
@@ -1771,6 +1792,12 @@ www.google.com##.YNk70c.dc8jac.f6F9Be
 www.google.com##.iThwld.T14B5e.FPdoLc > center
 www.google.com##.iTjxkf.KxwPGc > a.pHiOh
 www.google.com##.uU7dJb
+www.halamat.com##.js-quickReply.block > .block-container
+www.halamat.com##.p-footer-inner
+www.hdtube.porn##.cs-link
+www.hdtube.porn##.description__channel
+www.hdtube.porn##.footer
+www.hdtube.porn##.g-col-aside.g-col
 www.heavy-r.com##.hd_bar_anchor_text
 www.heavy-r.com##.hidden-xs.actions
 www.heavy-r.com##div.col-md-3.col-sm-4.col-xs-6.col-xxs-12:nth-of-type(8)
@@ -1786,12 +1813,23 @@ www.imdb.com##.navbar__imdbpro.JBPPI.sc-b5ad688e-0
 www.imdb.com##div.page-grid.eRoFYl.sc-42bf884a-0.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(8)
 www.imdb.com##section.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section:nth-of-type(2)
 www.ixxx.com##.dark\:border-zinc-800.border-zinc-200.border-t.shrink-0.dark\:bg-zinc-950.bg-zinc-50.footer-container
+www.javdock.com##.mb-6.space-y-6
 www.luscious.net##.o-border--bottom.o-flex-center.site-banner
 www.lyricsify.com##.footer
 www.opensubtitles.org###ray-announcement-host
+www.peekvids.com##.ag-cookiebar
+www.pervclips.com###after-spots
 www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
 www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN > div
 www.pornawy.com##.table
+www.porndroids.com##.ax6a123gf__video-units
+www.porndroids.com##.site-footer
+www.pornpics.de###fb-button
+www.pornpics.de##.active.login-section
+www.pornpics.de##.comm-form
+www.pornpics.de##.left-nav-sponsor.left-side
+www.pornpics.de##li.r2-frame.thumbwook:nth-of-type(17)
+www.punishbang.com##.g-col-sidebar
 www.rainblow.xxx##.container > center
 www.rainblow.xxx##.fade_in.text_link_holder
 www.rainblow.xxx##.fluid_button_download.fluid_control_bar_link.fluid_button.fluid_control_bar_link_holder > .fluid_control_bar_link
@@ -1819,6 +1857,10 @@ www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink
 www.reddit.com##faceplate-tracker.contents:nth-of-type(4) > .mt-0.list-none.relative > .no-underline.-outline-offset-1.py-xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
 www.reddit.com##faceplate-tracker.contents:nth-of-type(5) > .mt-0.list-none.relative
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2)
+www.sexnyk.com##.footer-margin
+www.shesfreaky.com###content-details > .ad-exempt
+www.shesfreaky.com##.justify-content-center.row
+www.shesfreaky.com##.main-content > .ad-exempt
 www.speedtest.net##.connection-component-container > .result-data
 www.speedtest.net##.footer
 www.speedtest.net##.js-data-ip.result-data
@@ -1836,7 +1878,20 @@ www.storysaver.net###yuk
 www.storysaver.net##h1
 www.storysaver.net##section.special.main:nth-of-type(3)
 www.tnaflix.com##footer
+www.vidzx.org##.backdrop-blur.py-3.px-4.bg-bg-card\/95.border-neutral-800.border-t.z-\[60\].bottom-0.inset-x-0.fixed
+www.vidzx.org##.bg-bg-card.border-neutral-800.border-t.mt-12
+www.vidzx.org##.md\:block.hidden > .px-3.h-8.hover\:bg-brand-dark.text-black.bg-brand.disabled\:opacity-50.focus-visible\:outline-none.transition-colors.font-medium.text-sm.rounded-md.gap-2.justify-center.items-center.inline-flex
+www.vidzx.org##.pb-6.rounded-lg.overflow-hidden.max-w-md.w-full.mx-auto.relative
+www.vidzx.org##.pt-3.px-4.justify-center.flex.relative
+www.vidzx.org##.py-3.px-4.gap-3.items-center.flex > .gap-2.items-center.flex
+www.vidzx.org##.sm\:flex.hover\:bg-premium-dark.text-black.font-bold.text-sm.py-1\.5.px-3.bg-premium.rounded.gap-1.items-center.hidden
+www.vidzx.org##.sm\:p-4.p-2.bg-black\/85.justify-center.items-center.flex.z-30.inset-0.absolute
+www.wankoz.com##.aside-holder
+www.xrares.com##.alert-success.alert-dismissable.alert
 www.xrares.com##.privMSG.text-danger
+www.xujan.com##.comment-login-prompt
+www.xujan.com##.gap-3.flex-column.d-flex > .nb-holder-mob
+www.xujan.com##.mt-3.z-1.w-100.start-0.position-relative.xn-footer
 www.xvideos2.com##.tb_full_init.after-16.after-15.thumb-block.thumb-nat-exo-ad.thumb-nat-ad.thumb-ad
 www.xvideos2.com##body > div:nth-of-type(4)
 www.youtube.com###country-code
@@ -1855,6 +1910,8 @@ x.com##[role="main"] [aria-label="Home timeline"]:upward(5) .r-113js5t:style(wid
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
+xfeed.com##.has-badge-danger.has-badge-rounded.bonga-button.cloud__item--pill.cloud__item
+xfeed.com##.has-badge-warning.has-badge-rounded.signup-login-button.cloud__item--pill.cloud__item
 xhamster.com##.diamondButton-2252c.buttons-2252c.button-cdbbb.button-7e7d1.extra-indigo-64d24.medium-64d24.root-64d24
 xhamster.com##.header-preference-hint.preference-hint.straight.hint-1495d
 xhamster.com##.login-section
@@ -1887,40 +1944,3 @@ ytboob.com##.flex-container-desktop
 ||cdn-ilaobab.nitrocdn.com/lePUICgBcWyaBxcotrhntvbRsPrKoqSc/assets/images/optimized/rev-5d4d543/girlawy.com/wp-content/uploads/download*.png$image
 ||girlawy.com/wp-content/uploads/download*.png$image
 ||www.cfnmtoob.com/images/cfnmcambottom.png$image
-xfeed.com##.has-badge-warning.has-badge-rounded.signup-login-button.cloud__item--pill.cloud__item
-xfeed.com##.has-badge-danger.has-badge-rounded.bonga-button.cloud__item--pill.cloud__item
-www.xujan.com##.gap-3.flex-column.d-flex > .nb-holder-mob
-www.xujan.com##.comment-login-prompt
-www.xujan.com##.mt-3.z-1.w-100.start-0.position-relative.xn-footer
-www.xrares.com##.alert-success.alert-dismissable.alert
-www.wankoz.com##.aside-holder
-www.vidzx.org##.backdrop-blur.py-3.px-4.bg-bg-card\/95.border-neutral-800.border-t.z-\[60\].bottom-0.inset-x-0.fixed
-www.vidzx.org##.bg-bg-card.border-neutral-800.border-t.mt-12
-www.vidzx.org##.pb-6.rounded-lg.overflow-hidden.max-w-md.w-full.mx-auto.relative
-www.vidzx.org##.sm\:p-4.p-2.bg-black\/85.justify-center.items-center.flex.z-30.inset-0.absolute
-www.vidzx.org##.pt-3.px-4.justify-center.flex.relative
-www.vidzx.org##.sm\:flex.hover\:bg-premium-dark.text-black.font-bold.text-sm.py-1\.5.px-3.bg-premium.rounded.gap-1.items-center.hidden
-www.vidzx.org##.py-3.px-4.gap-3.items-center.flex > .gap-2.items-center.flex
-www.vidzx.org##.md\:block.hidden > .px-3.h-8.hover\:bg-brand-dark.text-black.bg-brand.disabled\:opacity-50.focus-visible\:outline-none.transition-colors.font-medium.text-sm.rounded-md.gap-2.justify-center.items-center.inline-flex
-www.shesfreaky.com###content-details > .ad-exempt
-www.shesfreaky.com##.justify-content-center.row
-www.shesfreaky.com##.main-content > .ad-exempt
-www.sexnyk.com##.footer-margin
-www.punishbang.com##.g-col-sidebar
-www.porndroids.com##.ax6a123gf__video-units
-www.porndroids.com##.site-footer
-www.pervclips.com###after-spots
-www.peekvids.com##.ag-cookiebar
-www.javdock.com##.mb-6.space-y-6
-www.hdtube.porn##.g-col-aside.g-col
-www.hdtube.porn##.description__channel
-www.hdtube.porn##.footer
-www.hdtube.porn##.cs-link
-www.fucker.com##.register.item > [href^="https://candyai.gg/home2"]
-www.drtuber.com##.vb_rvt_2
-www.ashemaletube.me##.side-content-block
-www.pornpics.de##.left-nav-sponsor.left-side
-www.pornpics.de###fb-button
-www.pornpics.de##.active.login-section
-www.pornpics.de##.comm-form
-www.pornpics.de##li.r2-frame.thumbwook:nth-of-type(17)
