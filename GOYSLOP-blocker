@@ -185,12 +185,15 @@ $removeparam=yclid
 ||.muni.il^
 ||.net.il^
 ||.org.il^
+||1000fapvids.com^
 ||2o7.net^
 ||33across.com^
 ||4dsply.com^
 ||6sense.com^
 ||a.deviantart.net/avatars/t/a/tastefully-done.jpg?7$image
 ||a.exoclick.com^
+||a.happyleafmotion.com^
+||a.magsrv.com^
 ||aax.amazon-adsystem.com^$domain=imdb.com
 ||ab-tasty.com^
 ||abcam.ai^
@@ -202,6 +205,7 @@ $removeparam=yclid
 ||about.google^
 ||accountkit.com^
 ||accounts.google.com^
+||acquiredeceasedundress.com^
 ||acxiom.com^
 ||ad.doubleclick.net^
 ||adc3-launch.adcolony.com^
@@ -223,6 +227,7 @@ $removeparam=yclid
 ||ads-sg.tiktok.com^$third-party
 ||ads.adk2x.com^
 ||ads.facebook.com^$third-party
+||ads.juicyads.me^
 ||ads.linkedin.com^$third-party
 ||ads.microsoft.com^
 ||ads.pinterest.com^
@@ -460,6 +465,7 @@ $removeparam=yclid
 ||c4-dataset.org^$third-party
 ||cam4.com/rest/stats$xmlhttprequest
 ||camjke.com^
+||campfirecroutondecorator.com^
 ||camsoda.com/api/v1/track$xmlhttprequest
 ||candiru.com^
 ||candyai.gg^
@@ -468,16 +474,20 @@ $removeparam=yclid
 ||ccbot.org^
 ||cdn-widgetsrepository.yotpo.com^$third-party
 ||cdn.gigya.com^$third-party
+||cdn.havenclick.com^
 ||cdn.lr-ingest.io^$third-party
 ||cdn.mxpnl.com^$third-party
 ||cdn.openai.com/diagnostics^$xmlhttprequest
 ||cdn.openai.com/logs^$xmlhttprequest
 ||cdn.pendo.io^$third-party
+||cdn.pornhaven.ai^
 ||cdn.segment.com^$domain=letterboxd.com
 ||cdn.segment.com^$domain=serializd.com
 ||cdn.segment.com^$third-party
 ||cdn.statsig.com^$third-party
+||cdn.storagexhd.com
 ||cdn.taboola.com^$third-party
+||cdn.twinrdengine.com^
 ||cdn77.com/analytics^
 ||cedexis.com^$third-party
 ||cedexis.net^$third-party
@@ -561,6 +571,7 @@ $removeparam=yclid
 ||copilot.microsoft.com/api/logging$xmlhttprequest
 ||copilot.microsoft.com/api/telemetry$xmlhttprequest
 ||copilot.microsoft.com^
+||core.dreamserve.dev^
 ||cpmstar.com^$third-party
 ||crashlytics.com^$third-party
 ||crazyegg.com^
@@ -806,6 +817,8 @@ $removeparam=yclid
 ||grok.x.com/api/analytics$xmlhttprequest
 ||growthbook.io^$third-party
 ||grs.hicloud.com^$third-party
+||guidepaparazzisurface.com^
+||gukahdbam.com^
 ||hanime.tv/api/analytics$xmlhttprequest
 ||haraj.com.sa/api/track$xmlhttprequest
 ||hasoffers.com^$third-party
@@ -815,6 +828,7 @@ $removeparam=yclid
 ||heavy-r.com/stats$xmlhttprequest
 ||hentaihaven.org/stats$xmlhttprequest
 ||heyzap.com^$third-party
+||hh-yin.pages.dev^
 ||hicloud.com^$third-party
 ||hilltopads.net^
 ||histats.com^$third-party
@@ -1026,6 +1040,7 @@ $removeparam=yclid
 ||msn.com^$removeparam=ocid
 ||my.com^
 ||myfreecams.com/_xcb/$xmlhttprequest
+||n2j9y0x0.bxcdn.net^
 ||nansen.ai^$third-party
 ||nativo.com^
 ||naughtyads.com^$third-party
@@ -1147,6 +1162,7 @@ $removeparam=yclid
 ||plausible.io^$third-party
 ||playbuzz.com^$third-party
 ||players.brightcove.net/analytics^
+||playhubconnect.com^
 ||plugrush.com^$third-party
 ||po.st^$third-party
 ||poe.com/api/stats$xmlhttprequest
@@ -1156,6 +1172,7 @@ $removeparam=yclid
 ||popcash.net^
 ||poperblocker.com^
 ||porn-download.org^
+||porn4fap.com^
 ||pornabc.com^
 ||pornhub.com/event/track$xmlhttprequest
 ||pornhub.com/front/stats$xmlhttprequest
@@ -1233,6 +1250,7 @@ $removeparam=yclid
 ||richrelevance.com^$third-party
 ||riotgames.com/analytics$xmlhttprequest
 ||rlcdn.com^
+||robbyporn.com^
 ||robinhood.com/api/logging$xmlhttprequest
 ||rollbar.com^$third-party
 ||rr.rndomnm.com^
@@ -1333,6 +1351,7 @@ $removeparam=yclid
 ||statcounter.com^$third-party
 ||statestreet.com^
 ||static-eu-cdn.eporner.com/new/adinhead.png$image
+||static-worker.ourdream.ai^
 ||static.ads-twitter.com^$third-party
 ||static.chartbeat.com^$third-party
 ||static.cloudflareinsights.com^$domain=openai.com
