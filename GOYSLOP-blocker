@@ -711,6 +711,8 @@ $removeparam=yclid
 ||facebook.net^$third-party
 ||fakku.net/suggest/stats$xmlhttprequest
 ||fansly.com/api/v1/stats$xmlhttprequest
+||faphouse.com^
+||faphouse1.com^
 ||fastly-insights.com^$third-party
 ||fb.com^
 ||fbi.gov^
@@ -1636,6 +1638,8 @@ chatgpt.com##a.hoverable.__menu-item.group:nth-of-type(4)
 chatgpt.com##div.\[\&\:nth-child\(1_of_\:has\(div\:not\(\[role\=group\]\)\)\)\]\:before\:hidden.first\:before\:hidden.before\:h-px.before\:block.before\:my-1.before\:mx-4.content-sheet\:before\:mx-6.content-sheet\:before\:my-3.before\:bg-token-border-default.\[\:not\(\:has\(div\:not\(\[role\=group\]\)\)\)\]\:hidden.empty\:hidden:nth-of-type(2) > div > div.__menu-item.group:nth-of-type(1)
 claude.ai##.bg-bg-300.pointer-events-auto.duration-150.transition-opacity.select-none.text-text-500.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
 claude.ai##.mt-4.px-2.flex-col.flex > .duration-150.ease-out.transition-opacity.opacity-0.justify-between.items-center.flex
+efukt.com##.random_video_hint
+efukt.com##.shifter.footer
 ensuretips.com##.skpzbfbyduwytnymzrqdxnwmzmhabdgrqzlicfhnytnmvxjrniazjfmoy.cxjmofqzalhsutrqnzmwmgzfnubdriouluyzncsukzbfgdhbemhwtjfmoy
 ensuretips.com##.zzgycxlpwmxhsdtluqehphruhyewtjnffkfhdnvkvjgrywvuuthxrgw.wkrywxfwyjuanvwwzodwtozkzddmjcchoyowpqzgjfqznfzfhszzhxrgw
 f-droid.org##.banner--name__keepandroidopen.banner--danger.banner
@@ -1949,10 +1953,14 @@ xhamster3.com##.xh-multiline-editable.textarea.inputAreaInner-77ac5
 xhamster3.com##.xp-subscribe__logo
 xhamster3.com##div.container-64b3c:nth-of-type(2)
 xhamster3.com##div.video-thumb.thumb-list__item:nth-of-type(24)
+xhopen.com##.buttons-aef6f
 xhopen.com##.counter-fe2f7.button-fe2f7.primary-48288.root-48288
 xhopen.com##.diamondButton-2252c.buttons-2252c.button-cdbbb.button-7e7d1.extra-indigo-64d24.medium-64d24.root-64d24
+xhopen.com##.footer-wrapper
 xhopen.com##.header-preference-hint.preference-hint.straight.hint-1495d
 xhopen.com##.newNav-3682d.right.top-menu__side-group
+xhopen.com##.straight.preferenceHint-a9be0
+xhopen.com##.twoColumns-cdbbb.fullWidth-cdbbb.buttons-cdbbb
 xhopen.com##.video-thumb__moment.video-thumb.thumb-list__item.item-19ee5
 xhopen.com##.widthWrap-cb57f
 xhopen.com##.xh-multiline-editable.textarea.inputAreaInner-77ac5
@@ -1962,6 +1970,8 @@ xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(21)
 xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(50)
 xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(51)
 xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(52)
+xhopen.com##li.listItem-7ae27:nth-of-type(2)
+xhopen.com##li.listItem-7ae27:nth-of-type(3)
 ytboob.com###block-19
 ytboob.com##.comments-area
 ytboob.com##.flex-container-desktop
