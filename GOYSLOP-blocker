@@ -32,6 +32,7 @@
 ##.fixed-header
 ##.floating-banner
 ##.floating-button
+##.fp-embed
 ##.gdpr-consent
 ##.geo-gate
 ##.install-app-banner
@@ -729,6 +730,7 @@ $removeparam=yclid
 ||fiverr.com^$removeparam=funnel
 ||fiverr.com^$removeparam=ref_ctx_id
 ||fiverr.com^$removeparam=source
+||flirtify.cash^
 ||flirtify.com^
 ||flock.co^
 ||flock.com^
@@ -1020,6 +1022,7 @@ $removeparam=yclid
 ||mistral.ai/api/telemetry$xmlhttprequest
 ||mistral.ai^$third-party
 ||mixpanel.com^
+||mjedge.net^
 ||mlflow.org^$third-party
 ||mmstat.com^$third-party
 ||moat.com^
@@ -1303,6 +1306,7 @@ $removeparam=yclid
 ||shareasale.com^$third-party
 ||sharethis.com^$third-party
 ||sharethrough.com^
+||shemalez.com^
 ||shesfreakylive.com^
 ||shop.tiktok.com/api/metrics$xmlhttprequest
 ||shopify.com/s/assets/analytics$script
@@ -1411,6 +1415,7 @@ $removeparam=yclid
 ||tenjin.com^$third-party
 ||tenjin.io^$third-party
 ||termly.io^$third-party
+||thegay.com^
 ||theguardian.com/px.gif$image
 ||theguardian.com^$removeparam=CMP
 ||thetradedesk.com^
@@ -1447,6 +1452,9 @@ $removeparam=yclid
 ||trendyporn.com^$third-party
 ||tripadvisor.com/Commerce/CaptureAnalytics$xmlhttprequest
 ||triplelift.com^
+||trk.cash^
+||trk.flirtify.cash^
+||trk.flirtify^
 ||trustarc.com^$third-party
 ||tsthots.com^
 ||tsyndicate.com^$third-party
@@ -1601,7 +1609,7 @@ $removeparam=yclid
 ! COSMATICS
 ! =============================================
 !
-12vids.com,www.pornawy.com,leakvids.com##.table
+12vids.com,www.pornawy.com,leakvids.com,www.xozilla.xxx##.table
 abbdsm.com##.video__wrapper > h2
 abebony.com##.nopop.jw-channel.jw-reset > .jw-reset
 abebony.com##.right
@@ -1695,7 +1703,7 @@ thisvid.com##.block-comments.comments
 thisvid.com##.main-nav > li:nth-of-type(9)
 thisvid.com##.nav-header > li
 thisvid.com##.report_btn > [href="#"]
-thisvid.com,www.speedtest.net,www.rainblow.xxx,www.lyricsify.com,www.hdtube.porn,www.cfnmtoob.com,luluvdo.com,heavyfetish.com,luluvid.com,ukdevilz.com,noodlemagazine.com,www.storysaver.net##.footer
+thisvid.com,www.speedtest.net,www.rainblow.xxx,www.lyricsify.com,www.hdtube.porn,www.cfnmtoob.com,luluvdo.com,heavyfetish.com,luluvid.com,ukdevilz.com,noodlemagazine.com,www.storysaver.net,www.xozilla.xxx##.footer
 trips.newsvix.online##.popSc
 vidara.to##.backdrop-blur-md.bg-\[\#0c0d12\]\/90.border-white\/\[0\.06\].border-b.z-30.top-0.sticky
 vidara.to##.py-10.border-white\/\[0\.06\].border-t
@@ -1710,6 +1718,7 @@ vidzstream.online###overlay-enp7jh
 vidzstream.online###overlay-n4n7tj
 vidzstream.online###overlay-st2ebf
 vidzstream.online###overlay-wsyhz8
+viralxxxporn.com##.vx-sidebar-adv
 wowne.ws###gridshow-copyright-area
 wowne.ws###gridshow-secondary-navigation
 wowne.ws##.code-block-9.code-block
@@ -1821,6 +1830,7 @@ www.imdb.com##section.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-s
 www.ixxx.com##.dark\:border-zinc-800.border-zinc-200.border-t.shrink-0.dark\:bg-zinc-950.bg-zinc-50.footer-container
 www.javdock.com##.mb-6.space-y-6
 www.luscious.net##.o-border--bottom.o-flex-center.site-banner
+www.milfat.com##.p-footer
 www.opensubtitles.org###ray-announcement-host
 www.peekvids.com##.ag-cookiebar
 www.pervclips.com###after-spots
@@ -1891,6 +1901,12 @@ www.vidzx.org##.py-3.px-4.gap-3.items-center.flex > .gap-2.items-center.flex
 www.vidzx.org##.sm\:flex.hover\:bg-premium-dark.text-black.font-bold.text-sm.py-1\.5.px-3.bg-premium.rounded.gap-1.items-center.hidden
 www.vidzx.org##.sm\:p-4.p-2.bg-black\/85.justify-center.items-center.flex.z-30.inset-0.absolute
 www.wankoz.com##.aside-holder
+www.xozilla.xxx###list_models_top_models
+www.xozilla.xxx###lj-container
+www.xozilla.xxx##.content > div:nth-of-type(2)
+www.xozilla.xxx##.video-page-headline.headline > p
+www.xozilla.xxx##body > .container > div:nth-of-type(1)
+www.xozilla.xxx##div:nth-of-type(3) > div > p
 www.xrares.com##.alert-success.alert-dismissable.alert
 www.xrares.com##.privMSG.text-danger
 www.xujan.com##.comment-login-prompt
@@ -1934,17 +1950,22 @@ xhamster3.com##.xp-subscribe__logo
 xhamster3.com##div.container-64b3c:nth-of-type(2)
 xhamster3.com##div.video-thumb.thumb-list__item:nth-of-type(24)
 xhopen.com##.counter-fe2f7.button-fe2f7.primary-48288.root-48288
+xhopen.com##.diamondButton-2252c.buttons-2252c.button-cdbbb.button-7e7d1.extra-indigo-64d24.medium-64d24.root-64d24
+xhopen.com##.header-preference-hint.preference-hint.straight.hint-1495d
 xhopen.com##.newNav-3682d.right.top-menu__side-group
 xhopen.com##.video-thumb__moment.video-thumb.thumb-list__item.item-19ee5
 xhopen.com##.widthWrap-cb57f
 xhopen.com##.xh-multiline-editable.textarea.inputAreaInner-77ac5
 xhopen.com##div.container-64b3c:nth-of-type(2)
 xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(19)
+xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(21)
 xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(50)
 xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(51)
+xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(52)
 ytboob.com###block-19
 ytboob.com##.comments-area
 ytboob.com##.flex-container-desktop
+ytboob.com##.site-footer
 ||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-ea6ecb6d.gif$image
 ||cdn-ilaobab.nitrocdn.com/lePUICgBcWyaBxcotrhntvbRsPrKoqSc/assets/images/optimized/rev-5d4d543/girlawy.com/wp-content/uploads/download*.png$image
 ||girlawy.com/wp-content/uploads/download*.png$image
