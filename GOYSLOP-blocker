@@ -2,8 +2,8 @@
 ! Description: Personal uBO for blocking GOYSLOB that's been feed to us GOYS
 ! Expires: 1 hour
 !
-! THE GOYSLOP WILL KILL YOU
-! GOYS LIFES MATTERS
+! THE GOYSLOP WILL KILL YOU !
+! GOYS LIFES MATTERS !
 !
 ##.ad-container
 ##.adbox
@@ -721,6 +721,7 @@ $removeparam=yclid
 ||featuregates.org^$third-party
 ||featuregates.org^$third-party,domain=openai.com|chatgpt.com
 ||fetishes.cam^
+||fhgte.com^
 ||fidf.mylegacygift.org^
 ||fidf.org^
 ||figma.com/api/analytics^
@@ -1608,16 +1609,16 @@ $removeparam=yclid
 ||zoominfo.com^
 ||zopim.com^
 !
-! =============================================
+! ===================================== !
 ! COSMATICS
-! =============================================
+! ===================================== !
 !
 12vids.com,www.pornawy.com,leakvids.com,www.xozilla.xxx##.table
 abbdsm.com##.video__wrapper > h2
 abebony.com##.nopop.jw-channel.jw-reset > .jw-reset
 abebony.com##.right
-abebony.com##.unlock-full-btn
 abebony.com##.videoplayer-container > div > .banner__container
+abebony.com,ablesbian.com##.unlock-full-btn
 abjav.com##.left > .banner__container
 ablesbian.com##.app__container > div
 ablesbian.com##.btns > .livecam-btn
@@ -1625,7 +1626,6 @@ ablesbian.com##.footer__container
 ablesbian.com##.jw-custom-btn.jw-related-toggle-button
 ablesbian.com##.jw-reset-text.jw-title
 ablesbian.com##.right > section
-ablesbian.com##.unlock-full-btn
 ablesbian.com##.videoplayer-container > .banner__container
 ablesbian.com##button.header__btn:nth-of-type(2)
 anal.media##.desktop.homepageCreative
@@ -1741,6 +1741,9 @@ www.ashemaletube.me##.side-content-block
 www.aznude.com##.native-footer-mobile
 www.cfnmtoob.com##.col.aside
 www.cfnmtoob.com##.page-main > .inline-aff-sec
+www.definebabe.com##.d-sm-block.d-none.right-sidebar-widget
+www.definebabe.com##.p-ig.ml-xl-3.ml-lg-2.ml-0.ankljo_right-sidebar
+www.definebabe.com##section.py-sm-3.py-2:nth-of-type(4)
 www.deviantart.com##.D6qOaV > .BMczPF.DxHJMm.KcCp_d.gHe8Dc.oNWMr2.qlAJA0.reset-link
 www.deviantart.com##.D6qOaV > .MUL49O.zGd3qo
 www.deviantart.com##.DuRxKc
@@ -1842,7 +1845,6 @@ www.pervclips.com###after-spots
 www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
 www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN > div
 www.porndroids.com##.ax6a123gf__video-units
-www.porndroids.com##.site-footer
 www.pornpics.de###fb-button
 www.pornpics.de##.active.login-section
 www.pornpics.de##.comm-form
@@ -1954,6 +1956,9 @@ xhamster3.com##.xh-multiline-editable.textarea.inputAreaInner-77ac5
 xhamster3.com##.xp-subscribe__logo
 xhamster3.com##div.container-64b3c:nth-of-type(2)
 xhamster3.com##div.video-thumb.thumb-list__item:nth-of-type(24)
+xhand.net##.container > div > div > p
+xhand.net##.footer__wrap
+xhand.net##.main__holder
 xhopen.com##.buttons-aef6f
 xhopen.com##.counter-fe2f7.button-fe2f7.primary-48288.root-48288
 xhopen.com##.diamondButton-2252c.buttons-2252c.button-cdbbb.button-7e7d1.extra-indigo-64d24.medium-64d24.root-64d24
@@ -1976,7 +1981,7 @@ xhopen.com##li.listItem-7ae27:nth-of-type(3)
 ytboob.com###block-19
 ytboob.com##.comments-area
 ytboob.com##.flex-container-desktop
-ytboob.com##.site-footer
+ytboob.com,www.porndroids.com##.site-footer
 ||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-ea6ecb6d.gif$image
 ||cdn-ilaobab.nitrocdn.com/lePUICgBcWyaBxcotrhntvbRsPrKoqSc/assets/images/optimized/rev-5d4d543/girlawy.com/wp-content/uploads/download*.png$image
 ||girlawy.com/wp-content/uploads/download*.png$image
