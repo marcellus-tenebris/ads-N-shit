@@ -188,6 +188,7 @@ $removeparam=yclid
 ||.net.il^
 ||.org.il^
 ||1000fapvids.com^
+||11oysters.com^
 ||2o7.net^
 ||33across.com^
 ||4dsply.com^
@@ -260,6 +261,7 @@ $removeparam=yclid
 ||adultdeals.net^$third-party
 ||adultentertainmentads.com^$third-party
 ||adultforce.com^$third-party
+||adultfriendfinder.com^
 ||adultfriendfinder.com^$third-party
 ||adultnext.com^
 ||adverti.com^$third-party
@@ -384,6 +386,8 @@ $removeparam=yclid
 ||arkoselabs.com^$third-party
 ||as.fontheader.com^
 ||asana.com/api/1.0/track^
+||ashleymadison.com^
+||asiansingles.me^
 ||atdmt.com^$third-party
 ||atinternet.com^$third-party
 ||auction.unityads.unity3d.com^$third-party
@@ -399,12 +403,14 @@ $removeparam=yclid
 ||barilliance.com^$third-party
 ||bat.bing.com^$third-party
 ||bbc.com/stat$xmlhttprequest
+||bbwsexdates.net^
 ||bdapi-ads.realmemobile.com^$third-party
 ||bdapi-in-ads.realmemobile.com^$third-party
 ||bdstatic.com^$third-party
 ||beeg.com/api/stats$xmlhttprequest
 ||behaviosec.com^
 ||belacash.net^
+||benaughty.com^
 ||best4kpornsites.com^
 ||bestbuy.com/~~/t/track$xmlhttprequest
 ||bestbuy.com^$removeparam=acampID
@@ -413,7 +419,9 @@ $removeparam=yclid
 ||bestbuy.com^$removeparam=irgwc
 ||bestbuy.com^$removeparam=loc
 ||bestbuy.com^$removeparam=mpid
+||bestpillservice.com^
 ||bestpornsites.org^
+||bicupid.com^
 ||bidswitch.net^
 ||bigo.tv^
 ||bing.com/MRTrack$xmlhttprequest
@@ -462,6 +470,7 @@ $removeparam=yclid
 ||business.google.com^
 ||business.instagram.com^
 ||business.x.com^
+||buyextenze.com^
 ||bytedance.com^$third-party
 ||c.bing.com^$third-party
 ||c4-dataset.org^$third-party
@@ -577,6 +586,7 @@ $removeparam=yclid
 ||cpmstar.com^$third-party
 ||crashlytics.com^$third-party
 ||crazyegg.com^
+||createaiasian.com^
 ||createsend.com/*/open/*$third-party
 ||creativecdn.com^$third-party
 ||creepjs.com^
@@ -721,6 +731,7 @@ $removeparam=yclid
 ||featuregates.org^$third-party
 ||featuregates.org^$third-party,domain=openai.com|chatgpt.com
 ||fetishes.cam^
+||fetlife.com^
 ||fhgte.com^
 ||fidf.mylegacygift.org^
 ||fidf.org^
@@ -734,6 +745,7 @@ $removeparam=yclid
 ||fiverr.com^$removeparam=funnel
 ||fiverr.com^$removeparam=ref_ctx_id
 ||fiverr.com^$removeparam=source
+||fling.com^
 ||flirtify.cash^
 ||flirtify.com^
 ||flock.co^
@@ -769,6 +781,7 @@ $removeparam=yclid
 ||gemini.google.com/logging$xmlhttprequest
 ||gemini.google.com^
 ||gemini.yahoo.com^$third-party
+||genesisporn.net^
 ||genesys.com^$third-party
 ||geo.yahoo.com^$third-party
 ||geolocation-db.com^$third-party
@@ -831,8 +844,11 @@ $removeparam=yclid
 ||hcaptcha.com^$third-party
 ||heap.io^
 ||heapanalytics.com^
+||heatedaffairs.com^
 ||heavy-r.com/stats$xmlhttprequest
 ||hentaihaven.org/stats$xmlhttprequest
+||hersolution.com^
+||hersolutiongel.com^
 ||heyzap.com^$third-party
 ||hh-yin.pages.dev^
 ||hicloud.com^$third-party
@@ -972,12 +988,14 @@ $removeparam=yclid
 ||logservice.hicloud.com^$third-party
 ||logservice1.hicloud.com^$third-party
 ||lotame.com^
+||lovescape.com^
 ||lr-intake.com^$third-party
 ||luckyorange.com^
 ||luckyorange.net^$third-party
 ||m.doubleclick.net^$third-party
 ||m.stripe.com^$third-party
 ||m.stripe.network^$third-party
+||made.porn^
 ||magsrv.com^
 ||mail-ads.google.com^$third-party
 ||mail.ru^
@@ -1123,6 +1141,7 @@ $removeparam=yclid
 ||orders.temp-mail.org^
 ||osano.com^$third-party
 ||osn.com/api/analytics$xmlhttprequest
+||ourdream.ai^
 ||ourdreamersai16.com^
 ||outbrain.com^
 ||outlook.live.com/mail/0/action/tracing/$xmlhttprequest
@@ -1154,6 +1173,7 @@ $removeparam=yclid
 ||perplexity.ai/api/logging$xmlhttprequest
 ||perplexity.ai/api/telemetry$xmlhttprequest
 ||perplexitybot.com^
+||phallomax.com^
 ||phn.one^$third-party
 ||piano.io^$third-party
 ||ping.chartbeat.net^
@@ -1286,10 +1306,13 @@ $removeparam=yclid
 ||sdkconfig.ad.xiaomi.com^$third-party
 ||securepubads.g.doubleclick.net^$third-party
 ||securitypc.xyz^
+||seduced.com^
 ||segment.com^
 ||segment.io^
 ||segment.io^$third-party,domain=claude.ai|anthropic.com
 ||segment.io^$third-party,domain=openai.com|chatgpt.com
+||semenax.com^
+||semenhance.com^
 ||sendgrid.net/wf/open$third-party
 ||sendgrid.net/wf/open^
 ||sensorsdata.cn^$third-party
@@ -1305,6 +1328,9 @@ $removeparam=yclid
 ||sextable.com^$third-party
 ||sextracker.com^$third-party
 ||sexvr.com^
+||shag.co.uk^
+||shag.co^
+||shag.com^
 ||shahid.mbc.net/api/stats$xmlhttprequest
 ||shahid.mbc.net/statistics$xmlhttprequest
 ||shareasale.com^$third-party
@@ -1419,6 +1445,7 @@ $removeparam=yclid
 ||tenjin.com^$third-party
 ||tenjin.io^$third-party
 ||termly.io^$third-party
+||thealphaboost.com^
 ||thegay.com^
 ||theguardian.com/px.gif$image
 ||theguardian.com^$removeparam=CMP
@@ -1459,6 +1486,7 @@ $removeparam=yclid
 ||trk.cash^
 ||trk.flirtify.cash^
 ||trk.flirtify^
+||truesportmeds.com^
 ||trustarc.com^$third-party
 ||tsthots.com^
 ||tsyndicate.com^$third-party
@@ -1481,6 +1509,7 @@ $removeparam=yclid
 ||twitter.com^$removeparam=t
 ||typingdna.com^
 ||uber.com/rt/trips/analytics$xmlhttprequest
+||uberhorny.com^
 ||udc.yahoo.com^$third-party
 ||udcm.yahoo.com^$third-party
 ||umeng.com^$third-party
@@ -1508,6 +1537,8 @@ $removeparam=yclid
 ||vidazoo.com^
 ||videojs.com/analytics^
 ||viglink.com^$third-party
+||vigrxdelayspray.com^
+||vigrxplus.com^
 ||vimeo.com/stats^
 ||visualwebsiteoptimizer.com^$third-party
 ||vitals.vercel-insights.com^$third-party
@@ -1571,6 +1602,7 @@ $removeparam=yclid
 ||xhamster.com^$removeparam=referrer
 ||xhamster.com^$removeparam=utm_source
 ||xliiirdr.com^
+||xmodeai-asian.com^
 ||xnxx.com/stats$xmlhttprequest
 ||xnxx.com/track$xmlhttprequest
 ||xujangram.com^
@@ -1660,6 +1692,7 @@ fyptt.to##.comment-respond
 fyptt.to##.fl-row-align-center.fl-row-default-height.fl-node-5f719fef28ed8.fl-row-bg-color.fl-row-full-width.fl-row > .fl-row-content-wrap
 fyptt.to##[href="https://www.ourdreamersai16.com/81D5R3H/3QQG7/"]
 girlawy.com###primary-menu
+girlawy.com###telegram-popup-overlay
 girlawy.com##.clearfix.site-footer
 girlawy.com##.comments-area.fbox
 girlawy.com##.vip-fixed-box
@@ -1709,15 +1742,23 @@ thisvid.com##.block-comments.comments
 thisvid.com##.main-nav > li:nth-of-type(9)
 thisvid.com##.nav-header > li
 thisvid.com##.report_btn > [href="#"]
-thisvid.com,www.speedtest.net,www.rainblow.xxx,www.lyricsify.com,www.hdtube.porn,www.cfnmtoob.com,luluvdo.com,heavyfetish.com,luluvid.com,ukdevilz.com,noodlemagazine.com,www.storysaver.net,www.xozilla.xxx,www.xtits.xxx,juicyvid.com,xdegu.com,www.alotporn.com,mat6tube.com##.footer
+thisvid.com,www.speedtest.net,www.rainblow.xxx,www.lyricsify.com,www.hdtube.porn,www.cfnmtoob.com,luluvdo.com,heavyfetish.com,luluvid.com,ukdevilz.com,noodlemagazine.com,www.storysaver.net,www.xozilla.xxx,www.xtits.xxx,juicyvid.com,xdegu.com,www.alotporn.com##.footer
 trips.newsvix.online##.popSc
+trueamateurporn.org##.backdrop-blur.py-3.px-4.bg-bg-card\/95.border-neutral-800.border-t.z-\[60\].bottom-0.inset-x-0.fixed
+trueamateurporn.org##.bg-bg-card.border-neutral-800.border-t.mt-12
+trueamateurporn.org##.sm\:px-3.sm\:gap-3.px-2.bg-black\/85.gap-2.justify-center.items-center.flex-col.flex.z-30.inset-0.absolute
 vidara.to##.backdrop-blur-md.bg-\[\#0c0d12\]\/90.border-white\/\[0\.06\].border-b.z-30.top-0.sticky
 vidara.to##.py-10.border-white\/\[0\.06\].border-t
 vidara.to##.text-center.p-7.rounded-xl.mb-5.relative
+vidzstream.com###overlay-3rzpz3
 vidzstream.com###overlay-h5s7tz
+vidzstream.com###overlay-h66wqm
+vidzstream.com###overlay-lfvdu9
+vidzstream.com###overlay-mjpmzi
 vidzstream.com###overlay-ottaap
 vidzstream.com###overlay-qvtpoc
 vidzstream.com###overlay-tx6hn3
+vidzstream.com###overlay-x1d1w4
 vidzstream.online###overlay-77r5l0
 vidzstream.online###overlay-8zw7ct
 vidzstream.online###overlay-enp7jh
@@ -1868,6 +1909,7 @@ www.rainblow.xxx##.zpot-horizontal-img > center
 www.rainblow.xxx##li:nth-of-type(7)
 www.rainblow.xxx##li:nth-of-type(8)
 www.rainblow.xxx##li:nth-of-type(9)
+www.reddit.com###games_section
 www.reddit.com##.gap-xs.items-center.flex-wrap.gap-2xs.flex.list-none.m-0.p-0.text-caption-1.text-neutral-content-weak
 www.reddit.com##.inline-flex.button.justify-center.items-center.button-plain.px-\[calc\(var\(--rem12\)-var\(--button-border-width\,0px\)\)\].button-medium.active\:no-underline.hover\:no-underline.no-underline
 www.reddit.com##.justify-end.flex-col.flex.grow.py-md.visible
