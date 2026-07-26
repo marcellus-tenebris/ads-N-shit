@@ -335,6 +335,7 @@ $removeparam=yclid
 ||asiansingles.me^
 ||atdmt.com^$third-party
 ||atinternet.com^$third-party
+||atonads.me^
 ||auction.unityads.unity3d.com^$third-party
 ||audible.com/api/stats$xmlhttprequest
 ||audible.com/metrics/$xmlhttprequest
@@ -1176,6 +1177,7 @@ $removeparam=yclid
 ||proton.me^$third-party,domain=~proton.me
 ||protonmail.com^$third-party,domain=~protonmail.com
 ||protonvpn.com^$third-party,domain=~protonvpn.com
+||pub4164.online^
 ||pub4164.zbuef.online^
 ||pub4164.zbuef^
 ||pubmatic.com^
@@ -1252,6 +1254,7 @@ $removeparam=yclid
 ||sdkconfig.ad.intl.xiaomi.com^$third-party
 ||sdkconfig.ad.xiaomi.com^$third-party
 ||securepubads.g.doubleclick.net^$third-party
+||security.atonads.me^
 ||securitypc.xyz^
 ||seduced.com^
 ||segment.com^
@@ -1579,6 +1582,7 @@ $removeparam=yclid
 ||youtube.com^$removeparam=rco
 ||youtube.com^$removeparam=si
 ||youtube.com^$removeparam=ucbcb
+||zbuef.online^
 ||zdassets.com^
 ||zemanta.com^
 ||zendesk.com^
