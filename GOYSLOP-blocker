@@ -731,6 +731,8 @@ $removeparam=yclid
 ||gamespot.com^$removeparam=UniqueID
 ||gamespot.com^$removeparam=ftag
 ||gayck.com^
+||gaydesirexhub.com^
+||gaymaletube.com^
 ||gemini.google.com/api/telemetry$xmlhttprequest
 ||gemini.google.com/logging$xmlhttprequest
 ||gemini.google.com^
@@ -1930,8 +1932,7 @@ www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.x
 www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(5)
 www.fapnado.xxx##.dblock.content.section
 www.fapnado.xxx##.fluid_button_download.fluid_control_bar_link.fluid_button.fluid_control_bar_link_holder
-www.fapnado.xxx##.hqb-topbar
-www.fapnado.xxx##.zblurb.table
+www.fapnado.xxx,www.transhero.com,www.rainblow.xxx##.hqb-topbar
 www.fappenist.com###pagemenu > ul > li:nth-of-type(4)
 www.fetishpapa.com##.js-quiet.footer
 www.fetishpapa.com##.js-quiet.top-links
@@ -1981,13 +1982,13 @@ www.pornfreenow.com###list_videos_latest_videos_list_items > span
 www.pornfreenow.com###list_videos_most_recent_videos_items > span
 www.pornfreenow.com###list_videos_videos_watched_right_now_items > span
 www.pornfreenow.com##.atem.pignu.top2
-www.pornfreenow.com##.highlight
 www.pornfreenow.com##.sponsor
 www.pornfreenow.com##.text
 www.pornfreenow.com##div.pignu:nth-of-type(4)
 www.pornfreenow.com##li.pignu:nth-of-type(7)
 www.pornfreenow.com##li.pignu:nth-of-type(8)
 www.pornfreenow.com##li.pignu:nth-of-type(9)
+www.pornfreenow.com,www.sortporn.com##.highlight
 www.pornpics.de###fb-button
 www.pornpics.de##.active.login-section
 www.pornpics.de##.comm-form
@@ -1995,18 +1996,17 @@ www.pornpics.de##.left-nav-sponsor.left-side
 www.pornpics.de##li.r2-frame.thumbwook:nth-of-type(17)
 www.punishbang.com##.g-col-sidebar
 www.rainblow.xxx##.container > center
-www.rainblow.xxx##.fade_in.text_link_holder
 www.rainblow.xxx##.fluid_button_download.fluid_control_bar_link.fluid_button.fluid_control_bar_link_holder > .fluid_control_bar_link
-www.rainblow.xxx##.fluid_start_container
-www.rainblow.xxx##.hqb-topbar
-www.rainblow.xxx##.video-holder > center
 www.rainblow.xxx##.xpot-horizontal-b.xpot-horizontal
-www.rainblow.xxx##.zblurb.table
 www.rainblow.xxx##.zpot-horizontal-img > center
 www.rainblow.xxx##li:nth-of-type(7)
-www.rainblow.xxx##li:nth-of-type(8)
-www.rainblow.xxx##li:nth-of-type(9)
+www.rainblow.xxx,www.fapnado.xxx,www.transhero.com##.zblurb.table
 www.rainblow.xxx,www.pornfreenow.com##.footer-margin
+www.rainblow.xxx,www.transhero.com##.fade_in.text_link_holder
+www.rainblow.xxx,www.transhero.com##.fluid_start_container
+www.rainblow.xxx,www.transhero.com##.video-holder > center
+www.rainblow.xxx,www.transhero.com##li:nth-of-type(8)
+www.rainblow.xxx,www.transhero.com##li:nth-of-type(9)
 www.reddit.com###games_section
 www.reddit.com##.gap-xs.items-center.flex-wrap.gap-2xs.flex.list-none.m-0.p-0.text-caption-1.text-neutral-content-weak
 www.reddit.com##.inline-flex.button.justify-center.items-center.button-plain.px-\[calc\(var\(--rem12\)-var\(--button-border-width\,0px\)\)\].button-medium.active\:no-underline.hover\:no-underline.no-underline
