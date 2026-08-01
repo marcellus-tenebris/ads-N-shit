@@ -370,6 +370,7 @@ $removeparam=yclid
 ||bestpillservice.com^
 ||bestpornsites.org^
 ||bicupid.com^
+||bid.aero^
 ||bidswitch.net^
 ||bigo.tv^
 ||bing.com/MRTrack$xmlhttprequest
@@ -404,6 +405,7 @@ $removeparam=yclid
 ||boredpanda.com^$removeparam=h
 ||branch.io^
 ||brave.com/api/v1/stats$xmlhttprequest
+||braze.eu^
 ||brightcove.com/analytics^
 ||browser-intake-datadoghq.com^$domain=openai.com
 ||browser-intake-datadoghq.com^$third-party
@@ -1106,6 +1108,7 @@ $removeparam=yclid
 ||osano.com^$third-party
 ||osn.com/api/analytics$xmlhttprequest
 ||ourdream.ai^
+||ourdreamersai.com^
 ||ourdreamersai16.com^
 ||outbrain.com^
 ||outlook.live.com/mail/0/action/tracing/$xmlhttprequest
@@ -1289,6 +1292,7 @@ $removeparam=yclid
 ||sentry.io^$third-party,domain=claude.ai|anthropic.com
 ||sentry.io^$third-party,domain=openai.com|chatgpt.com
 ||serializd.com/api/stats$xmlhttprequest
+||servicer.adskeeper.co.uk^
 ||serving-sys.com^
 ||sessionstack.com^$third-party
 ||sexad.net^$third-party
@@ -1343,6 +1347,12 @@ $removeparam=yclid
 ||springserve.com^
 ||ssl.google-analytics.com^$third-party
 ||ssp.startappnetwork.com^$third-party
+||st-n.ads1-adnow.com^
+||st-n.ads2-adnow.com^
+||st-n.ads3-adnow.com^
+||st-n.ads4-adnow.com^
+||st-n.ads5-adnow.com^
+||st-n.gsasd.info^
 ||stability.ai^$third-party
 ||stackoverflow.com/posts/stats$xmlhttprequest
 ||startapp.com^
@@ -1356,6 +1366,7 @@ $removeparam=yclid
 ||static-eu-cdn.eporner.com/new/adinhead.png$image
 ||static-worker.ourdream.ai^
 ||static.ads-twitter.com^$third-party
+||static.airserve.net^
 ||static.chartbeat.com^$third-party
 ||static.cloudflareinsights.com^$domain=openai.com
 ||static.cloudflareinsights.com^$third-party
@@ -1376,6 +1387,7 @@ $removeparam=yclid
 ||steampowered.com/actions/ajaxresolve$xmlhttprequest
 ||steampowered.com^$removeparam=snr
 ||stickyadstv.com^
+||storygize.net^
 ||stripchat.com/api/front/stats$xmlhttprequest
 ||stripchat.com/api/front/v2/stats$xmlhttprequest
 ||stripe.com/v3/fingerprint$script
@@ -1384,6 +1396,7 @@ $removeparam=yclid
 ||syndication.exoclick.com^
 ||t.appsflyer.com^$third-party
 ||taboola.com^
+||tags.bluekai.com^
 ||tags.tiqcdn.com^$third-party
 ||talkie-ai.com^
 ||tango.ai^
@@ -1434,6 +1447,7 @@ $removeparam=yclid
 ||tinder.com/api/v2/analytics$xmlhttprequest
 ||tinyurl.com^$third-party
 ||tnaflix.com/track/$xmlhttprequest
+||toboads.com^
 ||toutiao.com^
 ||tpc.googlesyndication.com^$third-party
 ||tr.snapchat.com^$third-party
@@ -1462,9 +1476,11 @@ $removeparam=yclid
 ||tsyndicate.com^
 ||tsyndicate.com^$third-party
 ||tube8.com/front/stats$xmlhttprequest
+||tugpass.com^
 ||tumblr.com/svc/log$xmlhttprequest
 ||tumblr.com/svc/privacy/consent$xmlhttprequest
 ||tune.com^$third-party
+||tv21macedonia.xyz^
 ||tvpage.com^$third-party
 ||twinred.com^
 ||twitch.tv/api/channel/*/panels$xmlhttprequest
@@ -1500,6 +1516,7 @@ $removeparam=yclid
 ||userpilot.io^$third-party
 ||userstyles.org^
 ||vanguard.com^
+||vdads2019.com^
 ||venmo.com/api/stats$xmlhttprequest
 ||vercel-insights.com^$third-party
 ||vercel.com/api/web-vitals$xmlhttprequest
@@ -1512,6 +1529,7 @@ $removeparam=yclid
 ||vigrxplus.com^
 ||viiukuhe.com^
 ||vimeo.com/stats^
+||vionservices.com^
 ||visualwebsiteoptimizer.com^$third-party
 ||vitals.vercel-insights.com^$third-party
 ||vk-cdn.net^$third-party
@@ -1560,6 +1578,7 @@ $removeparam=yclid
 ||www.business.reddit.com^
 ||www.facebook.com/tr^$third-party
 ||www.google-analytics.com^$domain=imdb.com|letterboxd.com|serializd.com
+||x.bidswitch.net^
 ||x.com/i/api/graphql/*/CreateTweet$xmlhttprequest
 ||x.com/i/jot$xmlhttprequest
 ||x.com^$removeparam=/^(ref_?)?src=/
@@ -1745,6 +1764,8 @@ girlawy.com###telegram-popup-overlay
 girlawy.com##.clearfix.site-footer
 girlawy.com##.comments-area.fbox
 girlawy.com##.vip-fixed-box
+handjobhub.com###promo-bar
+handjobhub.com##section.aff-sec:nth-of-type(2)
 himovies.sx##.mb-3.alert
 inporn.com##.btn-play
 inporn.com##a.btn
@@ -1874,7 +1895,12 @@ www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
 www.apkmirror.com##div.listWidget:nth-of-type(3)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
 www.ashemaletube.me,www.fetishpapa.com##.side-content-block
+www.aznude.com###direct-link-footer
+www.aznude.com##.account-navbar__toggler-wrapper
+www.aznude.com##.az-welcome-bar
 www.aznude.com##.native-footer-mobile
+www.aznude.com##.ribbon-container-desktop
+www.aznude.com,xhopen.com##.footer-wrapper
 www.cfnmtoob.com##.col.aside
 www.cfnmtoob.com##.page-main > .inline-aff-sec
 www.cremz.com##.col-asside
@@ -2159,7 +2185,6 @@ xhand.net##.footer__wrap
 xhand.net##.main__holder
 xhopen.com##.buttons-aef6f
 xhopen.com##.counter-fe2f7.button-fe2f7.primary-48288.root-48288
-xhopen.com##.footer-wrapper
 xhopen.com##.newNav-3682d.right.top-menu__side-group
 xhopen.com##.straight.preferenceHint-a9be0
 xhopen.com##.twoColumns-cdbbb.fullWidth-cdbbb.buttons-cdbbb
