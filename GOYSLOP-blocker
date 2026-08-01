@@ -427,7 +427,10 @@ $removeparam=yclid
 ||campfirecroutondecorator.com^
 ||camsoda.com/api/v1/track$xmlhttprequest
 ||candiru.com^
+||candyai.ai^
+||candyai.com^
 ||candyai.gg^
+||candyai.love^
 ||canva.com/api/analytics^
 ||casalemedia.com^
 ||ccbot.org^
@@ -596,6 +599,7 @@ $removeparam=yclid
 ||epicgames.com^$removeparam=epic_gameId
 ||ero-advertising.com^$third-party
 ||eroAdvertising.com^$third-party
+||es.faperoni.chat^
 ||escortsites.org^
 ||etisalat.eg/stats$xmlhttprequest
 ||etsy.com/api/v3/ajax/bespoke/$xmlhttprequest
@@ -673,6 +677,7 @@ $removeparam=yclid
 ||facemix.app^
 ||fakku.net/suggest/stats$xmlhttprequest
 ||fansly.com/api/v1/stats$xmlhttprequest
+||faperoni.chat^
 ||faphouse.com^
 ||faphouse1.com^
 ||fastly-insights.com^$third-party
@@ -1681,10 +1686,13 @@ abebony.com##.videoplayer-container > div > .banner__container
 abebony.com,ablesbian.com##.unlock-full-btn
 abjav.com##.left > .banner__container
 ablesbian.com##.btns > .livecam-btn
+ablesbian.com##.download.raiting-button
 ablesbian.com##.footer__container
 ablesbian.com##.right > section
+ablesbian.com##.video-info
 ablesbian.com##.videoplayer-container > .banner__container
 ablesbian.com##button.header__btn:nth-of-type(2)
+ablesbian.com##div.dropdown-menu:nth-of-type(2)
 anal.media##.desktop.homepageCreative
 around.xxx##.mt-\[-8px\].text-right.text-xs
 asianpornxl.com##.desc.fq-video-actions.player-tools > .btn-download
@@ -1739,6 +1747,10 @@ girlawy.com##.comments-area.fbox
 girlawy.com##.vip-fixed-box
 himovies.sx##.mb-3.alert
 inporn.com##.btn-play
+inporn.com##a.btn
+inporn.com##div.video-info__action:nth-of-type(2)
+inporn.com##div.video-info__action:nth-of-type(3)
+inporn.com##div.video-info__actions > [href]
 japan-whores.com###comment_section > .section_comment
 japan-whores.com##.footer_holder
 japan-whores.com##.main-content
@@ -1766,6 +1778,7 @@ mcpelife.com##.app-panel-wrap
 mygrowl.com###list_videos_related_videos_filter_list
 mygrowl.com##.sidebar
 noodlemagazine.com##.particles-js-canvas-el
+pawg.porn##.overlayCreatives
 porndaft.com##.hidden-sm.hidden-xs.right
 pornfact.com##.desktop-header
 pornfact.com##.desktop-underplayer
@@ -1864,6 +1877,16 @@ www.ashemaletube.me,www.fetishpapa.com##.side-content-block
 www.aznude.com##.native-footer-mobile
 www.cfnmtoob.com##.col.aside
 www.cfnmtoob.com##.page-main > .inline-aff-sec
+www.cremz.com##.col-asside
+www.cremz.com##.col-video > .btn-holder
+www.cremz.com##.header-holder > .container > .header-inner > .buttons-col
+www.cremz.com##.header-links
+www.cremz.com##a.nav-link:nth-of-type(10)
+www.cremz.com##a.nav-link:nth-of-type(11)
+www.cremz.com##a.nav-link:nth-of-type(12)
+www.cremz.com##a.nav-link:nth-of-type(8)
+www.cremz.com##a.nav-link:nth-of-type(9)
+www.cremz.com##div.btn-holder:nth-of-type(5)
 www.definebabe.com##.d-sm-block.d-none.right-sidebar-widget
 www.definebabe.com##.p-ig.ml-xl-3.ml-lg-2.ml-0.ankljo_right-sidebar
 www.definebabe.com##section.py-sm-3.py-2:nth-of-type(4)
@@ -1947,6 +1970,7 @@ www.google.com##.iThwld.T14B5e.FPdoLc > center
 www.google.com##.iTjxkf.KxwPGc > a.pHiOh
 www.google.com##.uU7dJb
 www.google.com##div.gb_8.gb_7:nth-of-type(1)
+www.halamat.com##.js-notices.notices--block.notices
 www.halamat.com##.js-quickReply.block > .block-container
 www.halamat.com##.p-footer-inner
 www.hdtube.porn##.cs-link
