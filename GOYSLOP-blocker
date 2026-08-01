@@ -1229,6 +1229,7 @@ $removeparam=yclid
 ||reddit.com^$removeparam=ref_source
 ||reddit.com^$removeparam=share_id
 ||redditmedia.com/gtm^$third-party
+||redgifs.ai^
 ||redirect.traff.pro^
 ||redtube.com/api/stats$xmlhttprequest
 ||redtube.com/front/tracking$xmlhttprequest
