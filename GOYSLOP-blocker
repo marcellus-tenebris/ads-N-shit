@@ -161,6 +161,7 @@ $removeparam=yclid
 ||adjust.io^
 ||adjust.net.in^
 ||adnium.com^
+||adnx.de^
 ||adobe.com^
 ||adobedc.net^
 ||adobedtm.com^
@@ -348,6 +349,7 @@ $removeparam=yclid
 ||bat.bing.com^$third-party
 ||bbc.com/stat$xmlhttprequest
 ||bbwsexdates.net^
+||bd742.com^
 ||bdapi-ads.realmemobile.com^$third-party
 ||bdapi-in-ads.realmemobile.com^$third-party
 ||bdstatic.com^$third-party
@@ -423,6 +425,7 @@ $removeparam=yclid
 ||cam4.com/rest/stats$xmlhttprequest
 ||camjke.com^
 ||campfirecroutondecorator.com^
+||cams.bdsmstreak.com^
 ||camsoda.com/api/v1/track$xmlhttprequest
 ||candiru.com^
 ||candyai.ai^
@@ -534,6 +537,7 @@ $removeparam=yclid
 ||copilot.microsoft.com/api/telemetry$xmlhttprequest
 ||copilot.microsoft.com^
 ||core.dreamserve.dev^
+||cpg-cdn.com^
 ||cpmstar.com^$third-party
 ||crashlytics.com^$third-party
 ||crazyegg.com^
@@ -627,6 +631,7 @@ $removeparam=yclid
 ||ey43.com^
 ||eyereturn.com^$third-party
 ||f-droid.org/assets/phone-frame_kEDoOnDDPLnsqH4lVaEun9wfQgM9ivrhk5OiUWWdKHc=.png$image
+||f11-ads.com^
 ||facebook.com/ajax/bootloader-endpoint/$xmlhttprequest
 ||facebook.com/ajax/bz$xmlhttprequest
 ||facebook.com/ajax/emu/$xmlhttprequest
@@ -675,6 +680,7 @@ $removeparam=yclid
 ||facemix.app^
 ||fakku.net/suggest/stats$xmlhttprequest
 ||fansly.com/api/v1/stats$xmlhttprequest
+||fantecio.com^
 ||faperoni.chat^
 ||faphouse.com^
 ||faphouse1.com^
@@ -733,6 +739,7 @@ $removeparam=yclid
 ||gamespot.com^$removeparam=TheTime
 ||gamespot.com^$removeparam=UniqueID
 ||gamespot.com^$removeparam=ftag
+||gayads.biz^
 ||gayck.com^
 ||gaydesirexhub.com^
 ||gaymaletube.com^
@@ -863,6 +870,7 @@ $removeparam=yclid
 ||intercom.com^$third-party
 ||intercom.io^$third-party
 ||intercomcdn.com^$third-party
+||inv.lapippa.com^
 ||iot-eu-logser.realme.com^$third-party
 ||iot-logser.realme.com^$third-party
 ||iovation.com^
@@ -897,6 +905,7 @@ $removeparam=yclid
 ||kaltura.com^$third-party
 ||kaltura.org^$third-party
 ||kameleoon.com^$third-party
+||kctag.net^
 ||keen.io^$third-party
 ||keezmovies.com/tracker/$xmlhttprequest
 ||kickoffo.site^
@@ -1392,6 +1401,7 @@ $removeparam=yclid
 ||stripchat.com/api/front/v2/stats$xmlhttprequest
 ||stripe.com/v3/fingerprint$script
 ||supersonic.com^$third-party
+||swissadserver.ch^
 ||swp.de^$removeparam=source
 ||syndication.exoclick.com^
 ||t.appsflyer.com^$third-party
@@ -1568,11 +1578,13 @@ $removeparam=yclid
 ||whatruns.com^
 ||widgets.outbrain.com^
 ||widgets.wp.com^$third-party
+||windows-pro.net^
 ||wired.com^$removeparam=intcid
 ||wistia.com/analytics^
 ||wistia.net/analytics^
 ||wix.com^$third-party,domain=~wix.com
 ||wixapps.net^$third-party,domain=~wix.com
+||wixnm.com^
 ||wixstatic.com^$third-party,domain=~wix.com
 ||woopra.com^
 ||wps.com^$removeparam=from
@@ -1624,6 +1636,7 @@ $removeparam=yclid
 ||youtube.com^$removeparam=rco
 ||youtube.com^$removeparam=si
 ||youtube.com^$removeparam=ucbcb
+||zazufi.com^
 ||zbuef.online^
 ||zdassets.com^
 ||zemanta.com^
@@ -1639,6 +1652,7 @@ $removeparam=yclid
 ! COSMATICS
 ! ===================================== !
 !
+###ad_popup
 ##.ad
 ##.ad-container
 ##.adbox
@@ -1726,8 +1740,16 @@ asianpornxl.com##.desc.fq-video-actions.player-tools > .btn-download
 asianpornxl.com##.fq-comments-composer-wrap.comment-holder.form-box
 asianpornxl.com##.fq-footer-ad
 asianpornxl.com##.fq-sponsored-strip
+bdsmstreak.com##.dark\:bg-ink-950.bg-white.dark\:border-ink-800.border-gray-200.border-t.mt-16
+bdsmstreak.com##.dark\:ring-ink-700.ring-gray-200.ring-1.dark\:hover\:bg-ink-700.hover\:bg-gray-200.dark\:bg-ink-800.bg-gray-100.dark\:text-neutral-200.text-gray-700.font-semibold.text-sm.rounded-full.min-h-\[40px\].py-2.px-3.gap-1\.5.items-center.inline-flex
+bdsmstreak.com##.dark\:text-neutral-300.text-gray-700.text-sm.dark\:bg-ink-900.bg-gray-50.dark\:ring-ink-800.ring-gray-200.ring-1.rounded-md.p-3.mt-3
+bdsmstreak.com##.ml-auto.gap-1.items-center.flex
+bdsmstreak.com##.pt-8.dark\:border-ink-800.border-gray-200.border-t.mb-8.mt-16
 bdsmstreak.com##.px-4.py-1\.5.text-sm.text-center.text-white.bg-brand-600
 bdsmstreak.com##.sm\:text-sm.text-\[0\.8rem\].dark\:ring-brand-800\/50.ring-brand-200.ring-1.dark\:to-pink-900\/20.dark\:from-brand-900\/30.to-pink-50.from-brand-50.bg-gradient-to-r.rounded-lg.py-2.px-3.gap-2.items-center.flex.mb-3
+bdsmstreak.com##a.whitespace-nowrap.items-center.inline-flex.v2-tile:nth-of-type(11)
+bdsmstreak.com##a.whitespace-nowrap.items-center.inline-flex.v2-tile:nth-of-type(7)
+bdsmstreak.com##a.whitespace-nowrap.items-center.inline-flex.v2-tile:nth-of-type(8)
 bdsmx-porn.com##._section_ye1l4_1
 bdsmx-porn.com##.headline.wrapper
 bdsmx-porn.com##.jw-hardlink-inner
@@ -1845,6 +1867,8 @@ senzuri.tube##.nopop.fah-btn
 senzuri.tube##a.has-tooltip.control--before.control
 senzuri.tube##li.header__list-item:nth-of-type(8)
 senzuri.tube,ablesbian.com##.jw-reset-text.jw-title
+sexarab.pro##.dark.desktop-footer.site__footer--v4.site-footer
+sexarab.pro##.single-video__actions-bar
 sexplex.com##.banner
 sexplex.com##.get-full
 sexplex.com##.get-full--overlay.get-full
