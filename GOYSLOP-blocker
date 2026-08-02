@@ -123,6 +123,7 @@ $removeparam=yclid
 ||*/variant?$xmlhttprequest
 ||*/yotpo/$xmlhttprequest
 ||.ac^
+||.ai^
 ||.il^
 ||.in^
 ||1000fapvids.com^
@@ -1163,6 +1164,7 @@ $removeparam=yclid
 ||porn-download.org^
 ||porn4fap.com^
 ||pornabc.com^
+||porngames.tv^
 ||pornhub.com/event/track$xmlhttprequest
 ||pornhub.com/front/stats$xmlhttprequest
 ||pornhub.com/front/tracking$xmlhttprequest
@@ -1853,7 +1855,11 @@ thisvid.com##.block-comments.comments
 thisvid.com##.main-nav > li:nth-of-type(9)
 thisvid.com##.nav-header > li
 thisvid.com##.report_btn > [href="#"]
+thisvid.com##div.container:nth-of-type(3)
+thisvid.com##div.container:nth-of-type(4)
+thisvid.com##div.container:nth-of-type(7)
 thisvid.com,www.speedtest.net,www.rainblow.xxx,www.lyricsify.com,www.hdtube.porn,www.cfnmtoob.com,luluvdo.com,heavyfetish.com,luluvid.com,ukdevilz.com,noodlemagazine.com,www.storysaver.net,www.xozilla.xxx,www.xtits.xxx,juicyvid.com,xdegu.com,www.alotporn.com,boobsradar.com,lujuriax.com,bdsmx-porn.com,18tokyo.com,povjp.com,vxxx.com,xmilf.com,javmix.com,senzuri.tube,www.vivatube.com,sexplex.com,www.pornawy.com,www.fapnado.xxx,www.tubeon.club,www.theyarehuge.com##.footer
+thisvid.com,www.vivatube.com##div.container:nth-of-type(5)
 trips.newsvix.online,go4news.online,primepropertynow.com,newsvix.online##.popSc
 trueamateurporn.org##.sm\:px-3.sm\:gap-3.px-2.bg-black\/85.gap-2.justify-center.items-center.flex-col.flex.z-30.inset-0.absolute
 vidara.to##.backdrop-blur-md.bg-\[\#0c0d12\]\/90.border-white\/\[0\.06\].border-b.z-30.top-0.sticky
@@ -2124,7 +2130,6 @@ www.vidzx.org,trueamateurporn.org##.bg-bg-card.border-neutral-800.border-t.mt-12
 www.vivatube.com###abmessage
 www.vivatube.com##.abtext
 www.vivatube.com##.stop-better-popunder
-www.vivatube.com##div.container:nth-of-type(5)
 www.vivatube.com##div.up-action:nth-of-type(4)
 www.vivatube.com,m.vivatube.com##.btn-secondary.ID_live_cam_wrapper
 www.vivatube.com,www.tubeon.club###spot_video_underplayer_livecams
