@@ -1,5 +1,2 @@
-# Treat all root-level .txt files as Adblock filter lists
 /*.txt linguist-language=adblock linguist-detectable
-
-# Normalize text files to LF line endings
 * text=auto eol=lf
