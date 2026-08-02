@@ -122,15 +122,10 @@ $removeparam=yclid
 ||*/track?$third-party
 ||*/variant?$xmlhttprequest
 ||*/yotpo/$xmlhttprequest
-||.ac.il^
-||.co.il^
-||.gov.il^
+||.ac^
+||.ai^
 ||.il^
 ||.in^
-||.k12.il^
-||.muni.il^
-||.net.il^
-||.org.il^
 ||1000fapvids.com^
 ||11oysters.com^
 ||2o7.net^
@@ -1256,6 +1251,7 @@ $removeparam=yclid
 ||rubiconproject.com^
 ||rudderstack.com^$third-party
 ||rum.browser-intake-datadoghq.com^$third-party
+||rytr.me^
 ||s-innovid.com^$third-party
 ||s.imdb.com/ref=*
 ||s.zline0.com^
@@ -1491,6 +1487,7 @@ $removeparam=yclid
 ||twitch.tv/tracking/$xmlhttprequest
 ||twitter.com/i/api/graphql/*/CreateTweet$xmlhttprequest
 ||twitter.com/i/jot$xmlhttprequest
+||twitter.com/i/premium_sign_up$document
 ||twitter.com^$removeparam=/^(ref_?)?src=/
 ||twitter.com^$removeparam=cn
 ||twitter.com^$removeparam=ref_url
@@ -1582,6 +1579,7 @@ $removeparam=yclid
 ||x.bidswitch.net^
 ||x.com/i/api/graphql/*/CreateTweet$xmlhttprequest
 ||x.com/i/jot$xmlhttprequest
+||x.com/i/premium_sign_up$document
 ||x.com^$removeparam=/^(ref_?)?src=/
 ||x.com^$removeparam=cn
 ||x.com^$removeparam=ref_url
@@ -2165,13 +2163,17 @@ www.youtube.com##ytd-reel-shelf-renderer
 www.youtube.com##ytd-search ytd-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
 x-x-x.tube###inpage-ad-container
 x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-1kqtdi0.css-175oi2r
+x.com##[data-testid="reply-boost-upsell"]
 x.com##[role="main"] [aria-label="Home timeline"] [href$="/header_photo"]:upward(2):style(max-width: 999px !important)
 x.com##[role="main"] [aria-label="Home timeline"] section:upward(1):style(max-width: 999px !important)
 x.com##[role="main"] [aria-label="Home timeline"]:upward(1):style(max-width: 700px !important; margin-right: 30px !important)
 x.com##[role="main"] [aria-label="Home timeline"]:upward(5) .r-113js5t:style(width: 1150px !important)
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
+x.com##a[href="/i/premium_sign_up"]
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
+x.com##div[role="dialog"]:has(a[href*="/i/premium_sign_up"])
+x.com##div[role="dialog"]:has(button[data-testid*="subscribe"])
 xfeed.com##.has-badge-danger.has-badge-rounded.bonga-button.cloud__item--pill.cloud__item
 xfeed.com##.has-badge-warning.has-badge-rounded.signup-login-button.cloud__item--pill.cloud__item
 xhand.net##.container > div > div > p
