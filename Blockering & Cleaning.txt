@@ -126,7 +126,6 @@ $removeparam=yclid
 ||33across.com^
 ||4dsply.com^
 ||6sense.com^
-||a.deviantart.net/avatars/t/a/tastefully-done.jpg?7$image
 ||a.exoclick.com^
 ||a.happyleafmotion.com^
 ||a.magsrv.com^
@@ -2289,6 +2288,7 @@ ytboob.com##.flex-container-desktop
 ytboob.com##.menu-item-31564.menu-item-object-custom.menu-item-type-custom.menu-item.video-icon
 ytboob.com##.menu-item-46576.menu-item-object-custom.menu-item-type-custom.menu-item.link-icon
 ytboob.com,www.porndroids.com##.site-footer
+||a.deviantart.net/avatars/t/a/tastefully-done.jpg?7$image
 ||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-ea6ecb6d.gif$image
 ||cdn-ilaobab.nitrocdn.com/lePUICgBcWyaBxcotrhntvbRsPrKoqSc/assets/images/optimized/rev-5d4d543/girlawy.com/wp-content/uploads/download*.png$image
 ||girlawy.com/wp-content/uploads/download*.png$image
