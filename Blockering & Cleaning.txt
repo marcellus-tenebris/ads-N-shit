@@ -875,6 +875,7 @@ $removeparam=yclid
 ||is.com^$third-party
 ||iubenda.com^$third-party
 ||ixigua.com^
+||jacquieetmicheltv.net^
 ||jads.co^$third-party
 ||jarir.com/analytics$xmlhttprequest
 ||jasonsavard.com^
@@ -1029,6 +1030,7 @@ $removeparam=yclid
 ||msn.com^$removeparam=cvid
 ||msn.com^$removeparam=ocid
 ||my.com^
+||mydreamcompanion.com^
 ||myfreecams.com/_xcb/$xmlhttprequest
 ||n2j9y0x0.bxcdn.net^
 ||nansen.ai^$third-party
@@ -1641,6 +1643,7 @@ $removeparam=yclid
 ||zoom.us/wc/tracking$xmlhttprequest
 ||zoominfo.com^
 ||zopim.com^
+!
 ###ad_popup
 ##.ad
 ##.ad-container
@@ -1708,14 +1711,16 @@ abebony.com##.nopop.jw-channel.jw-reset > .jw-reset
 abebony.com##.right
 abebony.com##.videoplayer-container > div > .banner__container
 abebony.com,ablesbian.com##.unlock-full-btn
+abjav.com##.app__container > div:nth-of-type(1)
 abjav.com##.left > .banner__container
+abjav.com##.rating > button.raiting-button
+abjav.com,ablesbian.com##.download.raiting-button
+abjav.com,ablesbian.com##button.header__btn:nth-of-type(2)
 ablesbian.com##.btns > .livecam-btn
-ablesbian.com##.download.raiting-button
 ablesbian.com##.footer__container
 ablesbian.com##.right > section
 ablesbian.com##.video-info
 ablesbian.com##.videoplayer-container > .banner__container
-ablesbian.com##button.header__btn:nth-of-type(2)
 ablesbian.com##div.dropdown-menu:nth-of-type(2)
 anal.media##.desktop.homepageCreative
 area51.porn###comments .toggle-button
@@ -1863,8 +1868,12 @@ sexplex.com##.get-full
 sexplex.com##.get-full--overlay.get-full
 sexplex.com##section.content-block:nth-of-type(2)
 some.porn##.duration-300.transition-transform.p-4.shadow-2xl.bg-black.sm\:rounded-lg.sm\:w-\[340px\].sm\:right-4.sm\:bottom-4.sm\:inset-x-auto.inset-x-0.bottom-0.z-50.fixed
+spankbang.com###comment_box_anchor > .my-4
+spankbang.com##.\32 xl\:gap-6.md\:gap-4.md\:justify-start.md\:w-auto.justify-between.items-center.w-full.flex
 spankbang.com##.p-4.bg-surface-secondary.rounded-lg.justify-between.flex-col.h-full.flex
+spankbang.com##.sm\:items-center.sm\:flex-row.gap-2.flex-col.flex
 spankbang.com##.upload
+spankbang.com##.xl\:pb-6.xl\:px-10.sm\:pb-3.sm\:px-6.pb-2.px-4.responsive-page
 spankbang.com##.xl\:py-4.xl\:px-10.p-4.bg-surface-tertiary.gap-4.flex-col.flex
 spankbang.com##div.my-6 > .text-body-md.text-secondary
 spankbang.com,thisvid.com##.links
@@ -1886,7 +1895,7 @@ thisvid.com##div.container:nth-of-type(3)
 thisvid.com##div.container:nth-of-type(4)
 thisvid.com##div.container:nth-of-type(7)
 thisvid.com##div.headline:nth-of-type(3)
-thisvid.com,www.speedtest.net,www.rainblow.xxx,www.lyricsify.com,www.hdtube.porn,www.cfnmtoob.com,luluvdo.com,heavyfetish.com,luluvid.com,ukdevilz.com,noodlemagazine.com,www.storysaver.net,www.xozilla.xxx,www.xtits.xxx,juicyvid.com,xdegu.com,www.alotporn.com,boobsradar.com,lujuriax.com,bdsmx-porn.com,18tokyo.com,povjp.com,vxxx.com,xmilf.com,javmix.com,senzuri.tube,www.vivatube.com,sexplex.com,www.pornawy.com,www.fapnado.xxx,www.tubeon.club,www.theyarehuge.com,123av.com,area51.porn,mygrowl.com##.footer
+thisvid.com,www.speedtest.net,www.rainblow.xxx,www.lyricsify.com,www.hdtube.porn,www.cfnmtoob.com,luluvdo.com,heavyfetish.com,luluvid.com,ukdevilz.com,noodlemagazine.com,www.storysaver.net,www.xozilla.xxx,www.xtits.xxx,juicyvid.com,xdegu.com,www.alotporn.com,boobsradar.com,lujuriax.com,bdsmx-porn.com,18tokyo.com,povjp.com,vxxx.com,xmilf.com,javmix.com,senzuri.tube,www.vivatube.com,sexplex.com,www.pornawy.com,www.fapnado.xxx,www.tubeon.club,www.theyarehuge.com,123av.com,area51.porn,mygrowl.com,x-x-x.tube,www.erome.com##.footer
 thisvid.com,www.vivatube.com##div.container:nth-of-type(5)
 trips.newsvix.online,go4news.online,primepropertynow.com,newsvix.online##.popSc
 trueamateurporn.org##.sm\:px-3.sm\:gap-3.px-2.bg-black\/85.gap-2.justify-center.items-center.flex-col.flex.z-30.inset-0.absolute
@@ -2176,6 +2185,7 @@ www.xtits.xxx,www.xozilla.xxx###lj-container
 www.xujan.com##.comment-login-prompt
 www.xujan.com##.gap-3.flex-column.d-flex > .nb-holder-mob
 www.xujan.com##.mt-3.z-1.w-100.start-0.position-relative.xn-footer
+www.xvideos.com###footer
 www.xvideos2.com##.tb_full_init.after-16.after-15.thumb-block.thumb-nat-exo-ad.thumb-nat-ad.thumb-ad
 www.xvideos2.com##body > div:nth-of-type(4)
 www.youtube.com###country-code
@@ -2194,6 +2204,11 @@ www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer:has
 www.youtube.com##ytd-reel-shelf-renderer
 www.youtube.com##ytd-search ytd-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
 x-x-x.tube###inpage-ad-container
+x-x-x.tube##.flex.member-btn
+x-x-x.tube##.text-block--collapsed.text-block
+x-x-x.tube##a.btn.header-promo-link:nth-of-type(1)
+x-x-x.tube##div.tab-btn:nth-of-type(2)
+x-x-x.tube##section.section:nth-of-type(4)
 x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-1kqtdi0.css-175oi2r
 x.com##[data-testid="reply-boost-upsell"]
 x.com##[role="main"] [aria-label="Home timeline"] [href$="/header_photo"]:upward(2):style(max-width: 999px !important)
@@ -2252,4 +2267,5 @@ ytboob.com,www.porndroids.com##.site-footer
 ||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-ea6ecb6d.gif$image
 ||cdn-ilaobab.nitrocdn.com/lePUICgBcWyaBxcotrhntvbRsPrKoqSc/assets/images/optimized/rev-5d4d543/girlawy.com/wp-content/uploads/download*.png$image
 ||girlawy.com/wp-content/uploads/download*.png$image
+||ukdevilz.com/static/img/bg.f853b95dab3a.png$image
 ||www.cfnmtoob.com/images/cfnmcambottom.png$image
