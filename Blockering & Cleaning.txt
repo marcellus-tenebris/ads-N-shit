@@ -1643,7 +1643,6 @@ $removeparam=yclid
 ||zoom.us/wc/tracking$xmlhttprequest
 ||zoominfo.com^
 ||zopim.com^
-!
 ###ad_popup
 ##.ad
 ##.ad-container
@@ -1722,6 +1721,7 @@ ablesbian.com##.right > section
 ablesbian.com##.video-info
 ablesbian.com##.videoplayer-container > .banner__container
 ablesbian.com##div.dropdown-menu:nth-of-type(2)
+an1.com##body > .wrp
 anal.media##.desktop.homepageCreative
 area51.porn###comments .toggle-button
 area51.porn###list_videos_related_videos > .jkawjkjgkjg
@@ -1895,7 +1895,7 @@ thisvid.com##div.container:nth-of-type(3)
 thisvid.com##div.container:nth-of-type(4)
 thisvid.com##div.container:nth-of-type(7)
 thisvid.com##div.headline:nth-of-type(3)
-thisvid.com,www.speedtest.net,www.rainblow.xxx,www.lyricsify.com,www.hdtube.porn,www.cfnmtoob.com,luluvdo.com,heavyfetish.com,luluvid.com,ukdevilz.com,noodlemagazine.com,www.storysaver.net,www.xozilla.xxx,www.xtits.xxx,juicyvid.com,xdegu.com,www.alotporn.com,boobsradar.com,lujuriax.com,bdsmx-porn.com,18tokyo.com,povjp.com,vxxx.com,xmilf.com,javmix.com,senzuri.tube,www.vivatube.com,sexplex.com,www.pornawy.com,www.fapnado.xxx,www.tubeon.club,www.theyarehuge.com,123av.com,area51.porn,mygrowl.com,x-x-x.tube,www.erome.com##.footer
+thisvid.com,www.speedtest.net,www.rainblow.xxx,www.lyricsify.com,www.hdtube.porn,www.cfnmtoob.com,luluvdo.com,heavyfetish.com,luluvid.com,ukdevilz.com,noodlemagazine.com,www.storysaver.net,www.xozilla.xxx,www.xtits.xxx,juicyvid.com,xdegu.com,www.alotporn.com,boobsradar.com,lujuriax.com,bdsmx-porn.com,18tokyo.com,povjp.com,vxxx.com,xmilf.com,javmix.com,senzuri.tube,www.vivatube.com,sexplex.com,www.pornawy.com,www.fapnado.xxx,www.tubeon.club,www.theyarehuge.com,123av.com,area51.porn,mygrowl.com,x-x-x.tube,www.erome.com,xxxshake.com##.footer
 thisvid.com,www.vivatube.com##div.container:nth-of-type(5)
 trips.newsvix.online,go4news.online,primepropertynow.com,newsvix.online##.popSc
 trueamateurporn.org##.sm\:px-3.sm\:gap-3.px-2.bg-black\/85.gap-2.justify-center.items-center.flex-col.flex.z-30.inset-0.absolute
@@ -1923,11 +1923,15 @@ viralxxxporn.com##.vx-sidebar-adv
 vxxx.com##.hvydnddnyyhnhnvvnn
 wowne.ws###gridshow-copyright-area
 wowne.ws###gridshow-secondary-navigation
+wowne.ws##.code-block-14.code-block
+wowne.ws##.code-block-16.code-block
 wowne.ws##.code-block-9.code-block
 wowne.ws##.gridshow-box.comments-area
 wowne.ws##.gridshow-clearfix.gridshow-sidebar-widget-areas.gridshow-sidebar-one-wrapper
 wowne.ws##.gridshow-container.gridshow-copyright-area-inside
 wowne.ws##.gridshow-entry-meta-single
+wowne.ws##.post-navigation.navigation
+wowne.ws##.wp-block-paragraph
 wowne.ws##center
 www.alotporn.com##.col-asside
 www.alotporn.com##.col-video > center
@@ -1979,6 +1983,9 @@ www.deviantart.com##span.VZtP20.boBk3j > .z2zAry
 www.drtuber.com##.vb_rvt_2
 www.effedupmovies.com##.shfb-above_footer_row.shfb-row-wrapper
 www.effedupmovies.com##.wpd-main-form-wrapper.wpd-form-wrapper.wpd-form
+www.eporner.com###commentdivright
+www.eporner.com###commentform
+www.eporner.com###commenthrefwrite
 www.eporner.com###copyright
 www.eporner.com###foot
 www.eporner.com###headmenu
@@ -2059,6 +2066,8 @@ www.imdb.com##.navbar__imdb-pro--toggle.navbar__flyout__text-button-after-mobile
 www.imdb.com##.navbar__imdbpro.JBPPI.sc-b5ad688e-0
 www.imdb.com##div.page-grid.eRoFYl.sc-42bf884a-0.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(8)
 www.imdb.com##section.ipc-page-grid__item--span-3.ipc-page-grid__item.ipc-page-section--baseAlt.ipc-page-section:nth-of-type(2)
+www.instagram.com##.x1nhvcw1.x1oa3qoh.x1cy8zhl.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xf7dkkf.xv54qhq.x1e56ztr.xbiv7yw.x16uus16.x1ga7v0g.x15mokao.x78zum5.xjbqb8w.x9f619.x18d9i69.xexx8yu.x1lziwak.x14z9mp.xdj266r.html-div
+www.instagram.com##.xl8spv7.xf7dkkf.xv54qhq.x11njtxf.x1n2onr6.x18d9i69.xexx8yu.x1h3rv7z.x1lziwak.xat24cr.x14z9mp.xdj266r.xk390pu.x2lah0s.xdt5ytf.x78zum5.x9f619.x1qjc9v5
 www.ixxx.com##.dark\:border-zinc-800.border-zinc-200.border-t.shrink-0.dark\:bg-zinc-950.bg-zinc-50.footer-container
 www.javdock.com##.mb-6.space-y-6
 www.luscious.net##.o-border--bottom.o-flex-center.site-banner
@@ -2080,7 +2089,7 @@ www.pornfreenow.com##div.pignu:nth-of-type(4)
 www.pornfreenow.com##li.pignu:nth-of-type(7)
 www.pornfreenow.com##li.pignu:nth-of-type(8)
 www.pornfreenow.com##li.pignu:nth-of-type(9)
-www.pornfreenow.com,area51.porn##.text
+www.pornfreenow.com,area51.porn,xxxshake.com##.text
 www.pornfreenow.com,www.sortporn.com##.highlight
 www.pornpics.de###fb-button
 www.pornpics.de##.active.login-section
@@ -2147,6 +2156,13 @@ www.theyarehuge.com##div.headline:nth-of-type(4)
 www.theyarehuge.com##div.headline:nth-of-type(6)
 www.theyarehuge.com##div.tah-desktop-spot:nth-of-type(4)
 www.theyarehuge.com##div.tah-desktop-spot:nth-of-type(5)
+www.tiktok.com##.e1mw74j7.tiktok-1vs0u64-7937d88b--SubMainNavContentContainer
+www.tiktok.com##.e1mw74j9.tiktok-1gvgfgc-7937d88b--SubMainNavFooterContainer
+www.tiktok.com##.e1sleddd1.tiktok-1comlxd-7937d88b--DivFixedTopContainer
+www.tiktok.com##.eqhuzff6.tiktok-tfue59-7937d88b--DivMainNavContainer > div:nth-of-type(3)
+www.tiktok.com##h2:nth-of-type(2)
+www.tiktok.com##h2:nth-of-type(4)
+www.tiktok.com##h2:nth-of-type(5)
 www.tnaflix.com##footer
 www.tubeon.club##.cams
 www.tubeon.club##.has-no-margin
@@ -2259,10 +2275,19 @@ xmilf.com##.left > section
 xmilf.com##a.btn:nth-of-type(3)
 xmilf.com,bdsmx-porn.comsenzuri.tube,boobse.com##.comments__warning
 xmilf.com,vxxx.com,senzuri.tube,boobse.com,ablesbian.com,abjav.com,bdsmx-porn.com##.jw-custom-btn.jw-related-toggle-button
+xxxshake.com###fluid_theatre > div:nth-of-type(1)
+xxxshake.com##.active
+xxxshake.com##.btn-favourites
+xxxshake.com##.member-links > ul > li:nth-of-type(2)
+xxxshake.com##.right-menu
+xxxshake.com##.tabs-menu > ul > li:nth-of-type(1)
 youtube.com##[is-shorts]
 ytboob.com###block-19
+ytboob.com###video-links
 ytboob.com##.comments-area
 ytboob.com##.flex-container-desktop
+ytboob.com##.menu-item-31564.menu-item-object-custom.menu-item-type-custom.menu-item.video-icon
+ytboob.com##.menu-item-46576.menu-item-object-custom.menu-item-type-custom.menu-item.link-icon
 ytboob.com,www.porndroids.com##.site-footer
 ||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-ea6ecb6d.gif$image
 ||cdn-ilaobab.nitrocdn.com/lePUICgBcWyaBxcotrhntvbRsPrKoqSc/assets/images/optimized/rev-5d4d543/girlawy.com/wp-content/uploads/download*.png$image
