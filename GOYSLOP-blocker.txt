@@ -1,9 +1,4 @@
-! Title: GOYSLOP-Blocker
-! Description: Personal uBO for blocking GOYSLOB that's been feed to us GOYS
-! Expires: 1 hour
-!
-! THE GOYSLOP WILL KILL YOU !
-! GOYS LIFES MATTERS !
+! Title: Blockering/Cleaning
 !
 $removeparam=/^af_[a-z_]*=/
 $removeparam=/^aff[a-z]*=/
