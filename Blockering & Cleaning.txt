@@ -126,6 +126,7 @@ $removeparam=yclid
 ||33across.com^
 ||4dsply.com^
 ||6sense.com^
+||a.deviantart.net/avatars/t/a/tastefully-done.jpg?7$image
 ||a.exoclick.com^
 ||a.happyleafmotion.com^
 ||a.magsrv.com^
@@ -324,6 +325,7 @@ $removeparam=yclid
 ||asana.com/api/1.0/track^
 ||ashleymadison.com^
 ||asiansingles.me^
+||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-ea6ecb6d.gif$image
 ||atdmt.com^$third-party
 ||atinternet.com^$third-party
 ||atonads.me^
@@ -428,6 +430,7 @@ $removeparam=yclid
 ||canva.com/api/analytics^
 ||casalemedia.com^
 ||ccbot.org^
+||cdn-ilaobab.nitrocdn.com/lePUICgBcWyaBxcotrhntvbRsPrKoqSc/assets/images/optimized/rev-5d4d543/girlawy.com/wp-content/uploads/download*.png$image
 ||cdn-widgetsrepository.yotpo.com^$third-party
 ||cdn.amplifo.com^
 ||cdn.amplifo^
@@ -755,6 +758,7 @@ $removeparam=yclid
 ||ggtrk.org^
 ||gigya-api.com^$third-party
 ||gigya.com^$third-party
+||girlawy.com/wp-content/uploads/download*.png$image
 ||github.com/_private/browser/errors$xmlhttprequest
 ||github.com/_private/browser/stats$xmlhttprequest
 ||github.com/events$xmlhttprequest
@@ -1505,6 +1509,7 @@ $removeparam=yclid
 ||uberhorny.com^
 ||udc.yahoo.com^$third-party
 ||udcm.yahoo.com^$third-party
+||ukdevilz.com/static/img/bg.f853b95dab3a.png$image
 ||umeng.com^$third-party
 ||unagi.amazon.com^$third-party
 ||undress.app^
@@ -1584,6 +1589,7 @@ $removeparam=yclid
 ||woopra.com^
 ||wps.com^$removeparam=from
 ||www.business.reddit.com^
+||www.cfnmtoob.com/images/cfnmcambottom.png$image
 ||www.facebook.com/tr^$third-party
 ||www.google-analytics.com^$domain=imdb.com|letterboxd.com|serializd.com
 ||x.bidswitch.net^
@@ -1709,17 +1715,18 @@ abebony.com##.nopop.jw-channel.jw-reset > .jw-reset
 abebony.com##.right
 abebony.com##.videoplayer-container > div > .banner__container
 abebony.com,ablesbian.com##.unlock-full-btn
-abjav.com##.app__container > div:nth-of-type(1)
-abjav.com##.left > .banner__container
 abjav.com##.rating > button.raiting-button
 abjav.com,ablesbian.com##.download.raiting-button
-abjav.com,ablesbian.com##button.header__btn:nth-of-type(2)
 ablesbian.com##.btns > .livecam-btn
 ablesbian.com##.footer__container
 ablesbian.com##.right > section
 ablesbian.com##.video-info
 ablesbian.com##.videoplayer-container > .banner__container
 ablesbian.com##div.dropdown-menu:nth-of-type(2)
+abxxx.com,abjav.com##.app__container > div:nth-of-type(1)
+abxxx.com,abjav.com##.left > .banner__container
+abxxx.com,abjav.com,ablesbian.com##button.header__btn:nth-of-type(2)
+abxxx.com,xmilf.com,vxxx.com,senzuri.tube,boobse.com,ablesbian.com,abjav.com,bdsmx-porn.com##.jw-custom-btn.jw-related-toggle-button
 an1.com##body > .wrp
 anal.media##.desktop.homepageCreative
 area51.porn###comments .toggle-button
@@ -2273,7 +2280,6 @@ xmilf.com##.kltattk
 xmilf.com##.left > section
 xmilf.com##a.btn:nth-of-type(3)
 xmilf.com,bdsmx-porn.comsenzuri.tube,boobse.com##.comments__warning
-xmilf.com,vxxx.com,senzuri.tube,boobse.com,ablesbian.com,abjav.com,bdsmx-porn.com##.jw-custom-btn.jw-related-toggle-button
 xxxshake.com###fluid_theatre > div:nth-of-type(1)
 xxxshake.com##.active
 xxxshake.com##.btn-favourites
@@ -2288,9 +2294,3 @@ ytboob.com##.flex-container-desktop
 ytboob.com##.menu-item-31564.menu-item-object-custom.menu-item-type-custom.menu-item.video-icon
 ytboob.com##.menu-item-46576.menu-item-object-custom.menu-item-type-custom.menu-item.link-icon
 ytboob.com,www.porndroids.com##.site-footer
-||a.deviantart.net/avatars/t/a/tastefully-done.jpg?7$image
-||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-ea6ecb6d.gif$image
-||cdn-ilaobab.nitrocdn.com/lePUICgBcWyaBxcotrhntvbRsPrKoqSc/assets/images/optimized/rev-5d4d543/girlawy.com/wp-content/uploads/download*.png$image
-||girlawy.com/wp-content/uploads/download*.png$image
-||ukdevilz.com/static/img/bg.f853b95dab3a.png$image
-||www.cfnmtoob.com/images/cfnmcambottom.png$image
