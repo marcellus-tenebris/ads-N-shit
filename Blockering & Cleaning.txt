@@ -1909,7 +1909,7 @@ thisvid.com##div.container:nth-of-type(3)
 thisvid.com##div.container:nth-of-type(7)
 thisvid.com##div.headline:nth-of-type(3)
 thisvid.com,senzuri.tube##div.container:nth-of-type(4)
-thisvid.com,www.speedtest.net,www.rainblow.xxx,www.lyricsify.com,www.hdtube.porn,www.cfnmtoob.com,luluvdo.com,heavyfetish.com,luluvid.com,ukdevilz.com,noodlemagazine.com,www.storysaver.net,www.xozilla.xxx,www.xtits.xxx,juicyvid.com,xdegu.com,www.alotporn.com,boobsradar.com,lujuriax.com,bdsmx-porn.com,18tokyo.com,povjp.com,vxxx.com,xmilf.com,javmix.com,senzuri.tube,www.vivatube.com,sexplex.com,www.pornawy.com,www.fapnado.xxx,www.tubeon.club,www.theyarehuge.com,123av.com,area51.porn,mygrowl.com,x-x-x.tube,www.erome.com,xxxshake.com,www.winporn.com,m.tubeon.club,www.iceporn.com##.footer
+thisvid.com,www.speedtest.net,www.rainblow.xxx,www.lyricsify.com,www.hdtube.porn,www.cfnmtoob.com,luluvdo.com,heavyfetish.com,luluvid.com,ukdevilz.com,noodlemagazine.com,www.storysaver.net,www.xozilla.xxx,www.xtits.xxx,juicyvid.com,xdegu.com,www.alotporn.com,boobsradar.com,lujuriax.com,bdsmx-porn.com,18tokyo.com,povjp.com,vxxx.com,xmilf.com,javmix.com,senzuri.tube,www.vivatube.com,sexplex.com,www.pornawy.com,www.fapnado.xxx,www.tubeon.club,www.theyarehuge.com,123av.com,area51.porn,mygrowl.com,x-x-x.tube,www.erome.com,xxxshake.com,www.winporn.com,m.tubeon.club,www.iceporn.com,www.xasiat.com##.footer
 thisvid.com,www.vivatube.com##div.container:nth-of-type(5)
 trips.newsvix.online,go4news.online,primepropertynow.com,newsvix.online##.popSc
 trueamateurporn.org##.sm\:px-3.sm\:gap-3.px-2.bg-black\/85.gap-2.justify-center.items-center.flex-col.flex.z-30.inset-0.absolute
@@ -2206,6 +2206,9 @@ www.winporn.com##.player-col > .section
 www.winporn.com##.spot-live-cam.wrap-better-content.thumb
 www.winporn.com##div.navbar-row:nth-of-type(1)
 www.winporn.com,www.tubeon.club##.player-col-last
+www.xasiat.com##.highlight
+www.xasiat.com##.member-links
+www.xasiat.com##.top-links
 www.xozilla.xxx###list_models_top_models
 www.xozilla.xxx##.content > div:nth-of-type(2)
 www.xozilla.xxx##.video-page-headline.headline > p
@@ -2221,6 +2224,9 @@ www.xujan.com##.comment-login-prompt
 www.xujan.com##.gap-3.flex-column.d-flex > .nb-holder-mob
 www.xujan.com##.mt-3.z-1.w-100.start-0.position-relative.xn-footer
 www.xvideos.com,www.tnaflix.com,www.tubeon.club##footer
+www.xvideos2.com###footer
+www.xvideos2.com###page > .ad-support-desktop.is-filled.exo-ad-ins-container
+www.xvideos2.com##.ad-support-desktop.is-filled.exo-ad-ins-container.mobile-hide
 www.xvideos2.com##.tb_full_init.after-16.after-15.thumb-block.thumb-nat-exo-ad.thumb-nat-ad.thumb-ad
 www.xvideos2.com##body > div:nth-of-type(4)
 www.youtube.com###country-code
