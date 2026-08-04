@@ -956,6 +956,7 @@ $removeparam=yclid
 ||logservice.hicloud.com^$third-party
 ||logservice1.hicloud.com^$third-party
 ||lotame.com^
+||lovender.net^
 ||lovescape.com^
 ||lr-intake.com^$third-party
 ||luckyorange.com^
@@ -1717,16 +1718,16 @@ abebony.com##.videoplayer-container > div > .banner__container
 abebony.com,ablesbian.com##.unlock-full-btn
 abjav.com##.rating > button.raiting-button
 abjav.com,ablesbian.com##.download.raiting-button
+abjav.com,abmilf.com,abxxx.com##.app__container > div:nth-of-type(1)
 ablesbian.com##.btns > .livecam-btn
 ablesbian.com##.footer__container
 ablesbian.com##.right > section
 ablesbian.com##.video-info
 ablesbian.com##.videoplayer-container > .banner__container
 ablesbian.com##div.dropdown-menu:nth-of-type(2)
-abxxx.com,abjav.com##.app__container > div:nth-of-type(1)
+abmilf.com,abxxx.com,abjav.com,ablesbian.com##button.header__btn:nth-of-type(2)
+abmilf.com,abxxx.com,xmilf.com,vxxx.com,senzuri.tube,boobse.com,ablesbian.com,abjav.com,bdsmx-porn.com##.jw-custom-btn.jw-related-toggle-button
 abxxx.com,abjav.com##.left > .banner__container
-abxxx.com,abjav.com,ablesbian.com##button.header__btn:nth-of-type(2)
-abxxx.com,xmilf.com,vxxx.com,senzuri.tube,boobse.com,ablesbian.com,abjav.com,bdsmx-porn.com##.jw-custom-btn.jw-related-toggle-button
 an1.com##body > .wrp
 anal.media##.desktop.homepageCreative
 area51.porn###comments .toggle-button
@@ -1793,7 +1794,11 @@ girlawy.com###primary-menu
 girlawy.com###telegram-popup-overlay
 girlawy.com##.clearfix.site-footer
 girlawy.com##.comments-area.fbox
+girlawy.com##.entry-content > h1:nth-of-type(1)
+girlawy.com##.entry-content > p:nth-of-type(3)
+girlawy.com##.entry-content > p:nth-of-type(4)
 girlawy.com##.vip-fixed-box
+girlawy.com,m.tubeon.club##+js(aeld, click)
 handjobhub.com###promo-bar
 handjobhub.com##section.aff-sec:nth-of-type(2)
 himovies.sx##.mb-3.alert
@@ -1814,6 +1819,7 @@ javmix.com##.view-right
 javmix.com##section
 juicyvid.com##.video-comments-bottom
 luluvid.com,luluvdo.com##.header
+m.tubeon.club##div.section:nth-of-type(1)
 m.vivatube.com###banner_overlay-postitial-video
 m.vivatube.com###mobile-middle-1
 m.vivatube.com##.forms
@@ -1865,6 +1871,8 @@ senzuri.tube##.btn--radius.header__upload
 senzuri.tube##.btn--radius.header__userpanel-btn.btn
 senzuri.tube##.nopop.fah-btn
 senzuri.tube##a.has-tooltip.control--before.control
+senzuri.tube##div:nth-of-type(2) > .container
+senzuri.tube##li.header__list-item:nth-of-type(7)
 senzuri.tube##li.header__list-item:nth-of-type(8)
 senzuri.tube,ablesbian.com##.jw-reset-text.jw-title
 sexarab.pro##.dark.desktop-footer.site__footer--v4.site-footer
@@ -1898,10 +1906,10 @@ thisvid.com##.nav-header > li
 thisvid.com##.report_btn > [href="#"]
 thisvid.com##div.container:nth-of-type(13)
 thisvid.com##div.container:nth-of-type(3)
-thisvid.com##div.container:nth-of-type(4)
 thisvid.com##div.container:nth-of-type(7)
 thisvid.com##div.headline:nth-of-type(3)
-thisvid.com,www.speedtest.net,www.rainblow.xxx,www.lyricsify.com,www.hdtube.porn,www.cfnmtoob.com,luluvdo.com,heavyfetish.com,luluvid.com,ukdevilz.com,noodlemagazine.com,www.storysaver.net,www.xozilla.xxx,www.xtits.xxx,juicyvid.com,xdegu.com,www.alotporn.com,boobsradar.com,lujuriax.com,bdsmx-porn.com,18tokyo.com,povjp.com,vxxx.com,xmilf.com,javmix.com,senzuri.tube,www.vivatube.com,sexplex.com,www.pornawy.com,www.fapnado.xxx,www.tubeon.club,www.theyarehuge.com,123av.com,area51.porn,mygrowl.com,x-x-x.tube,www.erome.com,xxxshake.com##.footer
+thisvid.com,senzuri.tube##div.container:nth-of-type(4)
+thisvid.com,www.speedtest.net,www.rainblow.xxx,www.lyricsify.com,www.hdtube.porn,www.cfnmtoob.com,luluvdo.com,heavyfetish.com,luluvid.com,ukdevilz.com,noodlemagazine.com,www.storysaver.net,www.xozilla.xxx,www.xtits.xxx,juicyvid.com,xdegu.com,www.alotporn.com,boobsradar.com,lujuriax.com,bdsmx-porn.com,18tokyo.com,povjp.com,vxxx.com,xmilf.com,javmix.com,senzuri.tube,www.vivatube.com,sexplex.com,www.pornawy.com,www.fapnado.xxx,www.tubeon.club,www.theyarehuge.com,123av.com,area51.porn,mygrowl.com,x-x-x.tube,www.erome.com,xxxshake.com,www.winporn.com,m.tubeon.club,www.iceporn.com##.footer
 thisvid.com,www.vivatube.com##div.container:nth-of-type(5)
 trips.newsvix.online,go4news.online,primepropertynow.com,newsvix.online##.popSc
 trueamateurporn.org##.sm\:px-3.sm\:gap-3.px-2.bg-black\/85.gap-2.justify-center.items-center.flex-col.flex.z-30.inset-0.absolute
@@ -2162,6 +2170,7 @@ www.theyarehuge.com##div.headline:nth-of-type(4)
 www.theyarehuge.com##div.headline:nth-of-type(6)
 www.theyarehuge.com##div.tah-desktop-spot:nth-of-type(4)
 www.theyarehuge.com##div.tah-desktop-spot:nth-of-type(5)
+www.tiava.com##.gap-6.flex-col.flex.mobile\:p-2.p-6.container.footer
 www.tiktok.com##.e1mw74j7.tiktok-1vs0u64-7937d88b--SubMainNavContentContainer
 www.tiktok.com##.e1mw74j9.tiktok-1gvgfgc-7937d88b--SubMainNavFooterContainer
 www.tiktok.com##.e1sleddd1.tiktok-1comlxd-7937d88b--DivFixedTopContainer
@@ -2169,14 +2178,14 @@ www.tiktok.com##.eqhuzff6.tiktok-tfue59-7937d88b--DivMainNavContainer > div:nth-
 www.tiktok.com##h2:nth-of-type(2)
 www.tiktok.com##h2:nth-of-type(4)
 www.tiktok.com##h2:nth-of-type(5)
-www.tnaflix.com##footer
 www.tubeon.club##.cams
 www.tubeon.club##.has-no-margin
-www.tubeon.club##.header_premium_bar
+www.tubeon.club##.member-list
 www.tubeon.club##.nano-pane
-www.tubeon.club##.player-col-last
 www.tubeon.club##.player-live
+www.tubeon.club##.spot-live-cam.thumb
 www.tubeon.club##li.nav-pages-item:nth-of-type(4)
+www.tubeon.club,www.winporn.com##.header_premium_bar
 www.tumblr.com##[src="https://assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-with-patio-47ce20b6.gif"]
 www.vidzx.org##.md\:block.hidden > .px-3.h-8.hover\:bg-brand-dark.text-black.bg-brand.disabled\:opacity-50.focus-visible\:outline-none.transition-colors.font-medium.text-sm.rounded-md.gap-2.justify-center.items-center.inline-flex
 www.vidzx.org##.pb-6.rounded-lg.overflow-hidden.max-w-md.w-full.mx-auto.relative
@@ -2193,6 +2202,10 @@ www.vivatube.com##div.up-action:nth-of-type(4)
 www.vivatube.com,m.vivatube.com##.btn-secondary.ID_live_cam_wrapper
 www.vivatube.com,www.tubeon.club###spot_video_underplayer_livecams
 www.wankoz.com##.aside-holder
+www.winporn.com##.player-col > .section
+www.winporn.com##.spot-live-cam.wrap-better-content.thumb
+www.winporn.com##div.navbar-row:nth-of-type(1)
+www.winporn.com,www.tubeon.club##.player-col-last
 www.xozilla.xxx###list_models_top_models
 www.xozilla.xxx##.content > div:nth-of-type(2)
 www.xozilla.xxx##.video-page-headline.headline > p
@@ -2207,7 +2220,7 @@ www.xtits.xxx,www.xozilla.xxx###lj-container
 www.xujan.com##.comment-login-prompt
 www.xujan.com##.gap-3.flex-column.d-flex > .nb-holder-mob
 www.xujan.com##.mt-3.z-1.w-100.start-0.position-relative.xn-footer
-www.xvideos.com###footer
+www.xvideos.com,www.tnaflix.com,www.tubeon.club##footer
 www.xvideos2.com##.tb_full_init.after-16.after-15.thumb-block.thumb-nat-exo-ad.thumb-nat-ad.thumb-ad
 www.xvideos2.com##body > div:nth-of-type(4)
 www.youtube.com###country-code
@@ -2279,7 +2292,7 @@ xhopen.com,xhamster.com,xhamster3.com##li.listItem-7ae27:nth-of-type(3)
 xmilf.com##.kltattk
 xmilf.com##.left > section
 xmilf.com##a.btn:nth-of-type(3)
-xmilf.com,bdsmx-porn.comsenzuri.tube,boobse.com##.comments__warning
+xmilf.com,bdsmx-porn.comsenzuri.tube,boobse.com,senzuri.tube##.comments__warning
 xxxshake.com###fluid_theatre > div:nth-of-type(1)
 xxxshake.com##.active
 xxxshake.com##.btn-favourites
