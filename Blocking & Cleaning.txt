@@ -990,6 +990,7 @@ $removeparam=yclid
 ||maxai.org^
 ||maxmind.com^$third-party
 ||media.net^
+||medialab.la^
 ||mediamath.com^
 ||mediavisor.doubleclick.net^$third-party
 ||medium.com^$removeparam=source
@@ -1653,7 +1654,6 @@ $removeparam=yclid
 ||zoom.us/wc/tracking$xmlhttprequest
 ||zoominfo.com^
 ||zopim.com^
-!
 ###ad_popup
 ##.ad
 ##.ad-container
