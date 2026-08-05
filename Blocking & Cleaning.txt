@@ -1,5 +1,7 @@
 ! Title: Blocking & Cleaning
 !
+! Expires: 1 hour
+!
 $removeparam=/^af_[a-z_]*=/
 $removeparam=/^aff[a-z]*=/
 $removeparam=/^mkt_tok=/
@@ -1594,6 +1596,7 @@ $removeparam=yclid
 ||wixstatic.com^$third-party,domain=~wix.com
 ||woopra.com^
 ||wps.com^$removeparam=from
+||www.3arabx.com/styles/vigas/img/backbg.jpeg$image
 ||www.business.reddit.com^
 ||www.cfnmtoob.com/images/cfnmcambottom.png$image
 ||www.facebook.com/tr^$third-party
@@ -1654,6 +1657,7 @@ $removeparam=yclid
 ||zoom.us/wc/tracking$xmlhttprequest
 ||zoominfo.com^
 ||zopim.com^
+!
 ###ad_popup
 ##.ad
 ##.ad-container
@@ -1713,7 +1717,7 @@ $removeparam=yclid
 ##div#status-bubble
 ##div[id="status-bubble"]
 123av.com,18tokyo.com,area51.porn,bdsmx-porn.com,boobsradar.com,heavyfetish.com,javmix.com,juicyvid.com,lujuriax.com,luluvdo.com,luluvid.com,m.tubeon.club,mygrowl.com,noodlemagazine.com,povjp.com,senzuri.tube,sexplex.com,thisvid.com,ukdevilz.com,vxxx.com,www.alotporn.com,www.cfnmtoob.com,www.erome.com,www.fapnado.xxx,www.hdtube.porn,www.heavy-r.com,www.iceporn.com,www.lyricsify.com,www.pornawy.com,www.rainblow.xxx,www.speedtest.net,www.storysaver.net,www.theyarehuge.com,www.tubeon.club,www.vivatube.com,www.winporn.com,www.xasiat.com,www.xozilla.xxx,www.xtits.xxx,x-x-x.tube,xdegu.com,xmilf.com,xxxshake.com##.footer
-12vids.com,www.pornawy.com,leakvids.com,www.xozilla.xxx,juicyvid.com,xdegu.com,boobsradar.com,lujuriax.com,www.pornfreenow.com##.table
+12vids.com,boobsradar.com,juicyvid.com,leakvids.com,lujuriax.com,www.pornawy.com,www.pornfreenow.com,www.xozilla.xxx,xdegu.com##.table
 18tokyo.com###full-header
 18tokyo.com,povjp.com##.toggle-button
 abbdsm.com##.video__wrapper > h2
@@ -1742,6 +1746,7 @@ area51.porn##.primary > li:nth-of-type(10)
 area51.porn##.show_comments
 area51.porn##.tabs-menu
 area51.porn##.user-link
+area51.porn,www.tnaflix.com,www.tubeon.club,www.xvideos.com##footer
 around.xxx##.mt-\[-8px\].text-right.text-xs
 asianpornxl.com##.desc.fq-video-actions.player-tools > .btn-download
 asianpornxl.com##.fq-comments-composer-wrap.comment-holder.form-box
@@ -2228,7 +2233,6 @@ www.xtits.xxx,www.xozilla.xxx###lj-container
 www.xujan.com##.comment-login-prompt
 www.xujan.com##.gap-3.flex-column.d-flex > .nb-holder-mob
 www.xujan.com##.mt-3.z-1.w-100.start-0.position-relative.xn-footer
-www.xvideos.com,www.tnaflix.com,www.tubeon.club##footer
 www.xvideos2.com###footer
 www.xvideos2.com###page > .ad-support-desktop.is-filled.exo-ad-ins-container
 www.xvideos2.com##.ad-support-desktop.is-filled.exo-ad-ins-container.mobile-hide
