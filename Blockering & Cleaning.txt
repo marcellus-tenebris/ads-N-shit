@@ -587,6 +587,8 @@ $removeparam=yclid
 ||ecosia.org/count/$xmlhttprequest
 ||edge.microsoft.com/api/telemetry/$xmlhttprequest
 ||edgesync.microsoft.com/telemetry/$xmlhttprequest
+||elbitamerica.com^
+||elbitsystems.com^
 ||elliptic.co^$third-party
 ||eloqua.com^$third-party
 ||email.mg*.com^$third-party
@@ -1060,6 +1062,7 @@ $removeparam=yclid
 ||niceincontact.com^
 ||nielsen.com^
 ||nielseniq.com^
+||nitropack.io^
 ||nmetrics.samsung.com^$third-party
 ||nominatim.openstreetmap.org^$third-party
 ||noon.com/api/analytics$xmlhttprequest
@@ -1649,6 +1652,7 @@ $removeparam=yclid
 ||zoom.us/wc/tracking$xmlhttprequest
 ||zoominfo.com^
 ||zopim.com^
+!
 ###ad_popup
 ##.ad
 ##.ad-container
