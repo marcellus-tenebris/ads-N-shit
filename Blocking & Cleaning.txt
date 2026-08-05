@@ -1,4 +1,4 @@
-! Title: Blockeing & Cleaning
+! Title: Blocking & Cleaning
 !
 $removeparam=/^af_[a-z_]*=/
 $removeparam=/^aff[a-z]*=/
