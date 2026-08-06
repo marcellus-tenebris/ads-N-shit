@@ -1006,6 +1006,7 @@ $removeparam=yclid
 ||metrics.mzstatic.com^$third-party
 ||metrics2.data.hicloud.com^$third-party
 ||metrika.yandex.ru^$third-party
+||mexc.com^
 ||mgid.com^
 ||miafoster.com^
 ||microsoft.com/akam/13/$xmlhttprequest
@@ -1463,6 +1464,7 @@ $removeparam=yclid
 ||tinyurl.com^$third-party
 ||tnaflix.com/track/$xmlhttprequest
 ||toboads.com^
+||tokiapp.net^
 ||toutiao.com^
 ||tpc.googlesyndication.com^$third-party
 ||tr.snapchat.com^$third-party
@@ -1609,6 +1611,7 @@ $removeparam=yclid
 ||x.com^$removeparam=s
 ||x.com^$removeparam=t
 ||xandr.com^
+||xenalive.me^
 ||xhamster.com/exit.php$xmlhttprequest
 ||xhamster.com/track/$xmlhttprequest
 ||xhamster.com/x-stat$xmlhttprequest
@@ -1714,7 +1717,7 @@ $removeparam=yclid
 ##.video-overlay
 ##div#status-bubble
 ##div[id="status-bubble"]
-123av.com,18tokyo.com,area51.porn,bdsmx-porn.com,boobsradar.com,heavyfetish.com,javmix.com,juicyvid.com,lujuriax.com,luluvdo.com,luluvid.com,m.tubeon.club,mygrowl.com,noodlemagazine.com,povjp.com,senzuri.tube,sexplex.com,thisvid.com,ukdevilz.com,vxxx.com,www.alotporn.com,www.cfnmtoob.com,www.erome.com,www.fapnado.xxx,www.hdtube.porn,www.heavy-r.com,www.iceporn.com,www.lyricsify.com,www.pornawy.com,www.rainblow.xxx,www.speedtest.net,www.storysaver.net,www.theyarehuge.com,www.tubeon.club,www.vivatube.com,www.winporn.com,www.xasiat.com,www.xozilla.xxx,www.xtits.xxx,x-x-x.tube,xdegu.com,xmilf.com,xxxshake.com##.footer
+123av.com,18tokyo.com,area51.porn,bdsmx-porn.com,boobsradar.com,heavyfetish.com,javmix.com,juicyvid.com,lujuriax.com,luluvdo.com,luluvid.com,m.tubeon.club,mygrowl.com,noodlemagazine.com,povjp.com,senzuri.tube,sexplex.com,thisvid.com,ukdevilz.com,vxxx.com,www.alotporn.com,www.cfnmtoob.com,www.erome.com,www.fapnado.xxx,www.hdtube.porn,www.heavy-r.com,www.iceporn.com,www.lyricsify.com,www.pornawy.com,www.rainblow.xxx,www.speedtest.net,www.storysaver.net,www.theyarehuge.com,www.tubeon.club,www.vivatube.com,www.winporn.com,www.xasiat.com,www.xozilla.xxx,www.xtits.xxx,x-x-x.tube,xdegu.com,xmilf.com,xxxshake.com,www.fucker.com,www.dafreeporn.com##.footer
 12vids.com,boobsradar.com,juicyvid.com,leakvids.com,lujuriax.com,www.pornawy.com,www.pornfreenow.com,www.xozilla.xxx,xdegu.com##.table
 18tokyo.com###full-header
 18tokyo.com,povjp.com##.toggle-button
@@ -1744,12 +1747,12 @@ area51.porn##.primary > li:nth-of-type(10)
 area51.porn##.show_comments
 area51.porn##.tabs-menu
 area51.porn##.user-link
-area51.porn,www.tnaflix.com,www.tubeon.club,www.xvideos.com##footer
+area51.porn,www.tnaflix.com,www.tubeon.club,www.xvideos.com,w1mp.com##footer
 around.xxx##.mt-\[-8px\].text-right.text-xs
 asianpornxl.com##.desc.fq-video-actions.player-tools > .btn-download
 asianpornxl.com##.fq-comments-composer-wrap.comment-holder.form-box
-asianpornxl.com##.fq-footer-ad
-asianpornxl.com##.fq-sponsored-strip
+asianpornxl.com,w1mp.com##.fq-footer-ad
+asianpornxl.com,w1mp.com##.fq-sponsored-strip
 bdsmstreak.com##.dark\:bg-ink-950.bg-white.dark\:border-ink-800.border-gray-200.border-t.mt-16
 bdsmstreak.com##.dark\:ring-ink-700.ring-gray-200.ring-1.dark\:hover\:bg-ink-700.hover\:bg-gray-200.dark\:bg-ink-800.bg-gray-100.dark\:text-neutral-200.text-gray-700.font-semibold.text-sm.rounded-full.min-h-\[40px\].py-2.px-3.gap-1\.5.items-center.inline-flex
 bdsmstreak.com##.dark\:text-neutral-300.text-gray-700.text-sm.dark\:bg-ink-900.bg-gray-50.dark\:ring-ink-800.ring-gray-200.ring-1.rounded-md.p-3.mt-3
@@ -1779,6 +1782,7 @@ chatgpt.com##a.hoverable.__menu-item.group:nth-of-type(4)
 chatgpt.com##div.\[\&\:nth-child\(1_of_\:has\(div\:not\(\[role\=group\]\)\)\)\]\:before\:hidden.first\:before\:hidden.before\:h-px.before\:block.before\:my-1.before\:mx-4.content-sheet\:before\:mx-6.content-sheet\:before\:my-3.before\:bg-token-border-default.\[\:not\(\:has\(div\:not\(\[role\=group\]\)\)\)\]\:hidden.empty\:hidden:nth-of-type(2) > div > div.__menu-item.group:nth-of-type(1)
 claude.ai##.bg-bg-300.pointer-events-auto.duration-150.transition-opacity.select-none.text-text-500.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
 claude.ai##.mt-4.px-2.flex-col.flex > .duration-150.ease-out.transition-opacity.opacity-0.justify-between.items-center.flex
+desibf.com,ytboob.com,www.porndroids.com##.site-footer
 efukt.com##.random_video_hint
 efukt.com##.shifter.footer
 ensuretips.com##.skpzbfbyduwytnymzrqdxnwmzmhabdgrqzlicfhnytnmvxjrniazjfmoy.cxjmofqzalhsutrqnzmwmgzfnubdriouluyzncsukzbfgdhbemhwtjfmoy
@@ -1789,6 +1793,13 @@ f-droid.org##div.sidebar-widget:nth-of-type(3)
 fapello.com##.uk-visible\@l.my-2.text-sm.text-center.space-x-3.font-semibold.flex.capitalize
 fapello.com##div.p-5.space-x-5.flex:nth-of-type(5)
 fapello.com##div.p-5.space-x-5.flex:nth-of-type(6)
+faplane.com##.backdrop-blur.py-3.px-4.bg-bg-card\/95.border-neutral-800.border-t.z-\[60\].bottom-0.inset-x-0.fixed
+faplane.com##.bg-bg-card.border-neutral-800.border-t.mt-12
+faplane.com##.md\:block.hidden
+faplane.com##.pb-6.rounded-lg.overflow-hidden.max-w-md.w-full.mx-auto.relative
+faplane.com##.pt-3.px-4.justify-center.flex.relative
+faplane.com##.py-3.px-4.gap-3.items-center.flex > .gap-2.items-center.flex
+faplane.com##.sm\:flex.hover\:bg-premium-dark.text-black.font-bold.text-sm.py-1\.5.px-3.bg-premium.rounded.gap-1.items-center.hidden
 fast.com##.language-selector-container
 fast.com##.powered-by-container
 fast.com##.share-container
@@ -1858,7 +1869,7 @@ povjp.com,18tokyo.com###list_videos_aside_videos
 povjp.com,18tokyo.com##.main-container > .main-container
 povjp.com,18tokyo.com##.under-player-banner
 povjp.com,18tokyo.com##.unlogin.highlight
-povjp.com,18tokyo.com,japan-whores.com,javmix.com##.shown.player-top-line
+povjp.com,18tokyo.com,japan-whores.com,javmix.com,xdegu.com##.shown.player-top-line
 redvid.io##.header-inner
 redvid.io##.hero-badge
 redvid.io##.hero-subtitle
@@ -1943,6 +1954,12 @@ vidzstream.online###overlay-st2ebf
 vidzstream.online###overlay-wsyhz8
 viralxxxporn.com##.vx-sidebar-adv
 vxxx.com##.hvydnddnyyhnhnvvnn
+w1mp.com###np-logo
+w1mp.com##.above-player-link
+w1mp.com##.fq-comment-composer
+w1mp.com##.header-tools
+w1mp.com##.rating-container.col > .btn-download
+w1mp.com##.tools > div.item:nth-of-type(5)
 wowne.ws###gridshow-copyright-area
 wowne.ws###gridshow-secondary-navigation
 wowne.ws##.code-block-14.code-block
@@ -1955,6 +1972,8 @@ wowne.ws##.gridshow-entry-meta-single
 wowne.ws##.post-navigation.navigation
 wowne.ws##.wp-block-paragraph
 wowne.ws##center
+www.3movs.com##.column > div:nth-of-type(2)
+www.3movs.com##.index.footer > .holder
 www.alotporn.com##.col-asside
 www.alotporn.com##.col-video > center
 www.analdin.xxx##.container > div > p
@@ -1967,7 +1986,6 @@ www.aznude.com##.account-navbar__toggler-wrapper
 www.aznude.com##.az-welcome-bar
 www.aznude.com##.native-footer-mobile
 www.aznude.com##.ribbon-container-desktop
-www.aznude.com,xhopen.com##.footer-wrapper
 www.cfnmtoob.com##.col.aside
 www.cfnmtoob.com##.page-main > .inline-aff-sec
 www.cremz.com##.col-asside
@@ -2111,8 +2129,7 @@ www.pornfreenow.com##div.pignu:nth-of-type(4)
 www.pornfreenow.com##li.pignu:nth-of-type(7)
 www.pornfreenow.com##li.pignu:nth-of-type(8)
 www.pornfreenow.com##li.pignu:nth-of-type(9)
-www.pornfreenow.com,area51.porn,xxxshake.com##.text
-www.pornfreenow.com,www.sortporn.com##.highlight
+www.pornfreenow.com,area51.porn,xxxshake.com,www.dafreeporn.com##.text
 www.pornpics.de###fb-button
 www.pornpics.de##.active.login-section
 www.pornpics.de##.comm-form
@@ -2125,7 +2142,7 @@ www.rainblow.xxx##.xpot-horizontal-b.xpot-horizontal
 www.rainblow.xxx##.zpot-horizontal-img > center
 www.rainblow.xxx##li:nth-of-type(7)
 www.rainblow.xxx,www.fapnado.xxx,www.transhero.com##.zblurb.table
-www.rainblow.xxx,www.pornfreenow.com,area51.porn##.footer-margin
+www.rainblow.xxx,www.pornfreenow.com,area51.porn,xdegu.com##.footer-margin
 www.rainblow.xxx,www.transhero.com##.fade_in.text_link_holder
 www.rainblow.xxx,www.transhero.com##.fluid_start_container
 www.rainblow.xxx,www.transhero.com##.video-holder > center
@@ -2214,9 +2231,9 @@ www.winporn.com##.player-col > .section
 www.winporn.com##.spot-live-cam.wrap-better-content.thumb
 www.winporn.com##div.navbar-row:nth-of-type(1)
 www.winporn.com,www.tubeon.club##.player-col-last
-www.xasiat.com##.highlight
 www.xasiat.com##.member-links
 www.xasiat.com##.top-links
+www.xasiat.com,www.dafreeporn.com,www.pornfreenow.com,www.sortporn.com##.highlight
 www.xozilla.xxx###list_models_top_models
 www.xozilla.xxx##.content > div:nth-of-type(2)
 www.xozilla.xxx##.video-page-headline.headline > p
@@ -2269,8 +2286,10 @@ x.com##a[href="/i/premium_sign_up"]
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
 x.com##div[role="dialog"]:has(a[href*="/i/premium_sign_up"])
 x.com##div[role="dialog"]:has(button[data-testid*="subscribe"])
+xdegu.com##.about_blocks
 xfeed.com##.has-badge-danger.has-badge-rounded.bonga-button.cloud__item--pill.cloud__item
 xfeed.com##.has-badge-warning.has-badge-rounded.signup-login-button.cloud__item--pill.cloud__item
+xgroovy.com,www.aznude.com,xhopen.com##.footer-wrapper
 xhand.net##.container > div > div > p
 xhand.net##.footer__wrap
 xhand.net##.main__holder
@@ -2319,4 +2338,3 @@ ytboob.com##.comments-area
 ytboob.com##.flex-container-desktop
 ytboob.com##.menu-item-31564.menu-item-object-custom.menu-item-type-custom.menu-item.video-icon
 ytboob.com##.menu-item-46576.menu-item-object-custom.menu-item-type-custom.menu-item.link-icon
-ytboob.com,www.porndroids.com##.site-footer
