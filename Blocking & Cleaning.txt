@@ -1753,18 +1753,54 @@ $removeparam=yclid
 ##div#status-bubble
 ##div[id="status-bubble"]
 !
-girlawy.com,m.tubeon.club##+js(aeld, click)
-!
-www.analdin.xxx,www.dafreeporn.com,www.pornfreenow.com,www.sortporn.com,www.xasiat.com##.highlight
 123av.com,18tokyo.com,area51.porn,bdsmx-porn.com,boobsradar.com,heavyfetish.com,javmix.com,juicyvid.com,lujuriax.com,luluvdo.com,luluvid.com,m.tubeon.club,mygrowl.com,noodlemagazine.com,povjp.com,senzuri.tube,sexplex.com,thisvid.com,ukdevilz.com,vxxx.com,www.alotporn.com,www.analdin.xxx,www.cfnmtoob.com,www.dafreeporn.com,www.erome.com,www.fapnado.xxx,www.fucker.com,www.hdtube.porn,www.heavy-r.com,www.iceporn.com,www.lyricsify.com,www.pornawy.com,www.rainblow.xxx,www.serializd.com,www.speedtest.net,www.storysaver.net,www.theyarehuge.com,www.tubeon.club,www.vivatube.com,www.winporn.com,www.xasiat.com,www.xozilla.xxx,www.xtits.xxx,x-x-x.tube,xdegu.com,xmilf.com,xxxshake.com##.footer
 12vids.com,boobsradar.com,juicyvid.com,leakvids.com,lujuriax.com,www.pornawy.com,www.pornfreenow.com,www.xozilla.xxx,xdegu.com##.table
+18tokyo.com,japan-whores.com,javmix.com,povjp.com,xdegu.com##.shown.player-top-line
+18tokyo.com,povjp.com###list_videos_aside_videos
+18tokyo.com,povjp.com##.main-container > .main-container
 18tokyo.com,povjp.com##.toggle-button
+18tokyo.com,povjp.com##.under-player-banner
+18tokyo.com,povjp.com##.unlogin.highlight
 abbdsm.com,ablesbian.com##.app__container > div
 abebony.com,ablesbian.com##.unlock-full-btn
 abjav.com,ablesbian.com##.download.raiting-button
+abjav.com,ablesbian.com,abmilf.com,abxxx.com##button.header__btn:nth-of-type(2)
+abjav.com,ablesbian.com,abmilf.com,abxxx.com,bdsmx-porn.com,boobse.com,senzuri.tube,vxxx.com,xmilf.com##.jw-custom-btn.jw-related-toggle-button
+abjav.com,abmilf.com,abxxx.com##.app__container > div:nth-of-type(1)
+abjav.com,abxxx.com##.left > .banner__container
+ablesbian.com,senzuri.tube##.jw-reset-text.jw-title
 area51.porn,mcpelife.com,w1mp.com,www.playvids.com,www.tnaflix.com,www.tubeon.club,www.xvideos.com##footer
-www.xtits.xxx,www.xozilla.xxx###lj-container
+area51.porn,www.dafreeporn.com,www.pornfreenow.com,xxxshake.com##.text
+area51.porn,www.pornfreenow.com,www.rainblow.xxx,xdegu.com##.footer-margin
+asianpornxl.com,w1mp.com##.fq-footer-ad
+asianpornxl.com,w1mp.com##.fq-sponsored-strip
+bdsmx-porn.comsenzuri.tube,boobse.com,senzuri.tube,xmilf.com##.comments__warning
+desibf.com,www.porndroids.com,ytboob.com##.site-footer
+go4news.online,newsvix.online,primepropertynow.com,trips.newsvix.online##.popSc
+luluvdo.com,luluvid.com##.header
+m.vivatube.com,www.vivatube.com##.btn-secondary.ID_live_cam_wrapper
+pornfact.com,povjp.com##.ntv
+senzuri.tube,thisvid.com##div.container:nth-of-type(4)
+spankbang.com,thisvid.com##.links
+thisvid.com,www.vivatube.com##div.container:nth-of-type(5)
+trueamateurporn.org,www.vidzx.org##.backdrop-blur.py-3.px-4.bg-bg-card\/95.border-neutral-800.border-t.z-\[60\].bottom-0.inset-x-0.fixed
+trueamateurporn.org,www.vidzx.org##.bg-bg-card.border-neutral-800.border-t.mt-12
+www.analdin.xxx,www.dafreeporn.com,www.pornfreenow.com,www.sortporn.com,www.xasiat.com##.highlight
+www.ashemaletube.me,www.fetishpapa.com##.side-content-block
 www.aznude.com,xgroovy.com,xhopen.com##.footer-wrapper
+www.fapnado.xxx,www.rainblow.xxx,www.transhero.com##.hqb-topbar
+www.fapnado.xxx,www.rainblow.xxx,www.transhero.com##.zblurb.table
+www.fappenist.com,www.storysaver.net,www.thenipslip.com##h1
+www.rainblow.xxx,www.transhero.com##.fade_in.text_link_holder
+www.rainblow.xxx,www.transhero.com##.fluid_start_container
+www.rainblow.xxx,www.transhero.com##.video-holder > center
+www.rainblow.xxx,www.transhero.com##li:nth-of-type(8)
+www.rainblow.xxx,www.transhero.com##li:nth-of-type(9)
+www.thenipslip.com,ytboob.com##.comments-area
+www.tubeon.club,www.vivatube.com###spot_video_underplayer_livecams
+www.tubeon.club,www.winporn.com##.header_premium_bar
+www.tubeon.club,www.winporn.com##.player-col-last
+www.xtits.xxx,www.xozilla.xxx###lj-container
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##.about-control.large.gray.button.xh-button
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##.buttons-aef6f
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##.container-2a3c5.secondary-64d24.medium-64d24.root-64d24
@@ -1777,61 +1813,25 @@ xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##.link-3682d.
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##.login-section
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##.newNav-3682d.right.top-menu__side-group
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##.right.top-menu__side-group
-abjav.com,ablesbian.com,abmilf.com,abxxx.com,bdsmx-porn.com,boobse.com,senzuri.tube,vxxx.com,xmilf.com##.jw-custom-btn.jw-related-toggle-button
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##.straight.preferenceHint-a9be0
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##.twoColumns-cdbbb.fullWidth-cdbbb.buttons-cdbbb
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##.video-thumb__moment.video-thumb.thumb-list__item.item-19ee5
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##.widthWrap-cb57f
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##.withShadow-35a92.popup-35a92
-asianpornxl.com,w1mp.com##.fq-footer-ad
-asianpornxl.com,w1mp.com##.fq-sponsored-strip
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##.xh-multiline-editable.textarea.inputAreaInner-77ac5
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##.xp-subscribe__logo
-ablesbian.com,senzuri.tube##.jw-reset-text.jw-title
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##div.container-64b3c:nth-of-type(10)
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##div.container-64b3c:nth-of-type(2)
-spankbang.com,thisvid.com##.links
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(19)
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(21)
-www.tubeon.club,www.winporn.com##.header_premium_bar
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(24)
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(50)
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(51)
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##div.video-thumb.thumb-list__item:nth-of-type(52)
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##li.listItem-7ae27:nth-of-type(2)
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##li.listItem-7ae27:nth-of-type(3)
-bdsmx-porn.comsenzuri.tube,boobse.com,senzuri.tube,xmilf.com##.comments__warning
-www.rainblow.xxx,www.transhero.com##.fade_in.text_link_holder
-www.rainblow.xxx,www.transhero.com##.fluid_start_container
-www.rainblow.xxx,www.transhero.com##.video-holder > center
-www.rainblow.xxx,www.transhero.com##li:nth-of-type(8)
-www.tubeon.club,www.winporn.com##.player-col-last
-www.rainblow.xxx,www.transhero.com##li:nth-of-type(9)
-www.tubeon.club,www.vivatube.com###spot_video_underplayer_livecams
-18tokyo.com,povjp.com###list_videos_aside_videos
-18tokyo.com,povjp.com##.main-container > .main-container
-18tokyo.com,povjp.com##.under-player-banner
-18tokyo.com,povjp.com##.unlogin.highlight
-abjav.com,abmilf.com,abxxx.com##.app__container > div:nth-of-type(1)
-abjav.com,ablesbian.com,abmilf.com,abxxx.com##button.header__btn:nth-of-type(2)
-abjav.com,abxxx.com##.left > .banner__container
-senzuri.tube,thisvid.com##div.container:nth-of-type(4)
-thisvid.com,www.vivatube.com##div.container:nth-of-type(5)
-go4news.online,newsvix.online,primepropertynow.com,trips.newsvix.online##.popSc
-desibf.com,www.porndroids.com,ytboob.com##.site-footer
-luluvdo.com,luluvid.com##.header
-area51.porn,www.dafreeporn.com,www.pornfreenow.com,xxxshake.com##.text
-18tokyo.com,japan-whores.com,javmix.com,povjp.com,xdegu.com##.shown.player-top-line
-area51.porn,www.pornfreenow.com,www.rainblow.xxx,xdegu.com##.footer-margin
-www.fapnado.xxx,www.rainblow.xxx,www.transhero.com##.zblurb.table
-pornfact.com,povjp.com##.ntv
-www.ashemaletube.me,www.fetishpapa.com##.side-content-block
-www.fappenist.com,www.storysaver.net,www.thenipslip.com##h1
-www.fapnado.xxx,www.rainblow.xxx,www.transhero.com##.hqb-topbar
-trueamateurporn.org,www.vidzx.org##.backdrop-blur.py-3.px-4.bg-bg-card\/95.border-neutral-800.border-t.z-\[60\].bottom-0.inset-x-0.fixed
-trueamateurporn.org,www.vidzx.org##.bg-bg-card.border-neutral-800.border-t.mt-12
-www.thenipslip.com,ytboob.com##.comments-area
-m.vivatube.com,www.vivatube.com##.btn-secondary.ID_live_cam_wrapper
+!
+girlawy.com,m.tubeon.club##+js(aeld, click)
 !
 18tokyo.com###full-header
 abbdsm.com##.video__wrapper > h2
