@@ -932,6 +932,7 @@ $removeparam=yclid
 ||lazybumblebee.com^
 ||lcdn.tsyndicate.com^
 ||letterboxd.com/s/track$xmlhttprequest
+||lexisnexis.com^
 ||lijit.com^
 ||limelight.com^$third-party
 ||liner.com^
