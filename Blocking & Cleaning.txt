@@ -1691,6 +1691,7 @@ $removeparam=yclid
 ||static-eu-cdn.eporner.com/new/adinhead.png$image
 ||theguardian.com/px.gif$image
 ||ukdevilz.com/static/img/bg.f853b95dab3a.png$image
+||www.3arabx.com/styles/vigas/img/backbg.jpeg$image
 ||www.cfnmtoob.com/images/cfnmcambottom.png$image
 ||www.thenipslip.com/wp-content/uploads/2010/10/star_background_03.gif$image
 !
@@ -2056,12 +2057,15 @@ wowne.ws##.code-block-14.code-block
 wowne.ws##.code-block-16.code-block
 wowne.ws##.code-block-9.code-block
 wowne.ws##.gridshow-box.comments-area
+wowne.ws##.gridshow-clearfix.gridshow-primary-menu-container.gridshow-container
 wowne.ws##.gridshow-clearfix.gridshow-sidebar-widget-areas.gridshow-sidebar-one-wrapper
 wowne.ws##.gridshow-container.gridshow-copyright-area-inside
 wowne.ws##.gridshow-entry-meta-single
 wowne.ws##.post-navigation.navigation
 wowne.ws##.wp-block-paragraph
 wowne.ws##center
+www.3arabx.com##.pre-footer
+www.3arabx.com##.swal2-backdrop-show.swal2-center.swal2-rtl.swal2-container
 www.3movs.com##.column > div:nth-of-type(2)
 www.3movs.com##.index.footer > .holder
 www.alotporn.com##.col-asside
