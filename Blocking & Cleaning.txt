@@ -220,6 +220,7 @@ $removeparam=yclid
 ||airtable.com/v0.3/track^
 ||aistudio.facebook.com^
 ||aistudio.instagram.com^
+||ajax.googleapis.com^
 ||akamaihd.net/analytics^
 ||alameed.com^
 ||alexa.amazon.com/api/behaviors/preview/$xmlhttprequest
@@ -243,6 +244,7 @@ $removeparam=yclid
 ||alimama.com^
 ||allot.com^
 ||alphabet.com^
+||amatporn.com^
 ||amazon-adsystem.com^
 ||amazon-adsystem.com^$domain=imdb.com
 ||amazon.*^$removeparam=asc_campaign
@@ -418,6 +420,8 @@ $removeparam=yclid
 ||c.bing.com^$third-party
 ||c4-dataset.org^$third-party
 ||cam4.com/rest/stats$xmlhttprequest
+||cam4.porn^
+||cambb.xxx^
 ||camjke.com^
 ||cammodels.site^
 ||campfirecroutondecorator.com^
@@ -469,9 +473,11 @@ $removeparam=yclid
 ||chat.openai.com/public-api/conversation_limit$xmlhttprequest
 ||chatgpt.com/_next/static/chunks/telemetry$script
 ||chatgpt.com/ces/v1/t$xmlhttprequest
+||chatsex.xxx^
 ||chaturbate.com/api/internal/track/$xmlhttprequest
 ||chaturbate.com/api/statslog$xmlhttprequest
 ||chaturbate.com/statslog/$xmlhttprequest
+||chaturbate.lat^
 ||checkmarx.com^$third-party
 ||chevron.com^
 ||cia.gov^
@@ -565,6 +571,7 @@ $removeparam=yclid
 ||discord.com/api/science^
 ||discord.com/api/v9/science$xmlhttprequest
 ||discord.gg/api/science$xmlhttprequest
+||discountedporn.com^
 ||disneyplus.com/analytics$xmlhttprequest
 ||doubleclick.net^
 ||doubleverify.com^
@@ -733,6 +740,7 @@ $removeparam=yclid
 ||fyber.com^
 ||g2fame.com^
 ||gainsight.com^$third-party
+||gamcore.com^
 ||gamebol.com^
 ||gamespot.com^$removeparam=PostType
 ||gamespot.com^$removeparam=ServiceType
@@ -944,6 +952,7 @@ $removeparam=yclid
 ||links.services.disqus.com^
 ||linksynergy.com^$third-party
 ||livechatinc.com^$third-party
+||livehdcams.net^
 ||liveintent.com^
 ||livejasmin.com/api/track$xmlhttprequest
 ||livejasmin.com/track$xmlhttprequest
@@ -1079,6 +1088,7 @@ $removeparam=yclid
 ||nowifigames.org^
 ||nr-data.net^$third-party
 ||nsa.gov^
+||nsfwlists.com^
 ||nsogroup.com^
 ||nudata.com^
 ||nudatasecurity.com^
@@ -1265,6 +1275,7 @@ $removeparam=yclid
 ||robbyporn.com^
 ||robinhood.com/api/logging$xmlhttprequest
 ||rollbar.com^$third-party
+||rosey.link^
 ||rr.rndomnm.com^
 ||rtx.com^
 ||rubiconproject.com^
@@ -1585,6 +1596,7 @@ $removeparam=yclid
 ||wetab.org^
 ||whatfix.com^
 ||whatruns.com^
+||whatslove.ai^
 ||widgets.outbrain.com^
 ||widgets.wp.com^
 ||windows-pro.net^
@@ -1602,6 +1614,7 @@ $removeparam=yclid
 ||www.cfnmtoob.com/images/cfnmcambottom.png$image
 ||www.facebook.com/tr^$third-party
 ||www.google-analytics.com^$domain=imdb.com|letterboxd.com|serializd.com
+||www.thenipslip.com/wp-content/uploads/2010/10/star_background_03.gif$image
 ||x.bidswitch.net^
 ||x.com/i/api/graphql/*/CreateTweet$xmlhttprequest
 ||x.com/i/jot$xmlhttprequest
@@ -2079,7 +2092,11 @@ www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo
 www.fapnado.xxx##.dblock.content.section
 www.fapnado.xxx##.fluid_button_download.fluid_control_bar_link.fluid_button.fluid_control_bar_link_holder
 www.fapnado.xxx,www.transhero.com,www.rainblow.xxx##.hqb-topbar
+www.fappenist.com###page-footer
+www.fappenist.com###pagemenu > ul > li:nth-of-type(3)
 www.fappenist.com###pagemenu > ul > li:nth-of-type(4)
+www.fappenist.com##.float-right.top-bar-right
+www.fappenist.com##.post-comments
 www.fetishpapa.com##.js-quiet.footer
 www.fetishpapa.com##.js-quiet.top-links
 www.fucker.com###channel-promo
@@ -2195,8 +2212,13 @@ www.storysaver.net###first > header.major > h2
 www.storysaver.net###howto
 www.storysaver.net###nav
 www.storysaver.net###yuk
-www.storysaver.net##h1
 www.storysaver.net##section.special.main:nth-of-type(3)
+www.storysaver.net,www.thenipslip.com##h1
+www.thenipslip.com##.block-widget.inner-padding.widget
+www.thenipslip.com##.menu-item-121940.menu-item-object-custom.menu-item-type-custom.menu-item
+www.thenipslip.com##body > font
+www.thenipslip.com##h5
+www.thenipslip.com,ytboob.com##.comments-area
 www.theyarehuge.com###gc-fab
 www.theyarehuge.com###list_videos_related_videos > .box > .list-videos > div.tah-desktop-spot
 www.theyarehuge.com##.above-player-button.no-tab.upd-source.player-cams-button
@@ -2351,7 +2373,6 @@ xxxshake.com##.tabs-menu > ul > li:nth-of-type(1)
 youtube.com##[is-shorts]
 ytboob.com###block-19
 ytboob.com###video-links
-ytboob.com##.comments-area
 ytboob.com##.flex-container-desktop
 ytboob.com##.menu-item-31564.menu-item-object-custom.menu-item-type-custom.menu-item.video-icon
 ytboob.com##.menu-item-46576.menu-item-object-custom.menu-item-type-custom.menu-item.link-icon
