@@ -419,6 +419,7 @@ $removeparam=yclid
 ||c4-dataset.org^$third-party
 ||cam4.com/rest/stats$xmlhttprequest
 ||camjke.com^
+||cammodels.site^
 ||campfirecroutondecorator.com^
 ||cams.bdsmstreak.com^
 ||camsoda.com/api/v1/track$xmlhttprequest
@@ -1717,7 +1718,7 @@ $removeparam=yclid
 ##.video-overlay
 ##div#status-bubble
 ##div[id="status-bubble"]
-123av.com,18tokyo.com,area51.porn,bdsmx-porn.com,boobsradar.com,heavyfetish.com,javmix.com,juicyvid.com,lujuriax.com,luluvdo.com,luluvid.com,m.tubeon.club,mygrowl.com,noodlemagazine.com,povjp.com,senzuri.tube,sexplex.com,thisvid.com,ukdevilz.com,vxxx.com,www.alotporn.com,www.cfnmtoob.com,www.erome.com,www.fapnado.xxx,www.hdtube.porn,www.heavy-r.com,www.iceporn.com,www.lyricsify.com,www.pornawy.com,www.rainblow.xxx,www.speedtest.net,www.storysaver.net,www.theyarehuge.com,www.tubeon.club,www.vivatube.com,www.winporn.com,www.xasiat.com,www.xozilla.xxx,www.xtits.xxx,x-x-x.tube,xdegu.com,xmilf.com,xxxshake.com,www.fucker.com,www.dafreeporn.com##.footer
+123av.com,18tokyo.com,area51.porn,bdsmx-porn.com,boobsradar.com,heavyfetish.com,javmix.com,juicyvid.com,lujuriax.com,luluvdo.com,luluvid.com,m.tubeon.club,mygrowl.com,noodlemagazine.com,povjp.com,senzuri.tube,sexplex.com,thisvid.com,ukdevilz.com,vxxx.com,www.alotporn.com,www.cfnmtoob.com,www.erome.com,www.fapnado.xxx,www.hdtube.porn,www.heavy-r.com,www.iceporn.com,www.lyricsify.com,www.pornawy.com,www.rainblow.xxx,www.speedtest.net,www.storysaver.net,www.theyarehuge.com,www.tubeon.club,www.vivatube.com,www.winporn.com,www.xasiat.com,www.xozilla.xxx,www.xtits.xxx,x-x-x.tube,xdegu.com,xmilf.com,xxxshake.com,www.fucker.com,www.dafreeporn.com,www.analdin.xxx,www.serializd.com##.footer
 12vids.com,boobsradar.com,juicyvid.com,leakvids.com,lujuriax.com,www.pornawy.com,www.pornfreenow.com,www.xozilla.xxx,xdegu.com##.table
 18tokyo.com###full-header
 18tokyo.com,povjp.com##.toggle-button
@@ -1747,7 +1748,7 @@ area51.porn##.primary > li:nth-of-type(10)
 area51.porn##.show_comments
 area51.porn##.tabs-menu
 area51.porn##.user-link
-area51.porn,www.tnaflix.com,www.tubeon.club,www.xvideos.com,w1mp.com##footer
+area51.porn,www.tnaflix.com,www.tubeon.club,www.xvideos.com,w1mp.com,www.playvids.com,mcpelife.com##footer
 around.xxx##.mt-\[-8px\].text-right.text-xs
 asianpornxl.com##.desc.fq-video-actions.player-tools > .btn-download
 asianpornxl.com##.fq-comments-composer-wrap.comment-holder.form-box
@@ -1858,6 +1859,7 @@ mygrowl.com##.info > div.item:nth-of-type(5)
 mygrowl.com##.sidebar
 mygrowl.com##.tags-cloud.box
 mygrowl.com##nav
+mylust.com##.fluid-b
 noodlemagazine.com##.particles-js-canvas-el
 pawg.porn##.overlayCreatives
 porndaft.com##.hidden-sm.hidden-xs.right
@@ -1977,6 +1979,9 @@ www.3movs.com##.index.footer > .holder
 www.alotporn.com##.col-asside
 www.alotporn.com##.col-video > center
 www.analdin.xxx##.container > div > p
+www.analdin.xxx##.container > ul > li:nth-of-type(11)
+www.analdin.xxx##.container > ul > li:nth-of-type(9)
+www.analdin.xxx##.user-links
 www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
 www.apkmirror.com##div.listWidget:nth-of-type(3)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
@@ -2040,6 +2045,9 @@ www.erogarga.com##[href="https://pornabc.com/"]
 www.erogarga.com##[href="https://tsthots.com/"]
 www.erogarga.com##[href="https://ultrathots.com/"]
 www.erogarga.com##[href="https://undressai.tools"]
+www.erome.com##.separator
+www.erome.com##div.page-content.row > div.separator
+www.erome.com##div.page-content:nth-of-type(4) > .separator
 www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 www.facebook.com##.x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5 > .x1y1aw1k > div:nth-of-type(1)
 www.facebook.com##.xf7dkkf.x1l90r2v.xv54qhq.xyamay9.x2lah0s
@@ -2074,6 +2082,7 @@ www.fapnado.xxx,www.transhero.com,www.rainblow.xxx##.hqb-topbar
 www.fappenist.com###pagemenu > ul > li:nth-of-type(4)
 www.fetishpapa.com##.js-quiet.footer
 www.fetishpapa.com##.js-quiet.top-links
+www.fucker.com###channel-promo
 www.fucker.com##.register.item > [href^="https://candyai.gg/home2"]
 www.google.com##.AghGtd.KxwPGc
 www.google.com##.SDkEP > .dRYYxd.fM33ce
@@ -2118,6 +2127,11 @@ www.pervclips.com###after-spots
 www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
 www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN > div
 www.pinterest.com##.zEVE_X.xdjfP5.n62I2n._tKaHB.NYgy1O.ADXRXN
+www.playvids.com###ag-cookiebar
+www.playvids.com##.body-comment
+www.playvids.com##.nav-item-5
+www.playvids.com##.right-header.col-auto
+www.playvids.com##div.section-wrapper:nth-of-type(6)
 www.porndroids.com##.ax6a123gf__video-units
 www.pornfreenow.com###list_videos_common_videos_list_items > span
 www.pornfreenow.com###list_videos_latest_videos_list_items > span
@@ -2165,6 +2179,7 @@ www.reddit.com##hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(3)
 www.reddit.com##left-nav-top-section
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(1) > faceplate-tracker.contents:nth-of-type(2) > .mt-0.list-none.relative > .no-underline.-outline-offset-1.py-xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2)
+www.serializd.com##div[data-testid="responsive-social-buttons"]:style( display: contents !important; )
 www.shesfreaky.com###content-details > .ad-exempt
 www.shesfreaky.com##.justify-content-center.row
 www.shesfreaky.com##.main-content > .ad-exempt
@@ -2233,7 +2248,7 @@ www.winporn.com##div.navbar-row:nth-of-type(1)
 www.winporn.com,www.tubeon.club##.player-col-last
 www.xasiat.com##.member-links
 www.xasiat.com##.top-links
-www.xasiat.com,www.dafreeporn.com,www.pornfreenow.com,www.sortporn.com##.highlight
+www.xasiat.com,www.dafreeporn.com,www.pornfreenow.com,www.sortporn.com,www.analdin.xxx##.highlight
 www.xozilla.xxx###list_models_top_models
 www.xozilla.xxx##.content > div:nth-of-type(2)
 www.xozilla.xxx##.video-page-headline.headline > p
@@ -2253,6 +2268,7 @@ www.xvideos2.com###page > .ad-support-desktop.is-filled.exo-ad-ins-container
 www.xvideos2.com##.ad-support-desktop.is-filled.exo-ad-ins-container.mobile-hide
 www.xvideos2.com##.tb_full_init.after-16.after-15.thumb-block.thumb-nat-exo-ad.thumb-nat-ad.thumb-ad
 www.xvideos2.com##body > div:nth-of-type(4)
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope > yt-button-shape
 www.youtube.com###country-code
 www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
 www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
@@ -2293,34 +2309,35 @@ xgroovy.com,www.aznude.com,xhopen.com##.footer-wrapper
 xhand.net##.container > div > div > p
 xhand.net##.footer__wrap
 xhand.net##.main__holder
-xhopen.com,xhamster.com,xhamster3.com##.about-control.large.gray.button.xh-button
-xhopen.com,xhamster.com,xhamster3.com##.buttons-aef6f
-xhopen.com,xhamster.com,xhamster3.com##.container-2a3c5.secondary-64d24.medium-64d24.root-64d24
-xhopen.com,xhamster.com,xhamster3.com##.controls > div:nth-of-type(5)
-xhopen.com,xhamster.com,xhamster3.com##.counter-fe2f7.button-fe2f7.primary-48288.root-48288
-xhopen.com,xhamster.com,xhamster3.com##.diamondButton-2252c.buttons-2252c.button-cdbbb.button-7e7d1.extra-indigo-64d24.medium-64d24.root-64d24
-xhopen.com,xhamster.com,xhamster3.com##.header-preference-hint.preference-hint.straight.hint-1495d
-xhopen.com,xhamster.com,xhamster3.com##.link-3682d.primary-48288.root-48288
-xhopen.com,xhamster.com,xhamster3.com##.login-section
-xhopen.com,xhamster.com,xhamster3.com##.newNav-3682d.right.top-menu__side-group
-xhopen.com,xhamster.com,xhamster3.com##.right.top-menu__side-group
-xhopen.com,xhamster.com,xhamster3.com##.straight.preferenceHint-a9be0
-xhopen.com,xhamster.com,xhamster3.com##.twoColumns-cdbbb.fullWidth-cdbbb.buttons-cdbbb
-xhopen.com,xhamster.com,xhamster3.com##.video-thumb__moment.video-thumb.thumb-list__item.item-19ee5
-xhopen.com,xhamster.com,xhamster3.com##.widthWrap-cb57f
-xhopen.com,xhamster.com,xhamster3.com##.withShadow-35a92.popup-35a92
-xhopen.com,xhamster.com,xhamster3.com##.xh-multiline-editable.textarea.inputAreaInner-77ac5
-xhopen.com,xhamster.com,xhamster3.com##.xp-subscribe__logo
-xhopen.com,xhamster.com,xhamster3.com##div.container-64b3c:nth-of-type(10)
-xhopen.com,xhamster.com,xhamster3.com##div.container-64b3c:nth-of-type(2)
-xhopen.com,xhamster.com,xhamster3.com##div.video-thumb.thumb-list__item:nth-of-type(19)
-xhopen.com,xhamster.com,xhamster3.com##div.video-thumb.thumb-list__item:nth-of-type(21)
-xhopen.com,xhamster.com,xhamster3.com##div.video-thumb.thumb-list__item:nth-of-type(24)
-xhopen.com,xhamster.com,xhamster3.com##div.video-thumb.thumb-list__item:nth-of-type(50)
-xhopen.com,xhamster.com,xhamster3.com##div.video-thumb.thumb-list__item:nth-of-type(51)
-xhopen.com,xhamster.com,xhamster3.com##div.video-thumb.thumb-list__item:nth-of-type(52)
-xhopen.com,xhamster.com,xhamster3.com##li.listItem-7ae27:nth-of-type(2)
-xhopen.com,xhamster.com,xhamster3.com##li.listItem-7ae27:nth-of-type(3)
+xhopen.com##.dyltv-container
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.about-control.large.gray.button.xh-button
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.buttons-aef6f
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.container-2a3c5.secondary-64d24.medium-64d24.root-64d24
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.controls > div:nth-of-type(5)
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.counter-fe2f7.button-fe2f7.primary-48288.root-48288
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.diamondButton-2252c.buttons-2252c.button-cdbbb.button-7e7d1.extra-indigo-64d24.medium-64d24.root-64d24
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.header-preference-hint.preference-hint.straight.hint-1495d
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.link-3682d.primary-48288.root-48288
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.login-section
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.newNav-3682d.right.top-menu__side-group
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.right.top-menu__side-group
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.straight.preferenceHint-a9be0
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.twoColumns-cdbbb.fullWidth-cdbbb.buttons-cdbbb
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.video-thumb__moment.video-thumb.thumb-list__item.item-19ee5
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.widthWrap-cb57f
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.withShadow-35a92.popup-35a92
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.xh-multiline-editable.textarea.inputAreaInner-77ac5
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##.xp-subscribe__logo
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##div.container-64b3c:nth-of-type(10)
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##div.container-64b3c:nth-of-type(2)
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##div.video-thumb.thumb-list__item:nth-of-type(19)
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##div.video-thumb.thumb-list__item:nth-of-type(21)
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##div.video-thumb.thumb-list__item:nth-of-type(24)
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##div.video-thumb.thumb-list__item:nth-of-type(50)
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##div.video-thumb.thumb-list__item:nth-of-type(51)
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##div.video-thumb.thumb-list__item:nth-of-type(52)
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##li.listItem-7ae27:nth-of-type(2)
+xhopen.com,xhamster.com,xhamster3.com,xhamster19.com##li.listItem-7ae27:nth-of-type(3)
 xmilf.com##.kltattk
 xmilf.com##.left > section
 xmilf.com##a.btn:nth-of-type(3)
