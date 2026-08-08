@@ -1696,6 +1696,8 @@ $removeparam=yclid
 ||www.cfnmtoob.com/images/cfnmcambottom.png$image
 ||www.thenipslip.com/wp-content/uploads/2010/10/star_background_03.gif$image
 !
+@@||c84377e9c7.mjedge.net^$domain=www.3movs.com
+!
 ###ad_popup
 ##.ad
 ##.ad-container
@@ -1835,6 +1837,10 @@ xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##li.listItem-
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##li.listItem-7ae27:nth-of-type(3)
 !
 girlawy.com,m.tubeon.club##+js(aeld, click)
+www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.ab_pl_man, false)
+www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, false)
+www.youtube.com##.ytSmartImationsContent > ytd-button-renderer > yt-button-shape > .ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextTonal.ytSpecButtonShapeNextHost
 !
 18tokyo.com###full-header
 abbdsm.com##.video__wrapper > h2
@@ -2070,6 +2076,11 @@ www.3arabx.com##.pre-footer
 www.3arabx.com##.swal2-backdrop-show.swal2-center.swal2-rtl.swal2-container
 www.3movs.com##.column > div:nth-of-type(2)
 www.3movs.com##.index.footer > .holder
+www.3movs.com##.narrow.container > div:nth-of-type(4)
+www.3movs.com##.p-ig.block
+www.3movs.com##.p-ig.general_tools
+www.3movs.com##.view_video.footer
+www.3movs.com##.wrap_panel
 www.alotporn.com##.col-asside
 www.alotporn.com##.col-video > center
 www.analdin.xxx##.container > div > p
@@ -2353,10 +2364,6 @@ www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
 www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
 www.youtube.com###related :is(ytd-compact-video-renderer,yt-lockup-view-model):has([overlay-style="SHORTS"],[href^="/shorts/"])
 www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
-www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
-www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.ab_pl_man, false)
-www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, false)
-www.youtube.com##.ytSmartImationsContent > ytd-button-renderer > yt-button-shape > .ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextTonal.ytSpecButtonShapeNextHost
 www.youtube.com##[tab-title="Shorts"]
 www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-grid-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
 www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-rich-item-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
