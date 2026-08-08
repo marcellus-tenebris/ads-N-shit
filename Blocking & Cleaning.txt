@@ -598,6 +598,7 @@ $removeparam=yclid
 ||pornabc.com^
 ||porngames.tv^
 ||pornhubapparel.com^
+||pornworksai.com^
 ||posthog.com^
 ||primis.com^
 ||primis.io^
@@ -2170,13 +2171,6 @@ www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.x
 www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(5)
 www.fapnado.xxx##.dblock.content.section
 www.fapnado.xxx##.fluid_button_download.fluid_control_bar_link.fluid_button.fluid_control_bar_link_holder
-www.fappenist.com###page-footer
-www.fappenist.com###pagemenu > ul > li:nth-of-type(10)
-www.fappenist.com###pagemenu > ul > li:nth-of-type(3)
-www.fappenist.com###pagemenu > ul > li:nth-of-type(4)
-www.fappenist.com##.clearfix.head_h1 > h2
-www.fappenist.com##.float-right.top-bar-right
-www.fappenist.com##.post-comments
 www.fetishpapa.com##.js-quiet.footer
 www.fetishpapa.com##.js-quiet.top-links
 www.fucker.com###channel-promo
