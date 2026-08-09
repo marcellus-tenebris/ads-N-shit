@@ -130,6 +130,8 @@ $removeparam=yclid
 ||.il^
 ||.in^
 !
+||.tra.gov.eg^
+!
 ||1000fapvids.com^
 ||11oysters.com^
 ||2o7.net^
