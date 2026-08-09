@@ -1701,7 +1701,10 @@ $removeparam=yclid
 ||www.cfnmtoob.com/images/cfnmcambottom.png$image
 ||www.thenipslip.com/wp-content/uploads/2010/10/star_background_03.gif$image
 !
+@@||c75a8cd01a.mjedge.net^$domain=www.interracial.com
+@@||c7739b5000.mjedge.net^$domain=www.momvids.com
 @@||c84377e9c7.mjedge.net^$domain=www.3movs.com
+@@||c87f27190d.mjedge.net^$domain=www.pornicom.com
 !
 ###ad_popup
 ##.ad
@@ -1778,11 +1781,20 @@ abjav.com,ablesbian.com,abmilf.com,abxxx.com,bdsmx-porn.com,boobse.com,senzuri.t
 abjav.com,abmilf.com,abxxx.com##.app__container > div:nth-of-type(1)
 abjav.com,abxxx.com##.left > .banner__container
 ablesbian.com,senzuri.tube##.jw-reset-text.jw-title
-area51.porn,mcpelife.com,w1mp.com,www.playvids.com,www.tnaflix.com,www.tubeon.club,www.xvideos.com##footer
+area51.porn,asianpornxl.com,babehump.com,mcpelife.com,povxl.com,threesomexl.com,w1mp.com,w1mp.com,www.playvids.com,www.tnaflix.com,www.tubeon.club,www.xvideos.com##footer
 area51.porn,www.dafreeporn.com,www.pornfreenow.com,xxxshake.com##.text
 area51.porn,www.pornfreenow.com,www.rainblow.xxx,xdegu.com##.footer-margin
-asianpornxl.com,w1mp.com##.fq-footer-ad
-asianpornxl.com,w1mp.com##.fq-sponsored-strip
+asianpornxl.com,babehump.com,povxl.com,threesomexl.com,w1mp.com##.above-player-link
+asianpornxl.com,babehump.com,povxl.com,threesomexl.com,w1mp.com##.aside-avd-wrap
+asianpornxl.com,babehump.com,povxl.com,threesomexl.com,w1mp.com##.desc.fq-video-actions.player-tools > .btn-download
+asianpornxl.com,babehump.com,povxl.com,threesomexl.com,w1mp.com##.desc.fq-video-actions.player-tools > .rating-container.col
+asianpornxl.com,babehump.com,povxl.com,threesomexl.com,w1mp.com##.fq-comments-composer-wrap.comment-holder.form-box
+asianpornxl.com,babehump.com,povxl.com,threesomexl.com,w1mp.com##.fq-footer-ad
+asianpornxl.com,babehump.com,povxl.com,threesomexl.com,w1mp.com##.fq-rec-sub
+asianpornxl.com,babehump.com,povxl.com,threesomexl.com,w1mp.com##.fq-sponsored-strip
+asianpornxl.com,babehump.com,povxl.com,threesomexl.com,w1mp.com##.header-tools
+asianpornxl.com,babehump.com,povxl.com,threesomexl.com,w1mp.com##.rating-inner-desc.rating-with-voters.group
+asianpornxl.com,babehump.com,povxl.com,threesomexl.com,w1mp.com##.tools
 bdsmx-porn.comsenzuri.tube,boobse.com,senzuri.tube,xmilf.com##.comments__warning
 codeberg.org,temp-mail.org##.page-footer
 desibf.com,www.porndroids.com,ytboob.com##.site-footer
@@ -1868,8 +1880,6 @@ area51.porn##.show_comments
 area51.porn##.tabs-menu
 area51.porn##.user-link
 around.xxx##.mt-\[-8px\].text-right.text-xs
-asianpornxl.com##.desc.fq-video-actions.player-tools > .btn-download
-asianpornxl.com##.fq-comments-composer-wrap.comment-holder.form-box
 bdsmstreak.com##.dark\:bg-ink-950.bg-white.dark\:border-ink-800.border-gray-200.border-t.mt-16
 bdsmstreak.com##.dark\:ring-ink-700.ring-gray-200.ring-1.dark\:hover\:bg-ink-700.hover\:bg-gray-200.dark\:bg-ink-800.bg-gray-100.dark\:text-neutral-200.text-gray-700.font-semibold.text-sm.rounded-full.min-h-\[40px\].py-2.px-3.gap-1\.5.items-center.inline-flex
 bdsmstreak.com##.dark\:text-neutral-300.text-gray-700.text-sm.dark\:bg-ink-900.bg-gray-50.dark\:ring-ink-800.ring-gray-200.ring-1.rounded-md.p-3.mt-3
@@ -1911,6 +1921,16 @@ f-droid.org##div.sidebar-widget:nth-of-type(3)
 fapello.com##.uk-visible\@l.my-2.text-sm.text-center.space-x-3.font-semibold.flex.capitalize
 fapello.com##div.p-5.space-x-5.flex:nth-of-type(5)
 fapello.com##div.p-5.space-x-5.flex:nth-of-type(6)
+faperoni.com##.above_video
+faperoni.com##.cams-results.grid-items
+faperoni.com##.cams.grid-header
+faperoni.com##.main-footer
+faperoni.com##.show-info
+faperoni.com##.under_video
+faperoni.com##div.show.grid-container:nth-of-type(5)
+faperoni.com##div.show.grid-container:nth-of-type(6)
+faperoni.com##div.show.grid-container:nth-of-type(7)
+faperoni.com##li.nav-item:nth-of-type(3) > [href="https://faperoni.chat/"]
 faplane.com##.backdrop-blur.py-3.px-4.bg-bg-card\/95.border-neutral-800.border-t.z-\[60\].bottom-0.inset-x-0.fixed
 faplane.com##.bg-bg-card.border-neutral-800.border-t.mt-12
 faplane.com##.md\:block.hidden
@@ -2064,12 +2084,6 @@ vidzstream.online###overlay-st2ebf
 vidzstream.online###overlay-wsyhz8
 viralxxxporn.com##.vx-sidebar-adv
 vxxx.com##.hvydnddnyyhnhnvvnn
-w1mp.com###np-logo
-w1mp.com##.above-player-link
-w1mp.com##.fq-comment-composer
-w1mp.com##.header-tools
-w1mp.com##.rating-container.col > .btn-download
-w1mp.com##.tools > div.item:nth-of-type(5)
 wowne.ws###gridshow-copyright-area
 wowne.ws###gridshow-secondary-navigation
 wowne.ws##.code-block-14.code-block
