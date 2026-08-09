@@ -1790,6 +1790,7 @@ spankbang.com,thisvid.com##.links
 thisvid.com,www.vivatube.com##div.container:nth-of-type(5)
 trueamateurporn.org,www.vidzx.org##.backdrop-blur.py-3.px-4.bg-bg-card\/95.border-neutral-800.border-t.z-\[60\].bottom-0.inset-x-0.fixed
 trueamateurporn.org,www.vidzx.org##.bg-bg-card.border-neutral-800.border-t.mt-12
+www.3arabx.com,www.halamat.com##.p-footer-inner
 www.analdin.xxx,www.dafreeporn.com,www.pornfreenow.com,www.sortporn.com,www.xasiat.com##.highlight
 www.ashemaletube.me,www.fetishpapa.com##.side-content-block
 www.aznude.com,xgroovy.com,xhopen.com##.footer-wrapper
@@ -1836,10 +1837,10 @@ xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##li.listItem-
 xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##li.listItem-7ae27:nth-of-type(3)
 !
 girlawy.com,m.tubeon.club##+js(aeld, click)
+www.milfat.com##.js-notices.notices--block.notices > .notice--primary.js-notice.notice > .notice-content
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.ab_pl_man, false)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, false)
-www.youtube.com##.ytSmartImationsContent > ytd-button-renderer > yt-button-shape > .ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextTonal.ytSpecButtonShapeNextHost
 !
 18tokyo.com###full-header
 abbdsm.com##.video__wrapper > h2
@@ -1859,7 +1860,6 @@ area51.porn###comments .toggle-button
 area51.porn###list_videos_related_videos > .jkawjkjgkjg
 area51.porn##.primary > li:nth-of-type(10)
 area51.porn##.show_comments
-www.storysaver.net,www.thenipslip.com##h1
 area51.porn##.tabs-menu
 area51.porn##.user-link
 around.xxx##.mt-\[-8px\].text-right.text-xs
@@ -1868,6 +1868,7 @@ asianpornxl.com##.fq-comments-composer-wrap.comment-holder.form-box
 bdsmstreak.com##.dark\:bg-ink-950.bg-white.dark\:border-ink-800.border-gray-200.border-t.mt-16
 bdsmstreak.com##.dark\:ring-ink-700.ring-gray-200.ring-1.dark\:hover\:bg-ink-700.hover\:bg-gray-200.dark\:bg-ink-800.bg-gray-100.dark\:text-neutral-200.text-gray-700.font-semibold.text-sm.rounded-full.min-h-\[40px\].py-2.px-3.gap-1\.5.items-center.inline-flex
 bdsmstreak.com##.dark\:text-neutral-300.text-gray-700.text-sm.dark\:bg-ink-900.bg-gray-50.dark\:ring-ink-800.ring-gray-200.ring-1.rounded-md.p-3.mt-3
+bdsmstreak.com##.flex.shadow-md.font-semibold.text-sm.py-2.px-3.text-white.to-brand-500.from-brand-700.bg-gradient-to-r.rounded-lg.gap-2.items-center.mb-2
 bdsmstreak.com##.ml-auto.gap-1.items-center.flex
 bdsmstreak.com##.pt-8.dark\:border-ink-800.border-gray-200.border-t.mb-8.mt-16
 bdsmstreak.com##.px-4.py-1\.5.text-sm.text-center.text-white.bg-brand-600
@@ -1970,6 +1971,7 @@ mygrowl.com##.tags-cloud.box
 mygrowl.com##nav
 mylust.com##.fluid-b
 noodlemagazine.com##.particles-js-canvas-el
+noodlemagazine.com##[href="https://theporndude.com/ru"]
 pawg.porn##.overlayCreatives
 porndaft.com##.hidden-sm.hidden-xs.right
 pornfact.com##.desktop-header
@@ -2072,6 +2074,7 @@ wowne.ws##.gridshow-entry-meta-single
 wowne.ws##.post-navigation.navigation
 wowne.ws##.wp-block-paragraph
 wowne.ws##center
+www.3arabx.com##.p-guest--message
 www.3arabx.com##.pre-footer
 www.3arabx.com##.swal2-backdrop-show.swal2-center.swal2-rtl.swal2-container
 www.3movs.com##.column > div:nth-of-type(2)
@@ -2183,6 +2186,11 @@ www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.x
 www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(5)
 www.fapnado.xxx##.dblock.content.section
 www.fapnado.xxx##.fluid_button_download.fluid_control_bar_link.fluid_button.fluid_control_bar_link_holder
+www.fappenist.com##.age-gate
+www.fappenist.com##.copyright
+www.fappenist.com##.post-comments
+www.fappenist.com##[href="https://theporndude.com"]
+www.fappenist.com##[href^="https://www.cmonbae.com/"]
 www.fetishpapa.com##.js-quiet.footer
 www.fetishpapa.com##.js-quiet.top-links
 www.fucker.com###channel-promo
@@ -2198,7 +2206,6 @@ www.google.com##.uU7dJb
 www.google.com##div.gb_8.gb_7:nth-of-type(1)
 www.halamat.com##.js-notices.notices--block.notices
 www.halamat.com##.js-quickReply.block > .block-container
-www.halamat.com##.p-footer-inner
 www.hdtube.porn##.cs-link
 www.hdtube.porn##.description__channel
 www.hdtube.porn##.g-col-aside.g-col
@@ -2291,6 +2298,7 @@ www.storysaver.net###howto
 www.storysaver.net###nav
 www.storysaver.net###yuk
 www.storysaver.net##section.special.main:nth-of-type(3)
+www.storysaver.net,www.thenipslip.com##h1
 www.thenipslip.com##.block-widget.inner-padding.widget
 www.thenipslip.com##.menu-item-121940.menu-item-object-custom.menu-item-type-custom.menu-item
 www.thenipslip.com##body > font
@@ -2340,6 +2348,7 @@ www.winporn.com##.spot-live-cam.wrap-better-content.thumb
 www.winporn.com##div.navbar-row:nth-of-type(1)
 www.xasiat.com##.member-links
 www.xasiat.com##.top-links
+www.xozilla.xxx###item11
 www.xozilla.xxx###list_models_top_models
 www.xozilla.xxx##.content > div:nth-of-type(2)
 www.xozilla.xxx##.video-page-headline.headline > p
@@ -2364,6 +2373,7 @@ www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
 www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
 www.youtube.com###related :is(ytd-compact-video-renderer,yt-lockup-view-model):has([overlay-style="SHORTS"],[href^="/shorts/"])
 www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
+www.youtube.com##.ytSmartImationsContent > ytd-button-renderer > yt-button-shape > .ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextTonal.ytSpecButtonShapeNextHost
 www.youtube.com##[tab-title="Shorts"]
 www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-grid-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
 www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-rich-item-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
