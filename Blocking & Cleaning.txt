@@ -200,6 +200,7 @@ $removeparam=yclid
 ||adult-match.xxx^
 ||adultadnetwork.com^
 ||adultadworld.com^
+||adultcamdeals.com^
 ||adultdeals.net^
 ||adultentertainmentads.com^
 ||adultforce.com^
@@ -233,6 +234,7 @@ $removeparam=yclid
 ||alimama.com^
 ||allot.com^
 ||alphabet.com^
+||amateur-couples.com^
 ||amatporn.com^
 ||amazon-adsystem.com^
 ||amdocs.com^
@@ -326,6 +328,7 @@ $removeparam=yclid
 ||chartbeat.com^
 ||chartbeat.net^
 ||chatsex.xxx^
+||chatsexocam.com^
 ||chaturbate.lat^
 ||chevron.com^
 ||cia.gov^
@@ -542,6 +545,7 @@ $removeparam=yclid
 ||mouseflow.de^
 ||my.com^
 ||mydreamcompanion.com^
+||myeroblog.com^
 ||n2j9y0x0.bxcdn.net^
 ||nativo.com^
 ||neo4j.com^
@@ -789,6 +793,7 @@ $removeparam=yclid
 ||xenalive.me^
 ||xliiirdr.com^
 ||xmodeai-asian.com^
+||xn--42c6ac5cyaw4e1e.net^
 ||xujangram.com^
 ||xxx-tracker.com^
 ||yastatic.net^
@@ -2001,6 +2006,10 @@ senzuri.tube##a.has-tooltip.control--before.control
 senzuri.tube##div:nth-of-type(2) > .container
 senzuri.tube##li.header__list-item:nth-of-type(7)
 senzuri.tube##li.header__list-item:nth-of-type(8)
+seriesgraph.com##.HomePlusPromo_section__UQxmj
+seriesgraph.com##.footer.rt-r-mt-9.rt-r-py-6.rt-r-px-4.rt-Box
+seriesgraph.com##.hero__content-container.rt-Box
+seriesgraph.com##.rt-r-mb-5.rt-r-jc-center.rt-Flex
 sexarab.pro##.dark.desktop-footer.site__footer--v4.site-footer
 sexarab.pro##.single-video__actions-bar
 sexplex.com##.banner
@@ -2188,8 +2197,11 @@ www.fapnado.xxx##.dblock.content.section
 www.fapnado.xxx##.fluid_button_download.fluid_control_bar_link.fluid_button.fluid_control_bar_link_holder
 www.fappenist.com##.age-gate
 www.fappenist.com##.copyright
+www.fappenist.com##.float-right.top-bar-right
 www.fappenist.com##.post-comments
+www.fappenist.com##.white-header
 www.fappenist.com##[href="https://theporndude.com"]
+www.fappenist.com##[href="https://www.eporner.com/"]
 www.fappenist.com##[href^="https://www.cmonbae.com/"]
 www.fetishpapa.com##.js-quiet.footer
 www.fetishpapa.com##.js-quiet.top-links
@@ -2301,7 +2313,9 @@ www.storysaver.net##section.special.main:nth-of-type(3)
 www.storysaver.net,www.thenipslip.com##h1
 www.thenipslip.com##.block-widget.inner-padding.widget
 www.thenipslip.com##.menu-item-121940.menu-item-object-custom.menu-item-type-custom.menu-item
+www.thenipslip.com##.widget_links.inner-padding.widget
 www.thenipslip.com##body > font
+www.thenipslip.com##font > .widget_execphp.inner-padding.widget
 www.thenipslip.com##h5
 www.theyarehuge.com###gc-fab
 www.theyarehuge.com###list_videos_related_videos > .box > .list-videos > div.tah-desktop-spot
