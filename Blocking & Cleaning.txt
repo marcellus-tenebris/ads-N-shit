@@ -1795,7 +1795,6 @@ www.ashemaletube.me,www.fetishpapa.com##.side-content-block
 www.aznude.com,xgroovy.com,xhopen.com##.footer-wrapper
 www.fapnado.xxx,www.rainblow.xxx,www.transhero.com##.hqb-topbar
 www.fapnado.xxx,www.rainblow.xxx,www.transhero.com##.zblurb.table
-www.fappenist.com,www.storysaver.net,www.thenipslip.com##h1
 www.rainblow.xxx,www.transhero.com##.fade_in.text_link_holder
 www.rainblow.xxx,www.transhero.com##.fluid_start_container
 www.rainblow.xxx,www.transhero.com##.video-holder > center
@@ -1860,6 +1859,7 @@ area51.porn###comments .toggle-button
 area51.porn###list_videos_related_videos > .jkawjkjgkjg
 area51.porn##.primary > li:nth-of-type(10)
 area51.porn##.show_comments
+www.storysaver.net,www.thenipslip.com##h1
 area51.porn##.tabs-menu
 area51.porn##.user-link
 around.xxx##.mt-\[-8px\].text-right.text-xs
