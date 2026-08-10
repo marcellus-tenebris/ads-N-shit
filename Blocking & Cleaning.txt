@@ -154,6 +154,7 @@ $removeparam=yclid
 ||acquiredeceasedundress.com^
 ||acxiom.com^
 ||ad.doubleclick.net^
+||ad.twinrdengine.com^
 ||adc3-launch.adcolony.com^
 ||adcolony.com^
 ||addthis.com^
@@ -1693,6 +1694,8 @@ $removeparam=yclid
 ||a.deviantart.net/avatars/t/a/tastefully-done.jpg?7$image
 ||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-ea6ecb6d.gif$image
 ||cdn-ilaobab.nitrocdn.com/lePUICgBcWyaBxcotrhntvbRsPrKoqSc/assets/images/optimized/rev-5d4d543/girlawy.com/wp-content/uploads/download*.png$image
+||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-bottom-dark.n8eIvPwY.svg$image
+||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-top-dark.DqQ0PKGR.svg$image
 ||duckduckgo.com/t/sl_l$image
 ||f-droid.org/assets/phone-frame_kEDoOnDDPLnsqH4lVaEun9wfQgM9ivrhk5OiUWWdKHc=.png$image
 ||girlawy.com/wp-content/uploads/download*.png$image
@@ -1703,7 +1706,7 @@ $removeparam=yclid
 ||www.cfnmtoob.com/images/cfnmcambottom.png$image
 ||www.thenipslip.com/wp-content/uploads/2010/10/star_background_03.gif$image
 !
-@@||.mjedge.net^$domain=www.pornawy.com
+@@||.mjedge.net^$domain=www.pornawy.com|www.katestube.com|www.wankoz.com|www.fapnado.xxx
 !
 @@||c75a8cd01a.mjedge.net^$domain=www.interracial.com
 @@||c7739b5000.mjedge.net^$domain=www.momvids.com
