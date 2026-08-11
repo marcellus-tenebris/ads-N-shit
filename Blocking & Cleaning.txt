@@ -638,6 +638,7 @@ $removeparam=yclid
 ||rubiconproject.com^
 ||rytr.me^
 ||s.imdb.com/ref=*
+||s.pemsrv.com^
 ||s.zline0.com^
 ||savedvids.com^
 ||sber.ru^
