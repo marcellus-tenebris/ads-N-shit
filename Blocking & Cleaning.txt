@@ -1313,10 +1313,7 @@ $removeparam=yclid
 ||cdn.openai.com/diagnostics^$xmlhttprequest
 ||cdn.openai.com/logs^$xmlhttprequest
 ||character.ai/api/trpc/analytics$xmlhttprequest
-||chat.openai.com/api/auth/csrf$xmlhttprequest
 ||chat.openai.com/backend-api/conversation/message_feedback$xmlhttprequest
-||chat.openai.com/backend-api/moderations^$xmlhttprequest
-||chat.openai.com/backend-api/sentinel^$xmlhttprequest
 ||chat.openai.com/ces/v1^$xmlhttprequest
 ||chat.openai.com/public-api/conversation_limit$xmlhttprequest
 ||chatgpt.com/ces/v1/t$xmlhttprequest
@@ -1421,7 +1418,6 @@ $removeparam=yclid
 ||onlyfans.com/api2/v2/tracking$xmlhttprequest
 ||openai.com/api/analytics/$xmlhttprequest
 ||openai.com/api/analytics^$xmlhttprequest
-||openai.com/api/auth/session$xmlhttprequest
 ||openai.com/api/logs^$xmlhttprequest
 ||openai.com/cdn-cgi/rum$xmlhttprequest
 ||orange.eg/analytics$xmlhttprequest
@@ -1711,6 +1707,7 @@ $removeparam=yclid
 ||ukdevilz.com/static/img/bg.f853b95dab3a.png$image
 ||www.3arabx.com/styles/vigas/img/backbg.jpeg$image
 ||www.cfnmtoob.com/images/cfnmcambottom.png$image
+||www.da-files.com/productmarketing/profile-skins/winterwonderland.gif?3$image
 ||www.thenipslip.com/wp-content/uploads/2010/10/star_background_03.gif$image
 !
 @@||c75a8cd01a.mjedge.net^$domain=www.interracial.com
@@ -1867,7 +1864,7 @@ xhaccess,xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##div
 xhaccess,xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##li.listItem-7ae27:nth-of-type(2)
 xhaccess,xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##li.listItem-7ae27:nth-of-type(3)
 !
-girlawy.com,m.tubeon.club,nudesarab.com,sexarab.pro,##+js(aeld, click)
+girlawy.com,m.tubeon.club,nudesarab.com,sexarab.pro##+js(aeld, click)
 www.milfat.com##.js-notices.notices--block.notices > .notice--primary.js-notice.notice > .notice-content
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.ab_pl_man, false)
