@@ -1867,7 +1867,7 @@ xhaccess,xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##div
 xhaccess,xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##li.listItem-7ae27:nth-of-type(2)
 xhaccess,xhamster.com,xhamster19.com,xhamster2.com,xhamster3.com,xhopen.com##li.listItem-7ae27:nth-of-type(3)
 !
-girlawy.com,m.tubeon.club##+js(aeld, click)
+girlawy.com,m.tubeon.club,nudesarab.com,sexarab.pro,##+js(aeld, click)
 www.milfat.com##.js-notices.notices--block.notices > .notice--primary.js-notice.notice > .notice-content
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.ab_pl_man, false)
@@ -1962,6 +1962,12 @@ fyptt.to##.comment-approval-notice
 fyptt.to##.comment-respond
 fyptt.to##.fl-row-align-center.fl-row-default-height.fl-node-5f719fef28ed8.fl-row-bg-color.fl-row-full-width.fl-row > .fl-row-content-wrap
 fyptt.to##[href="https://www.ourdreamersai16.com/81D5R3H/3QQG7/"]
+girlawy.com###telegram-popup-overlay
+girlawy.com##.center-main-menu
+girlawy.com##.clearfix.site-footer
+girlawy.com##.comments-area.fbox
+girlawy.com##.header-widgets-wrapper
+girlawy.com##.vip-btn
 handjobhub.com###promo-bar
 handjobhub.com##section.aff-sec:nth-of-type(2)
 himovies.sx##.mb-3.alert
