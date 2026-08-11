@@ -457,6 +457,7 @@ $removeparam=yclid
 ||graph.facebook.com^
 ||guidepaparazzisurface.com^
 ||gukahdbam.com^
+||hagezi.com^
 ||heap.io^
 ||heapanalytics.com^
 ||heatedaffairs.com^
@@ -1713,12 +1714,12 @@ $removeparam=yclid
 ||www.cfnmtoob.com/images/cfnmcambottom.png$image
 ||www.thenipslip.com/wp-content/uploads/2010/10/star_background_03.gif$image
 !
-@@||.mjedge.net^$domain=www.pornawy.com|www.katestube.com|www.wankoz.com|www.fapnado.xxx
-!
 @@||c75a8cd01a.mjedge.net^$domain=www.interracial.com
 @@||c7739b5000.mjedge.net^$domain=www.momvids.com
 @@||c84377e9c7.mjedge.net^$domain=www.3movs.com
 @@||c87f27190d.mjedge.net^$domain=www.pornicom.com
+!
+@@||.mjedge.net^$domain=www.pornawy.com|www.katestube.com|www.wankoz.com|www.fapnado.xxx
 !
 ###ad_popup
 ##.ad
@@ -1779,7 +1780,7 @@ $removeparam=yclid
 ##div#status-bubble
 ##div[id="status-bubble"]
 !
-123av.com,18tokyo.com,area51.porn,bdsmx-porn.com,boobsradar.com,heavyfetish.com,javmix.com,juicyvid.com,lujuriax.com,luluvdo.com,luluvid.com,m.tubeon.club,mygrowl.com,noodlemagazine.com,povjp.com,senzuri.tube,sexplex.com,thisvid.com,ukdevilz.com,vxxx.com,www.alotporn.com,www.analdin.xxx,www.cfnmtoob.com,www.dafreeporn.com,www.erome.com,www.fapnado.xxx,www.fucker.com,www.hdtube.porn,www.heavy-r.com,www.iceporn.com,www.lyricsify.com,www.pornawy.com,www.rainblow.xxx,www.serializd.com,www.speedtest.net,www.storysaver.net,www.theyarehuge.com,www.tubeon.club,www.vivatube.com,www.winporn.com,www.xasiat.com,www.xozilla.xxx,www.xtits.xxx,x-x-x.tube,xdegu.com,xmilf.com,xxxshake.com,sexalarab.com,www.sexnyk.com##.footer
+123av.com,18tokyo.com,area51.porn,bdsmx-porn.com,boobsradar.com,heavyfetish.com,javmix.com,juicyvid.com,lujuriax.com,luluvdo.com,luluvid.com,m.tubeon.club,mygrowl.com,noodlemagazine.com,povjp.com,senzuri.tube,sexplex.com,thisvid.com,ukdevilz.com,vxxx.com,www.alotporn.com,www.analdin.xxx,www.cfnmtoob.com,www.dafreeporn.com,www.erome.com,www.fapnado.xxx,www.fucker.com,www.hdtube.porn,www.heavy-r.com,www.iceporn.com,www.lyricsify.com,www.pornawy.com,www.rainblow.xxx,www.serializd.com,www.speedtest.net,www.storysaver.net,www.theyarehuge.com,www.tubeon.club,www.vivatube.com,www.winporn.com,www.xasiat.com,www.xozilla.xxx,www.xtits.xxx,x-x-x.tube,xdegu.com,xmilf.com,xxxshake.com,sexalarab.com,www.sexnyk.com,www.pornicom.com##.footer
 12vids.com,boobsradar.com,juicyvid.com,leakvids.com,lujuriax.com,www.pornawy.com,www.pornfreenow.com,www.xozilla.xxx,xdegu.com##.table
 18tokyo.com,japan-whores.com,javmix.com,povjp.com,xdegu.com##.shown.player-top-line
 18tokyo.com,povjp.com###list_videos_aside_videos
@@ -2299,6 +2300,12 @@ www.pornfreenow.com##div.pignu:nth-of-type(4)
 www.pornfreenow.com##li.pignu:nth-of-type(7)
 www.pornfreenow.com##li.pignu:nth-of-type(8)
 www.pornfreenow.com##li.pignu:nth-of-type(9)
+www.pornicom.com##.comments-holder.add_comment
+www.pornicom.com##.main-holder > .content-holder
+www.pornicom.com##.nav > div.item:nth-of-type(3)
+www.pornicom.com##.nav > div.item:nth-of-type(4)
+www.pornicom.com##.spot-under
+www.pornicom.com##.user-holer
 www.pornpics.de###fb-button
 www.pornpics.de##.active.login-section
 www.pornpics.de##.comm-form
