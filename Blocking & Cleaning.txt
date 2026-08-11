@@ -130,6 +130,7 @@ $removeparam=yclid
 ||.il^
 ||.in^
 !
+||.psee.ly^
 ||.tra.gov.eg^
 !
 ||1000fapvids.com^
@@ -414,6 +415,7 @@ $removeparam=yclid
 ||freehdcams.xxx^
 ||fullstory.com^
 ||fullstory.net^
+||fxpro.com^
 ||fyber.com^
 ||g2fame.com^
 ||gamcore.com^
@@ -613,6 +615,7 @@ $removeparam=yclid
 ||primis.tech^
 ||propellerads.com^
 ||propellerclick.com^
+||psee.ly^
 ||pub4164.online^
 ||pub4164.zbuef.online^
 ||pub4164.zbuef^
@@ -806,6 +809,8 @@ $removeparam=yclid
 ||yotpo.com^
 ||youpornlist.com^
 ||yourpcupdater.com^
+||yt.psee.ly^
+||yt.psee^
 ||zazufi.com^
 ||zbuef.online^
 ||zdassets.com^
@@ -2146,16 +2151,20 @@ www.cremz.com##div.btn-holder:nth-of-type(5)
 www.definebabe.com##.d-sm-block.d-none.right-sidebar-widget
 www.definebabe.com##.p-ig.ml-xl-3.ml-lg-2.ml-0.ankljo_right-sidebar
 www.definebabe.com##section.py-sm-3.py-2:nth-of-type(4)
+www.deviantart.com##.ACfFZC
 www.deviantart.com##.D6qOaV > .BMczPF.DxHJMm.KcCp_d.gHe8Dc.oNWMr2.qlAJA0.reset-link
 www.deviantart.com##.D6qOaV > .MUL49O.zGd3qo
 www.deviantart.com##.DuRxKc
+www.deviantart.com##.E32ph3
 www.deviantart.com##.IAYubw.RaRPpo.GpTSTX.qTQCI_.WlC1rB
 www.deviantart.com##.IAYubw.RaRPpo.GpTSTX.qTQCI_.x9vAFG.WlC1rB
 www.deviantart.com##.K_z_y4.CYG14H
 www.deviantart.com##.MJROuc
+www.deviantart.com##.N0hOiy
 www.deviantart.com##.V8qzlV.DuRxKc
 www.deviantart.com##.WBKYLB.MUL49O.odC8_l
 www.deviantart.com##.YIXsZw.dgMz3k.XpwMfT.qlAJA0.reset-link
+www.deviantart.com##._GYTvf.smwiNO.Acd7Il.reset-link
 www.deviantart.com##.ajOBFk > .MUL49O.zGd3qo
 www.deviantart.com##.oxV3Ej
 www.deviantart.com##.qQ6xGi.JVUoxs.m4QFSe
