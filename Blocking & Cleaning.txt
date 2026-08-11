@@ -486,6 +486,7 @@ $removeparam=yclid
 ||jerkmate.com^
 ||jerkmates.com^
 ||join.teamskeet.com^
+||joinhoney.com^
 ||jpmorganchase.com^
 ||js.ad-score.com^
 ||jsecoin.com^
@@ -1701,12 +1702,10 @@ $removeparam=yclid
 !
 ||a.deviantart.net/avatars/t/a/tastefully-done.jpg?7$image
 ||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-ea6ecb6d.gif$image
-||cdn-ilaobab.nitrocdn.com/lePUICgBcWyaBxcotrhntvbRsPrKoqSc/assets/images/optimized/rev-5d4d543/girlawy.com/wp-content/uploads/download*.png$image
 ||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-bottom-dark.n8eIvPwY.svg$image
 ||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-top-dark.DqQ0PKGR.svg$image
 ||duckduckgo.com/t/sl_l$image
 ||f-droid.org/assets/phone-frame_kEDoOnDDPLnsqH4lVaEun9wfQgM9ivrhk5OiUWWdKHc=.png$image
-||girlawy.com/wp-content/uploads/download*.png$image
 ||static-eu-cdn.eporner.com/new/adinhead.png$image
 ||theguardian.com/px.gif$image
 ||ukdevilz.com/static/img/bg.f853b95dab3a.png$image
@@ -1963,14 +1962,6 @@ fyptt.to##.comment-approval-notice
 fyptt.to##.comment-respond
 fyptt.to##.fl-row-align-center.fl-row-default-height.fl-node-5f719fef28ed8.fl-row-bg-color.fl-row-full-width.fl-row > .fl-row-content-wrap
 fyptt.to##[href="https://www.ourdreamersai16.com/81D5R3H/3QQG7/"]
-girlawy.com###primary-menu
-girlawy.com###telegram-popup-overlay
-girlawy.com##.clearfix.site-footer
-girlawy.com##.comments-area.fbox
-girlawy.com##.entry-content > h1:nth-of-type(1)
-girlawy.com##.entry-content > p:nth-of-type(3)
-girlawy.com##.entry-content > p:nth-of-type(4)
-girlawy.com##.vip-fixed-box
 handjobhub.com###promo-bar
 handjobhub.com##section.aff-sec:nth-of-type(2)
 himovies.sx##.mb-3.alert
