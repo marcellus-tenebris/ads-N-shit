@@ -334,6 +334,7 @@ $removeparam=yclid
 ||cdn.twinrdengine.com^
 ||cdn77.com/analytics^
 ||cellebrite.com^
+||chamet.com^
 ||chartbeat.com^
 ||chartbeat.net^
 ||chatsex.xxx^
@@ -378,6 +379,7 @@ $removeparam=yclid
 ||downloadkeeper.com^
 ||downloadrr.com^
 ||dune.com/api/analytics^
+||earthcleaner.cc^
 ||elbitamerica.com^
 ||elbitsystems.com^
 ||es.faperoni.chat^
@@ -433,6 +435,7 @@ $removeparam=yclid
 ||gemini.media^
 ||genesisporn.net^
 ||get.adobe.com^
+||getriffri.com^
 ||ggtrk.ai^
 ||ggtrk.co^
 ||ggtrk.com^
@@ -492,6 +495,7 @@ $removeparam=yclid
 ||jerkmates.com^
 ||join.teamskeet.com^
 ||joinhoney.com^
+||joyup-cloud.com^
 ||jpmorganchase.com^
 ||js.ad-score.com^
 ||jsecoin.com^
@@ -636,6 +640,8 @@ $removeparam=yclid
 ||refpa39407.com^
 ||reporo.net^
 ||revcontent.com^
+||riff-video-chat.com^
+||riffri.com^
 ||rivertraffic.com^
 ||rlcdn.com^
 ||robbyporn.com^
@@ -762,6 +768,7 @@ $removeparam=yclid
 ||undress.live^
 ||undress.org^
 ||undressai.tools^
+||updatestar.com^
 ||us.i.posthog.com^
 ||userapi.com^
 ||usercentrics.com^
@@ -821,6 +828,7 @@ $removeparam=yclid
 ||xn--42c6ac5cyaw4e1e.net^
 ||xujangram.com^
 ||xxx-tracker.com^
+||yaahlan.fun^
 ||yastatic.net^
 ||yieldmo.com^
 ||yotpo-images.com^
@@ -837,6 +845,8 @@ $removeparam=yclid
 ||zeotap.com^
 ||zergnet.com^
 ||zionads.com^
+||zizzle.com^
+||zizzle.updatestar.com^
 ||zoominfo.com^
 ||zopim.com^
 !
