@@ -544,6 +544,7 @@ $removeparam=yclid
 ||meta.ai^
 ||meta.com/facebookbot^
 ||meta.com^
+||metetes.com^
 ||mexc.com^
 ||mgid.com^
 ||miafoster.com^
@@ -727,6 +728,8 @@ $removeparam=yclid
 ||threatmetrix.com^
 ||toboads.com^
 ||tokiapp.net^
+||topinsearch.com^
+||topinsearch.metetes.com^
 ||toutiao.com^
 ||traff-1.com^
 ||traffic-media.co^
