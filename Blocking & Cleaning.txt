@@ -1,5 +1,4 @@
 ! Title: Blocking & Cleaning
-!
 ! Expires: 1 hour
 !
 $removeparam=/^af_[a-z_]*=/
