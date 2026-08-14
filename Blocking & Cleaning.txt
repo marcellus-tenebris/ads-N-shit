@@ -377,10 +377,12 @@ $removeparam=yclid
 ||doubleverify.com^
 ||downloadkeeper.com^
 ||downloadrr.com^
+||dscgirls.live^
 ||dune.com/api/analytics^
 ||earthcleaner.cc^
 ||elbitamerica.com^
 ||elbitsystems.com^
+||erofights.com^
 ||es.faperoni.chat^
 ||escortsites.org^
 ||everesttech.net^
@@ -528,6 +530,8 @@ $removeparam=yclid
 ||mailchimp.com/track^
 ||main.exoclick.com^
 ||mandrillapp.com/track^
+||maskify-ai-video-effects.en.softonic.com^
+||maskify.com^
 ||mathtag.com^
 ||mavrtracktor.com^
 ||maxai.ai^
