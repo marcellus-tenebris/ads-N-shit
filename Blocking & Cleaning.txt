@@ -1,6 +1,5 @@
 ! Title: Blocking & Cleaning
 ! Expires: 1 hour
-!
 $removeparam=/^af_[a-z_]*=/
 $removeparam=/^aff[a-z]*=/
 $removeparam=/^mkt_tok=/
@@ -163,6 +162,7 @@ $removeparam=yclid
 ||adjust.com^
 ||adjust.io^
 ||adjust.net.in^
+||adl.org^
 ||adnium.com^
 ||adnx.de^
 ||adobe.com^
