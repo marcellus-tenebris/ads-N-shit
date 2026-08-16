@@ -361,6 +361,8 @@ $removeparam=yclid
 ||cpg-cdn.com^
 ||crazyegg.com^
 ||createaiasian.com^
+||createailatina.com^
+||createaishemale.com^
 ||creepjs.com^
 ||criteo.com^
 ||crushon.ai^
@@ -369,6 +371,7 @@ $removeparam=yclid
 ||cumeroplay.com^
 ||datalogix.com^
 ||deepai.org^
+||deepnsfw.app^
 ||demandbase.com^
 ||deviantartads.com^
 ||discord.com/api/science^
@@ -378,6 +381,7 @@ $removeparam=yclid
 ||downloadkeeper.com^
 ||downloadrr.com^
 ||dscgirls.live^
+||dudeai.click^
 ||dune.com/api/analytics^
 ||earthcleaner.cc^
 ||elbitamerica.com^
@@ -529,6 +533,7 @@ $removeparam=yclid
 ||mail.ru^
 ||mailchimp.com/track^
 ||main.exoclick.com^
+||makeherporn.ai^
 ||mandrillapp.com/track^
 ||maskify-ai-video-effects.en.softonic.com^
 ||maskify.com^
@@ -620,6 +625,7 @@ $removeparam=yclid
 ||porn-download.org^
 ||porn4fap.com^
 ||pornabc.com^
+||porndudeshop.com^
 ||porngames.tv^
 ||pornhubapparel.com^
 ||pornworksai.com^
@@ -679,6 +685,7 @@ $removeparam=yclid
 ||shag.co^
 ||shag.com^
 ||sharethrough.com^
+||shemale-ai.com^
 ||shemalez.com^
 ||shesfreakylive.com^
 ||sider.ai^
@@ -711,6 +718,7 @@ $removeparam=yclid
 ||stayfocusd.com^
 ||stickyadstv.com^
 ||storygize.net^
+||sugarlab.ai^
 ||swissadserver.ch^
 ||syndication.exoclick.com^
 ||taboola.com^
@@ -1767,4 +1775,3 @@ $removeparam=yclid
 ##.video-overlay
 ##div#status-bubble
 ##div[id="status-bubble"]
-!
