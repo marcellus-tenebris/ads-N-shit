@@ -386,6 +386,8 @@ $removeparam=yclid
 ||earthcleaner.cc^
 ||elbitamerica.com^
 ||elbitsystems.com^
+||engine.trialhd.com^
+||engine.trialhd^
 ||erofights.com^
 ||es.faperoni.chat^
 ||escortsites.org^
@@ -756,6 +758,7 @@ $removeparam=yclid
 ||trc.taboola.com^
 ||trello.com/1/resources/track^
 ||trendyporn.com^
+||trialhd.com^
 ||triplelift.com^
 ||trk.cash^
 ||trk.flirtify.cash^
@@ -806,6 +809,7 @@ $removeparam=yclid
 ||vitals.vercel-insights.com^
 ||vkontakte.ru^
 ||vortex.data.microsoft.com^
+||vrporn.com^
 ||vwo.com^
 ||walkme.com^
 ||wandb.ai^
