@@ -1728,6 +1728,12 @@ $removeparam=yclid
 ||youtube.com^$removeparam=si
 ||youtube.com^$removeparam=ucbcb
 !
+||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-bottom-dark.n8eIvPwY.svg$image
+||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-top-dark.DqQ0PKGR.svg$image
+||images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/72c8301a-da3a-4f18-992e-605965c98685/dm6px0b-953ca72c-ff1a-46ff-91bb-d1a6dd83787b.jpg/v1/fill/w_1280,h_720,q_75,strp/qwen_image_1780688828149_by_artwork_casting_dm6px0b-fullview.jpg$image
+||st.deviantart.net/eclipse/profile-skins/dark_rain.gif$image
+||www.da-files.com/productmarketing/eclipse/25th_birthday_bash_skin.gif?3$image
+!
 ###ad_popup
 ##.ad
 ##.ad-container
@@ -1787,9 +1793,6 @@ $removeparam=yclid
 ##div#status-bubble
 ##div[id="status-bubble"]
 !
-||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-bottom-dark.n8eIvPwY.svg$image
-||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-top-dark.DqQ0PKGR.svg$image
-!
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.ab_pl_man, false)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, false)
@@ -1799,6 +1802,8 @@ www.lyricsify.com,www.serializd.com,www.speedtest.net,www.storysaver.net##.foote
 !
 an1.com##body > .wrp
 codeberg.org###tou-announcement
+f-droid.org##.banner--name__keepandroidopen.banner--danger.banner
+f-droid.org##.site-footer
 himovies.sx##.mb-3.alert
 m.youtube.com##:is(ytm-rich-section-renderer,grid-shelf-view-model):has([href^="/shorts/"])
 m.youtube.com##[tab-title="Shorts"]
@@ -1836,6 +1841,7 @@ temp-mail.org##.temp-emailbox-text
 www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
 www.apkmirror.com##div.listWidget:nth-of-type(3)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
+www.deviantart.com##.DuRxKc
 www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 www.facebook.com##.x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5 > .x1y1aw1k > div:nth-of-type(1)
 www.facebook.com##.x1v0nzow.x1ceravr.xgmub6v.x193iq5w
