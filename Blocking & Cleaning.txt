@@ -135,6 +135,7 @@ $removeparam=yclid
 ||11oysters.com^
 ||4dsply.com^
 ||6sense.com^
+||7lha.com^
 ||a.exoclick.com^
 ||a.happyleafmotion.com^
 ||a.magsrv.com^
@@ -712,6 +713,7 @@ $removeparam=yclid
 ||st-n.ads4-adnow.com^
 ||st-n.ads5-adnow.com^
 ||st-n.gsasd.info^
+||star7iha602.7lha.com^
 ||startapp.com^
 ||startappexchange.com^
 ||startappnetwork.com^
