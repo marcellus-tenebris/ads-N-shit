@@ -318,6 +318,7 @@ $removeparam=yclid
 ||campfirecroutondecorator.com^
 ||cams.bdsmstreak.com^
 ||candiru.com^
+||candy.ai^
 ||candyai.ai^
 ||candyai.com^
 ||candyai.gg^
@@ -334,6 +335,7 @@ $removeparam=yclid
 ||cdn77.com/analytics^
 ||cellebrite.com^
 ||chamet.com^
+||chantacam.com^
 ||chartbeat.com^
 ||chartbeat.net^
 ||chatsex.xxx^
