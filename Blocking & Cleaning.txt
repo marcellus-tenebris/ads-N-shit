@@ -405,6 +405,7 @@ $removeparam=yclid
 ||faperoni.chat^
 ||faphouse.com^
 ||faphouse1.com^
+||fapify.com^
 ||fb.com^
 ||fbi.gov^
 ||fetishes.cam^
@@ -630,6 +631,7 @@ $removeparam=yclid
 ||porndudeshop.com^
 ||porngames.tv^
 ||pornhubapparel.com^
+||pornmaker.ai^
 ||pornworksai.com^
 ||posthog.com^
 ||primis.com^
@@ -720,7 +722,9 @@ $removeparam=yclid
 ||stayfocusd.com^
 ||stickyadstv.com^
 ||storygize.net^
+||subwaysurfersapkworld.com^
 ||sugarlab.ai^
+||swapperai.com^
 ||swissadserver.ch^
 ||syndication.exoclick.com^
 ||taboola.com^
@@ -785,6 +789,7 @@ $removeparam=yclid
 ||undress.live^
 ||undress.org^
 ||undressai.tools^
+||undressme.ai^
 ||updatestar.com^
 ||us.i.posthog.com^
 ||userapi.com^
