@@ -1795,6 +1795,7 @@ codeberg.org###tou-announcement
 f-droid.org##.banner--name__keepandroidopen.banner--danger.banner
 f-droid.org##.site-footer
 himovies.sx##.mb-3.alert
+letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
 m.youtube.com##:is(ytm-rich-section-renderer,grid-shelf-view-model):has([href^="/shorts/"])
 m.youtube.com##[tab-title="Shorts"]
 m.youtube.com##ytm-pivot-bar-item-renderer:has(>.pivot-shorts)
@@ -1828,6 +1829,7 @@ temp-mail.org##.mid-intro-text
 temp-mail.org##.popover-qr.btn-l-gary.icon-btn.btn-rds
 temp-mail.org##.section-populer-article
 temp-mail.org##.temp-emailbox-text
+vimeo.com##.css-1n7cs5e.chakra-card
 www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
 www.apkmirror.com##div.listWidget:nth-of-type(3)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
