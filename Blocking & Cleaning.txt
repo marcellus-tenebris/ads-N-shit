@@ -355,6 +355,7 @@
 ||hilltopads.net^
 ||hotjar.com^
 ||hotjar.io^
+||hungrystudio.com^
 ||id5-sync.com^
 ||idf.com
 ||imprezzer.com^
@@ -573,6 +574,7 @@
 ||slack.com/beacon^
 ||smartadserver.com^
 ||snowplowanalytics.com^
+||softonic.com^
 ||sonobi.com^
 ||sovrn.com^
 ||spotx.tv^
@@ -598,6 +600,7 @@
 ||storygize.net^
 ||subwaysurfersapkworld.com^
 ||sugarlab.ai^
+||supercent.io^
 ||swapperai.com^
 ||swissadserver.ch^
 ||syndication.exoclick.com^
@@ -690,6 +693,7 @@
 ||visualwebsiteoptimizer.com^
 ||vitals.vercel-insights.com^
 ||vkontakte.ru^
+||voodoo.io^
 ||vortex.data.microsoft.com^
 ||vrporn.com^
 ||vwo.com^
