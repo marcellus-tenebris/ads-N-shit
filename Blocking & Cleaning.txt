@@ -340,7 +340,6 @@
 ||go.xxx-tracker.com^
 ||goldmansachs.com^
 ||golovehub.com^
-||google-analytics.com^
 ||googleads.g.doubleclick.net^
 ||googlesyndication.com^
 ||graph.facebook.com^
@@ -458,6 +457,7 @@
 ||niceincontact.com^
 ||nielsen.com^
 ||nielseniq.com^
+||niri.org^
 ||nitropack.io^
 ||northropgrumman.com^
 ||notegpt.io^
@@ -643,6 +643,8 @@
 ||trk.flirtify.cash^
 ||trk.flirtify^
 ||truesportmeds.com^
+||trump.com
+||trumpmobile.com^
 ||trustarc.com^
 ||tsthots.com^
 ||tsyndicate.com^
@@ -1871,8 +1873,10 @@ www.reddit.com##.inline-flex.button.justify-center.items-center.button-plain.px-
 www.reddit.com##.justify-end.flex-col.flex.grow.py-md.visible
 www.reddit.com##.left-nav-create-community-button.mt-0.list-none.relative > .bg-transparent.s\:rounded-2.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
 www.reddit.com##.nd\:hidden > .rounded-none.border-none.bg-transparent.m-0.p-0
+www.reddit.com##.nd\:visible > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0
 www.reddit.com##.nd\:visible > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > .mt-0.list-none.relative > .s\:rounded-2.bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
 www.reddit.com##.nd\:w-\[54px\].nd\:invisible.nd\:h-xl.nd\:max-h-\[32px\].nd\:block
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > faceplate-expandable-section-helper:nth-of-type(1) > .rounded-none.border-none.bg-transparent.m-0.p-0
 www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > faceplate-expandable-section-helper:nth-of-type(1) > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative > .s\:rounded-2.bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
 www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(1)
 www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(2)
