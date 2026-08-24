@@ -221,6 +221,7 @@
 ||clicky.com^
 ||clientjs.io^
 ||clientjs.org^
+||clothoff.app^
 ||cognyte.com^
 ||coin-hive.com^
 ||coinhive.com^
@@ -655,6 +656,7 @@
 ||tune.com^
 ||tv21macedonia.xyz^
 ||tvpage.com^
+||twinrdengine.com^
 ||twinred.com^
 ||typingdna.com^
 ||uberhorny.com^
@@ -741,6 +743,7 @@
 ||yourpcupdater.com^
 ||yt.psee.ly^
 ||yt.psee^
+||yvmads.com^
 ||zazufi.com^
 ||zbuef.online^
 ||zdassets.com^
@@ -1932,6 +1935,7 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-reel-shelf-renderer
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
 www.youtube.com##ytd-search ytd-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
 x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-1kqtdi0.css-175oi2r
 x.com##[data-testid="reply-boost-upsell"]
