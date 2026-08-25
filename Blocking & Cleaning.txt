@@ -407,6 +407,7 @@
 ||luckyorange.com^
 ||made.porn^
 ||magsrv.com^
+||mail-ads.google.com^
 ||mail.ru^
 ||mailchimp.com/track^
 ||main.exoclick.com^
@@ -496,6 +497,7 @@
 ||pixel.wp.com^
 ||players.brightcove.net/analytics^
 ||playhubconnect.com^
+||po.st^
 ||popads.net^
 ||popawa.com^
 ||popcash.net^
@@ -1110,7 +1112,6 @@ $removeparam=yclid
 ||m.doubleclick.net^$third-party
 ||m.stripe.com^$third-party
 ||m.stripe.network^$third-party
-||mail-ads.google.com^$third-party
 ||mailchimp.com/*/track/*$third-party
 ||mandrillapp.com/track/*$third-party
 ||maps.googleapis.com/maps/api/geocode^$third-party
@@ -1179,7 +1180,6 @@ $removeparam=yclid
 ||plausible.io^$third-party
 ||playbuzz.com^$third-party
 ||plugrush.com^$third-party
-||po.st^$third-party
 ||pointroll.com^$third-party
 ||prebid.io^$third-party
 ||prebid.org^$third-party
@@ -1729,6 +1729,10 @@ $removeparam=yclid
 !
 ||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-bottom-dark.n8eIvPwY.svg$image
 ||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-top-dark.DqQ0PKGR.svg$image
+||f-droid.org/assets/download-fdroid-qr_rt62kUMmGMIMhgDgUUWjYefCQjazGqLRlAZ7WOgSSlg=.png$image
+||f-droid.org/assets/liberapay_donate_button_GHdOOfmFJNeSXjfjnA-98XtIuEfvE6cNJjHgHOhjdv0=.svg$image
+||f-droid.org/assets/opencollective_button_iIGF0Hixdj0EaYR3Sd7FRigTVcl7QPGu6kaoBmXHjZI=.png$image
+||f-droid.org/assets/phone-frame_kEDoOnDDPLnsqH4lVaEun9wfQgM9ivrhk5OiUWWdKHc=.png$image
 ||images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/72c8301a-da3a-4f18-992e-605965c98685/dm6px0b-953ca72c-ff1a-46ff-91bb-d1a6dd83787b.jpg/v1/fill/w_1280,h_720,q_75,strp/qwen_image_1780688828149_by_artwork_casting_dm6px0b-fullview.jpg$image
 ||st.deviantart.net/eclipse/profile-skins/dark_rain.gif$image
 ||www.da-files.com/productmarketing/eclipse/25th_birthday_bash_skin.gif?3$image
@@ -1803,6 +1807,7 @@ an1.com##body > .wrp
 codeberg.org###tou-announcement
 f-droid.org##.banner--name__keepandroidopen.banner--danger.banner
 f-droid.org##.site-footer
+f-droid.org##div.sidebar-widget:nth-of-type(3)
 himovies.sx##.mb-3.alert
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
 m.youtube.com##:is(ytm-rich-section-renderer,grid-shelf-view-model):has([href^="/shorts/"])
