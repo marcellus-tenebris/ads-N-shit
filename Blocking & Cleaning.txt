@@ -1879,6 +1879,7 @@ www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.x
 www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(5)
 www.instagram.com##.x1nhvcw1.x1oa3qoh.x1cy8zhl.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.xf7dkkf.xv54qhq.x1e56ztr.xbiv7yw.x16uus16.x1ga7v0g.x15mokao.x78zum5.xjbqb8w.x9f619.x18d9i69.xexx8yu.x1lziwak.x14z9mp.xdj266r.html-div
 www.instagram.com##.xl8spv7.xf7dkkf.xv54qhq.x11njtxf.x1n2onr6.x18d9i69.xexx8yu.x1h3rv7z.x1lziwak.xat24cr.x14z9mp.xdj266r.xk390pu.x2lah0s.xdt5ytf.x78zum5.x9f619.x1qjc9v5
+www.instagram.com##div:has(> div[role="button"] > svg[aria-label="Repost"])
 www.reddit.com###games_section
 www.reddit.com##.gap-xs.items-center.flex-wrap.gap-2xs.flex.list-none.m-0.p-0.text-caption-1.text-neutral-content-weak
 www.reddit.com##.inline-flex.button.justify-center.items-center.button-plain.px-\[calc\(var\(--rem12\)-var\(--button-border-width\,0px\)\)\].button-medium.active\:no-underline.hover\:no-underline.no-underline
