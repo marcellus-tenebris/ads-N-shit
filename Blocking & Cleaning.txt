@@ -1926,6 +1926,7 @@ www.tiktok.com##h2:nth-of-type(2)
 www.tiktok.com##h2:nth-of-type(4)
 www.tiktok.com##h2:nth-of-type(5)
 www.tumblr.com##[src="https://assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-with-patio-47ce20b6.gif"]
+www.youtube.com###button-shape > .ytSpecButtonShapeNextMainstagePadding.ytSpecButtonShapeNextMainstageIconSize.ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextIconButton.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextTonal.ytSpecButtonShapeNextHost
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope > yt-button-shape
 www.youtube.com###copyright
 www.youtube.com###country-code
