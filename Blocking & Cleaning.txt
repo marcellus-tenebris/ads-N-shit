@@ -255,6 +255,7 @@
 ||doubleverify.com^
 ||downloadkeeper.com^
 ||downloadrr.com^
+||dpnode.online^
 ||dscgirls.live^
 ||dudeai.click^
 ||dune.com/api/analytics^
@@ -745,6 +746,7 @@
 ||xxx-tracker.com^
 ||yaahlan.fun^
 ||yastatic.net^
+||ybbp.us^
 ||yieldmo.com^
 ||yotpo-images.com^
 ||yotpo.com^
