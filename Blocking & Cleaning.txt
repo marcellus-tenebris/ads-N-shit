@@ -1906,6 +1906,7 @@ www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo
 www.gnome-look.org##.container-wide.footer
 www.instagram.com##div:has(> div[role="button"] > svg[aria-label="Repost"])
 www.reddit.com###games_section
+www.reddit.com##.border-neutral-border.border-solid.border-e-0.border-s-0.border-t-0.border-b-sm.bg-neutral-background.py-xs.xs\:px-0.relative.px-md.text-12.justify-between.flex > span.items-center.flex:nth-of-type(2)
 www.reddit.com##.gap-xs.items-center.flex-wrap.gap-2xs.flex.list-none.m-0.p-0.text-caption-1.text-neutral-content-weak
 www.reddit.com##.inline-flex.button.justify-center.items-center.button-plain.px-\[calc\(var\(--rem12\)-var\(--button-border-width\,0px\)\)\].button-medium.active\:no-underline.hover\:no-underline.no-underline
 www.reddit.com##.justify-end.flex-col.flex.grow.py-md.visible
