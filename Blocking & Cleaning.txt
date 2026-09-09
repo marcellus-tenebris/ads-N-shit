@@ -252,6 +252,7 @@
 ||deviantartads.com^
 ||discord.com/api/science^
 ||discountedporn.com^
+||disqus.com^
 ||doubleclick.net^
 ||doubleverify.com^
 ||downloadkeeper.com^
@@ -1821,7 +1822,7 @@ www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, fals
 !
 codeberg.org,temp-mail.org##.page-footer
 store.kde.org,www.gnome-look.org##.container-wide.footer
-www.lyricsify.com,www.serializd.com,www.speedtest.net,www.storysaver.net##.footer
+www.apkmirror.com,www.lyricsify.com,www.serializd.com,www.speedtest.net,www.storysaver.net##.footer
 !
 an1.com##body > .wrp
 claude.ai###portal-root
