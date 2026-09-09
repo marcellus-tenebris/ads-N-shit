@@ -295,6 +295,7 @@
 ||files.gay^
 ||fingerprint-pro.com^
 ||fingerprintjs.com^
+||firebaseio.com^
 ||flickrads.com^
 ||fling.com^
 ||flirtify.cash^
@@ -302,7 +303,9 @@
 ||flock.co^
 ||flock.com^
 ||flocksafety.com^
+||flurry.com^
 ||forbusiness.snapchat.com^
+||fp.clarity.ms^
 ||freecamgirl.com^
 ||freecamgirl.net^
 ||freehdcams.xxx^
@@ -1041,10 +1044,7 @@ $removeparam=yclid
 ||fcm.googleapis.com^$third-party
 ||featuregates.org^$third-party
 ||firebase.googleapis.com/v1/projects^$third-party
-||firebaseio.com^$third-party
 ||fls-na.amazon.com^$third-party
-||flurry.com^$third-party
-||fp.clarity.ms^$third-party
 ||fpjs.io^$third-party
 ||fpnpmcdn.net^$third-party
 ||freewheel.tv^$third-party
@@ -1867,8 +1867,10 @@ temp-mail.org##.popover-qr.btn-l-gary.icon-btn.btn-rds
 temp-mail.org##.section-populer-article
 temp-mail.org##.temp-emailbox-text
 vimeo.com##.css-1n7cs5e.chakra-card
+www.apkmirror.com##.f-nowrap.d-flex.site-actions
 www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
 www.apkmirror.com##div.listWidget:nth-of-type(3)
+www.apkmirror.com##div.p-relative.listWidget:nth-of-type(6)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
 www.deviantart.com##.DuRxKc
 www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
