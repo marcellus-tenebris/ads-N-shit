@@ -699,6 +699,7 @@
 ||userstyles.org^
 ||vanguard.com^
 ||vdads2019.com^
+||vdohd.com^
 ||vercel-insights.com^
 ||verint.com^
 ||viber.com^
@@ -1832,6 +1833,7 @@ f-droid.org##.banner--name__keepandroidopen.banner--danger.banner
 f-droid.org##.site-footer
 f-droid.org##div.sidebar-widget:nth-of-type(3)
 himovies.sx##.mb-3.alert
+krx18.com##footer.main
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
 m.youtube.com##:is(ytm-rich-section-renderer,grid-shelf-view-model):has([href^="/shorts/"])
 m.youtube.com##[tab-identifier="FEhistory"] ytm-compact-video-renderer:has(>div>a[href^="/shorts/"])
@@ -1956,7 +1958,7 @@ www.youtube.com###copyright
 www.youtube.com###country-code
 www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
 www.youtube.com###footer
-www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
+www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"
 www.youtube.com###related :is(ytd-compact-video-renderer,yt-lockup-view-model):has([overlay-style="SHORTS"],[href^="/shorts/"])
 www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
 www.youtube.com##.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost
@@ -1973,6 +1975,7 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 www.youtube.com##ytd-reel-shelf-renderer
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
 www.youtube.com##ytd-search ytd-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
+www1.solarmovies.co##footer
 x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-1kqtdi0.css-175oi2r
 x.com##[data-testid="reply-boost-upsell"]
 x.com##[role="main"] [aria-label="Home timeline"] [href$="/header_photo"]:upward(2):style(max-width: 999px !important)
