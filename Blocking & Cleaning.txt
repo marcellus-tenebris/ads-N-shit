@@ -279,6 +279,7 @@
 ||ey43.com^
 ||f11-ads.com^
 ||facemix.app^
+||fact.com^
 ||fantecio.com^
 ||faperoni.chat^
 ||faphouse.com^
@@ -1760,6 +1761,7 @@ $removeparam=yclid
 ||www.gnome-look.org/theme/react/bundle/product-view/a7fc825834251a170bbd946d44e2188c.png$image
 !
 ###ad_popup
+###geo-flag-wrap
 ##.ad
 ##.ad-container
 ##.adbox
