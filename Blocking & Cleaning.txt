@@ -1745,6 +1745,7 @@ $removeparam=yclid
 !
 ||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-bottom-dark.n8eIvPwY.svg$image
 ||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-top-dark.DqQ0PKGR.svg$image
+||e.deviantart.net/emoticons/c/clap2.gif$image
 ||f-droid.org/assets/download-fdroid-qr_rt62kUMmGMIMhgDgUUWjYefCQjazGqLRlAZ7WOgSSlg=.png$image
 ||f-droid.org/assets/liberapay_donate_button_GHdOOfmFJNeSXjfjnA-98XtIuEfvE6cNJjHgHOhjdv0=.svg$image
 ||f-droid.org/assets/opencollective_button_iIGF0Hixdj0EaYR3Sd7FRigTVcl7QPGu6kaoBmXHjZI=.png$image
@@ -1910,6 +1911,7 @@ www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.x
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(9) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(5)
 www.gnome-look.org##.container-wide.footer
+www.google.com##.O3yKUb
 www.instagram.com##div:has(> div[role="button"] > svg[aria-label="Repost"])
 www.nga.gov##.c-site-footer
 www.nga.gov##.region-sitewide-alert.region
@@ -1966,11 +1968,14 @@ www.youtube.com###footer
 www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"
 www.youtube.com###related :is(ytd-compact-video-renderer,yt-lockup-view-model):has([overlay-style="SHORTS"],[href^="/shorts/"])
 www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
+www.youtube.com##.ytChipShapeOnlyTextPadding.ytChipShapeInactive.ytChipShapeChip
 www.youtube.com##.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost
 www.youtube.com##.ytSmartImationsContent > ytd-button-renderer > yt-button-shape > .ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextTonal.ytSpecButtonShapeNextHost
 www.youtube.com##:is(ytd-rich-item-renderer,yt-lockup-view-model):has(.ytBadgeShapeMembership,[aria-label="Members only"],[d^="M6 .5a5.5 5.5"])
 www.youtube.com##[tab-title="Shorts"]
+www.youtube.com##div.ytFlexibleActionsViewModelAction:nth-of-type(2)
 www.youtube.com##grid-shelf-view-model.ytd-item-section-renderer.ytGridShelfViewModelHost:nth-of-type(1)
+www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(8)
 www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-grid-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
 www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-rich-item-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
 www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
