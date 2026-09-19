@@ -301,6 +301,7 @@
 ||fling.com^
 ||flirtify.cash^
 ||flirtify.com^
+||flixcdn.com^
 ||flock.co^
 ||flock.com^
 ||flocksafety.com^
@@ -469,6 +470,7 @@
 ||networkpb.com^
 ||neustar.biz^
 ||newrelic.com^
+||newsdaily.fun^
 ||nice.com^
 ||niceincontact.com^
 ||nielsen.com^
