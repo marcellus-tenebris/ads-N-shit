@@ -1971,7 +1971,6 @@ www.youtube.com###copyright
 www.youtube.com###country-code
 www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
 www.youtube.com###footer
-www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"
 www.youtube.com###related :is(ytd-compact-video-renderer,yt-lockup-view-model):has([overlay-style="SHORTS"],[href^="/shorts/"])
 www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
 www.youtube.com##.ytChipShapeOnlyTextPadding.ytChipShapeInactive.ytChipShapeChip
