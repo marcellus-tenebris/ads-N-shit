@@ -248,6 +248,7 @@
 ||datalogix.com^
 ||deepai.org^
 ||deepnsfw.app^
+||deliver.ptgncdn.com^
 ||demandbase.com^
 ||deviantartads.com^
 ||discord.com/api/science^
