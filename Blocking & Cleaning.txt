@@ -350,6 +350,7 @@
 ||go.traff-1.com^
 ||go.xliiirdr.com^
 ||go.xxx-tracker.com^
+||gold73.gaya-sa.org^
 ||goldmansachs.com^
 ||golovehub.com^
 ||googleads.g.doubleclick.net^
