@@ -624,6 +624,7 @@
 ||stayfocusd.com^
 ||stickyadstv.com^
 ||storygize.net^
+||stuffserve.me^
 ||subwaysurfersapkworld.com^
 ||sugarlab.ai^
 ||supercent.io^
@@ -1798,6 +1799,7 @@ $removeparam=yclid
 ##.fixed-header
 ##.floating-banner
 ##.floating-button
+##.fluid_html_on_pause_container
 ##.fp-embed
 ##.gdpr-consent
 ##.geo-gate
