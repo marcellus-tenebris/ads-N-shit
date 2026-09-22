@@ -1,14 +1,6 @@
 ! Title: Blocking & Cleaning
 ! Expires: 1 hour
 !
-||flixcdn.com^
-||justservingfiles.net^
-||bakestubborn.com^
-||wicked.com^
-||trialhd.com^
-||pornx.co^
-||doppiocdn.com^
-!
 ||1000fapvids.com^
 ||11oysters.com^
 ||4dsply.com^
@@ -47,6 +39,7 @@
 ||adobe.com^
 ||adobedc.net^
 ||adobedtm.com^
+||adplsr.com^
 ||ads-api.tiktok.com^
 ||ads-api.twitter.com^
 ||ads-sg.tiktok.com^
@@ -159,6 +152,7 @@
 ||awempire.com^
 ||awin1.com^
 ||aznude.pics^
+||bakestubborn.com^
 ||bannedsextapes.com^
 ||bbwsexdates.net^
 ||bd742.com^
@@ -208,6 +202,7 @@
 ||ccbot.org^
 ||cdn.amplifo.com^
 ||cdn.amplifo^
+||cdn.bakestubborn.com^
 ||cdn.havenclick.com^
 ||cdn.pornhaven.ai^
 ||cdn.storagexhd.com
@@ -262,6 +257,7 @@
 ||discord.com/api/science^
 ||discountedporn.com^
 ||disqus.com^
+||doppiocdn.com^
 ||doubleclick.net^
 ||doubleverify.com^
 ||downloadkeeper.com^
@@ -320,6 +316,7 @@
 ||freecamgirl.com^
 ||freecamgirl.net^
 ||freehdcams.xxx^
+||fucker.chat^
 ||fullstory.com^
 ||fullstory.net^
 ||fxpro.com^
@@ -375,11 +372,13 @@
 ||hersolutiongel.com^
 ||hh-yin.pages.dev^
 ||hilltopads.net^
+||holed.com^
 ||homelivesex.com^
 ||hot-local-babes.com^
 ||hotjar.com^
 ||hotjar.io^
 ||hungrystudio.com^
+||ic-nss.flixcdn.com^
 ||id5-sync.com^
 ||idf.com
 ||imprezzer.com^
@@ -406,6 +405,7 @@
 ||jsecoin.com^
 ||juicyads.com^
 ||juneworewyjyna.com^
+||justservingfiles.net^
 ||jwplatform.com/analytics^
 ||kctag.net^
 ||kickoffo.site^
@@ -536,6 +536,7 @@
 ||pornhubapparel.com^
 ||pornmaker.ai^
 ||pornworksai.com^
+||pornx.co^
 ||posthog.com^
 ||primis.com^
 ||primis.io^
@@ -754,6 +755,7 @@
 ||whatfix.com^
 ||whatruns.com^
 ||whatslove.ai^
+||wicked.com^
 ||widgets.outbrain.com^
 ||widgets.wp.com^
 ||windows-pro.net^
