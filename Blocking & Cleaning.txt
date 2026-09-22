@@ -1,6 +1,14 @@
 ! Title: Blocking & Cleaning
 ! Expires: 1 hour
 !
+||flixcdn.com^
+||justservingfiles.net^
+||bakestubborn.com^
+||wicked.com^
+||trialhd.com^
+||pornx.co^
+||doppiocdn.com^
+!
 ||1000fapvids.com^
 ||11oysters.com^
 ||4dsply.com^
@@ -1854,6 +1862,7 @@ m.youtube.com##[tab-title="Shorts"]
 m.youtube.com##ytm-pivot-bar-item-renderer:has(>.pivot-shorts)
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has([href^="/shorts/"])
 mcpelife.com##.app-panel-wrap
+pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
 redvid.io##.header-inner
 redvid.io##.hero-badge
 redvid.io##.hero-subtitle
