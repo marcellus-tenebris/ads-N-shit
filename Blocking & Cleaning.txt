@@ -1934,6 +1934,7 @@ www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.x
 www.facebook.com##li.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1lziwak.xat24cr.x14z9mp.xdj266r.html-li:nth-of-type(9) > .x193iq5w.x2lah0s.xdt5ytf.x78zum5.x9f619.x1ja2u2z.x1n2onr6 > .x2lwn1j.x1iyjqo2.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xf159sx.xmzvs34.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo2:nth-of-type(5)
 www.gnome-look.org##.container-wide.footer
+www.google.com###sfooter
 www.google.com##.O3yKUb
 www.instagram.com##div:has(> div[role="button"] > svg[aria-label="Repost"])
 www.nga.gov##.c-site-footer
@@ -1942,6 +1943,7 @@ www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
 www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN > div
 www.pinterest.com##.zEVE_X.xdjfP5.n62I2n._tKaHB.NYgy1O.ADXRXN
 www.reddit.com###games_section
+www.reddit.com###mosaic-pdp-feed
 www.reddit.com##.border-neutral-border.border-solid.border-e-0.border-s-0.border-t-0.border-b-sm.bg-neutral-background.py-xs.xs\:px-0.relative.px-md.text-12.justify-between.flex > span.items-center.flex:nth-of-type(2)
 www.reddit.com##.gap-xs.items-center.flex-wrap.gap-2xs.flex.list-none.m-0.p-0.text-caption-1.text-neutral-content-weak
 www.reddit.com##.inline-flex.button.justify-center.items-center.button-plain.px-\[calc\(var\(--rem12\)-var\(--button-border-width\,0px\)\)\].button-medium.active\:no-underline.hover\:no-underline.no-underline
