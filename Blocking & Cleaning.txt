@@ -180,6 +180,7 @@
 ||bootstrapcdn.com/analytics^
 ||branch.io^
 ||braze.eu^
+||brazzers.com^
 ||brightcove.com/analytics^
 ||business.facebook.com^
 ||business.google.com^
