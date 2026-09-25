@@ -751,6 +751,7 @@
 ||visualwebsiteoptimizer.com^
 ||vitals.vercel-insights.com^
 ||vkontakte.ru^
+||vocaroo.com/^
 ||voodoo.io^
 ||vortex.data.microsoft.com^
 ||vrporn.com^
