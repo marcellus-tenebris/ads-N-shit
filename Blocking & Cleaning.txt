@@ -154,8 +154,10 @@
 ||aznude.pics^
 ||bakestubborn.com^
 ||bannedsextapes.com^
+||barilliance.com^
 ||bbwsexdates.net^
 ||bd742.com^
+||bdstatic.com^
 ||beeg.porn^
 ||behaviosec.com^
 ||belacash.net^
@@ -167,6 +169,8 @@
 ||bid.aero^
 ||bidswitch.net^
 ||bigo.tv^
+||bing.com^
+||bingads.com^
 ||biocatch.com^
 ||blackrock.com^
 ||blackrockinvestmentinstitute.com^
@@ -182,6 +186,7 @@
 ||braze.eu^
 ||brazzers.com^
 ||brightcove.com/analytics^
+||browser-intake-datadoghq.com^
 ||business.facebook.com^
 ||business.google.com^
 ||business.instagram.com^
@@ -220,6 +225,7 @@
 ||chaturbate.lat^
 ||chevron.com^
 ||cia.gov^
+||cj.com^
 ||clearbit.com^
 ||clearbit.io^
 ||clearview.ai^
@@ -338,6 +344,7 @@
 ||genesisporn.net^
 ||get.adobe.com^
 ||getriffri.com^
+||ggptnetwork.com^
 ||ggtrk.ai^
 ||ggtrk.co^
 ||ggtrk.com^
@@ -387,14 +394,18 @@
 ||imprezzer.com^
 ||improvedigital.com^
 ||indexexchange.com^
+||inflection.ai^
+||ingest.sentry.io^
 ||inner-active.com^
 ||inneractive.com^
 ||innovid.com^
+||inspectlet.com^
 ||integralads.com^
 ||intentiq.com^
 ||inv.lapippa.com^
 ||iovation.com^
 ||ironsrc.com^
+||is.com^
 ||ixigua.com^
 ||jacquieetmicheltv.net^
 ||jasonsavard.com^
@@ -556,6 +567,7 @@
 ||pulsepoint.com^
 ||quillbot.com^
 ||rabbitscams.sex^
+||radware.com^
 ||rambler.ru^
 ||reasedoper.pw^
 ||redgifs.ai^
@@ -563,6 +575,7 @@
 ||refpa39407.com^
 ||reporo.net^
 ||revcontent.com^
+||richrelevance.com^
 ||riff-video-chat.com^
 ||riffri.com^
 ||rivertraffic.com^
@@ -570,6 +583,7 @@
 ||rjchq.org^
 ||rlcdn.com^
 ||robbyporn.com^
+||rollbar.com^
 ||rosey.link^
 ||rr.rndomnm.com^
 ||rtx.com^
@@ -968,16 +982,9 @@ $removeparam=yclid
 !
 ||analytics-sg.tiktok.com^$third-party
 ||baidu.com^$third-party
-||barilliance.com^$third-party
-||bat.bing.com^$third-party
-||bdapi-ads.realmemobile.com^$third-party
-||bdapi-in-ads.realmemobile.com^$third-party
-||bdstatic.com^$third-party
-||bingads.com^$third-party
 ||bit.ly^$third-party
 ||bitmedia.io^$third-party
 ||books-analytics-events.apple.com^$third-party
-||browser-intake-datadoghq.com^$third-party
 ||browser.sentry-cdn.com^$third-party
 ||buff.ly^$third-party
 ||bugsnag.com^$third-party
@@ -998,7 +1005,6 @@ $removeparam=yclid
 ||chainalysis.com^$third-party
 ||checkmarx.com^$third-party
 ||ciphertrace.com^$third-party
-||cj.com^$third-party
 ||ck.ads.oppomobile.com^$third-party
 ||clarity.ms^$third-party
 ||click.googleanalytics.com^$third-party
@@ -1106,9 +1112,6 @@ $removeparam=yclid
 ||impact.com^$third-party
 ||imperva.com^$third-party
 ||impression.appsflyer.com^$third-party
-||inflection.ai^$third-party
-||ingest.sentry.io^$third-party
-||inspectlet.com^$third-party
 ||intercom.com^$third-party
 ||intercom.io^$third-party
 ||intercomcdn.com^$third-party
@@ -1117,7 +1120,6 @@ $removeparam=yclid
 ||ip-api.com^$third-party
 ||ipapi.co^$third-party
 ||ipinfo.io^$third-party
-||is.com^$third-party
 ||iubenda.com^$third-party
 ||jads.co^$third-party
 ||jetpack.wordpress.com^$third-party
@@ -1234,7 +1236,6 @@ $removeparam=yclid
 ||quantserve.com^$third-party
 ||qubit.com^$third-party
 ||r.lr-ingest.io^$third-party
-||radware.com^$third-party
 ||realsrv.com^$third-party
 ||recaptcha.net^$third-party
 ||recommender.com^$third-party
@@ -1242,8 +1243,6 @@ $removeparam=yclid
 ||reddit.com/buttons/*$third-party
 ||reddit.com/embed^$third-party
 ||redditmedia.com/gtm^$third-party
-||richrelevance.com^$third-party
-||rollbar.com^$third-party
 ||rudderstack.com^$third-party
 ||rum.browser-intake-datadoghq.com^$third-party
 ||s-innovid.com^$third-party
@@ -1966,6 +1965,7 @@ www.reddit.com##hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(3)
 www.reddit.com##left-nav-top-section
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(1) > faceplate-tracker.contents:nth-of-type(2) > .mt-0.list-none.relative > .no-underline.-outline-offset-1.py-xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
 www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2)
+www.serializd.com##.r-13qz1uu.r-3pj75a.r-w7s2jr.r-11c0sde.r-1peese0.r-15pk7w6.r-1dzdj1l.r-bnwqim.r-1udh08x.css-g5y9jx
 www.serializd.com##.tvtime-banner
 www.serializd.com##div[data-testid="responsive-social-buttons"]:style( display: contents !important; )
 www.speedtest.net##.connection-component-container > .result-data
