@@ -1861,6 +1861,7 @@ codeberg.org###tou-announcement
 f-droid.org##.banner--name__keepandroidopen.banner--danger.banner
 f-droid.org##.site-footer
 f-droid.org##div.sidebar-widget:nth-of-type(3)
+flickr.com##.requiredToShowOnServer.footer-full-view.view
 himovies.sx##.mb-3.alert
 krx18.com##footer.main
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
