@@ -99,6 +99,7 @@
 ||airtable.com/v0.3/track^
 ||aistudio.facebook.com^
 ||aistudio.instagram.com^
+||aivanta76.com^
 ||ajax.googleapis.com^
 ||akamaihd.net/analytics^
 ||alameed.com^
@@ -580,6 +581,7 @@
 ||refpa39407.com^
 ||reporo.net^
 ||revcontent.com^
+||rgcams.com^
 ||richrelevance.com^
 ||riff-video-chat.com^
 ||riffri.com^
@@ -1314,7 +1316,6 @@ $removeparam=yclid
 ||tinyurl.com^$third-party
 ||tpc.googlesyndication.com^$third-party
 ||tr.snapchat.com^$third-party
-||tsyndicate.com^$third-party
 ||vk-cdn.net^$third-party
 ||vk.ru^$third-party
 ||www.facebook.com/tr^$third-party
@@ -1865,13 +1866,8 @@ www.apkmirror.com,www.lyricsify.com,www.serializd.com,www.speedtest.net,www.stor
 !
 an1.com##body > .wrp
 artvee.com##.woodmart-prefooter
-claude.ai###portal-root
 codeberg.org###tou-announcement
-f-droid.org##.banner--name__keepandroidopen.banner--danger.banner
-f-droid.org##.site-footer
-f-droid.org##div.sidebar-widget:nth-of-type(3)
 flickr.com##.requiredToShowOnServer.footer-full-view.view
-himovies.sx##.mb-3.alert
 krx18.com##footer.main
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
 m.youtube.com##:is(ytm-rich-section-renderer,grid-shelf-view-model):has([href^="/shorts/"])
@@ -1881,13 +1877,6 @@ m.youtube.com##ytm-pivot-bar-item-renderer:has(>.pivot-shorts)
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has([href^="/shorts/"])
 mcpelife.com##.app-panel-wrap
 pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
-redvid.io##.header-inner
-redvid.io##.hero-badge
-redvid.io##.hero-subtitle
-redvid.io##.hero-terms
-redvid.io##.hero-title
-redvid.io##footer.overflow-hidden.relative
-redvid.io##main
 search.brave.com###main > .svelte-jz8lnl
 search.brave.com###quick-goggles-button > .svelte-7b1tqz.header-button-icon
 search.brave.com###voice-input-button
@@ -1991,6 +1980,9 @@ www.storysaver.net###first > header.major > h2
 www.storysaver.net###howto
 www.storysaver.net###nav
 www.storysaver.net###yuk
+www.imdb.com##.footer.imdb-footer.kaonoi.sc-62727d1a-0
+ok.ru###hook_Block_AuthLoginAutoOpen
+www.svgrepo.com##.adflexbar-module__IS-QhW__holder
 www.storysaver.net##h1
 www.storysaver.net##section.special.main:nth-of-type(3)
 www.tiktok.com##.e1mw74j7.tiktok-1vs0u64-7937d88b--SubMainNavContentContainer
