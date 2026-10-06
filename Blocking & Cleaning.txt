@@ -74,6 +74,7 @@
 ||adultadnetwork.com^
 ||adultadworld.com^
 ||adultcamdeals.com^
+||adultcamslive.cc^
 ||adultdeals.net^
 ||adultentertainmentads.com^
 ||adultforce.com^
@@ -526,7 +527,6 @@
 ||oracle.com^
 ||orders.temp-mail.org^
 ||ourdream.ai^
-||ourdreamersai.com^
 ||ourdreamersai16.com^
 ||outbrain.com^
 ||pagead2.googleadservices.com^
@@ -671,7 +671,6 @@
 ||tango.ai^
 ||tango.me^
 ||tapad.com^
-||tckcandy.com^
 ||teads.tv^
 ||teamskeet.com^
 ||techs4arab.com^
@@ -695,7 +694,6 @@
 ||trafficforce.com^
 ||trafficforcemedia.com^
 ||trafficholder.com^
-||trafficjunky.com^
 ||trafficjunky.net^
 ||trafficjunky.org^
 ||trafficshop.com^
@@ -1798,6 +1796,7 @@ $removeparam=yclid
 ###geo-flag-wrap
 ##.ad
 ##.ad-container
+##.ad-sdk-pause-overlay.ad-sdk-overlay
 ##.adbox
 ##.ads
 ##.advertisement
@@ -1826,6 +1825,7 @@ $removeparam=yclid
 ##.floating-button
 ##.fluid_html_on_pause_container
 ##.fp-embed
+##.fq-footer-ad
 ##.gdpr-consent
 ##.geo-gate
 ##.header-preference-hint.preference-hint.straight.hint-dbf50
@@ -1876,6 +1876,7 @@ m.youtube.com##[tab-title="Shorts"]
 m.youtube.com##ytm-pivot-bar-item-renderer:has(>.pivot-shorts)
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has([href^="/shorts/"])
 mcpelife.com##.app-panel-wrap
+ok.ru###hook_Block_AuthLoginAutoOpen
 pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
 search.brave.com###main > .svelte-jz8lnl
 search.brave.com###quick-goggles-button > .svelte-7b1tqz.header-button-icon
@@ -1938,6 +1939,7 @@ www.facebook.com##li.x1gz44f.x13fj5qh.x1awlv9s.x1l38jg0.x1hxoosp.xmlsiyf.x1iyjqo
 www.gnome-look.org##.container-wide.footer
 www.google.com###sfooter
 www.google.com##.O3yKUb
+www.imdb.com##.footer.imdb-footer.kaonoi.sc-62727d1a-0
 www.instagram.com##div:has(> div[role="button"] > svg[aria-label="Repost"])
 www.nga.gov##.c-site-footer
 www.nga.gov##.region-sitewide-alert.region
@@ -1980,11 +1982,9 @@ www.storysaver.net###first > header.major > h2
 www.storysaver.net###howto
 www.storysaver.net###nav
 www.storysaver.net###yuk
-www.imdb.com##.footer.imdb-footer.kaonoi.sc-62727d1a-0
-ok.ru###hook_Block_AuthLoginAutoOpen
-www.svgrepo.com##.adflexbar-module__IS-QhW__holder
 www.storysaver.net##h1
 www.storysaver.net##section.special.main:nth-of-type(3)
+www.svgrepo.com##.adflexbar-module__IS-QhW__holder
 www.tiktok.com##.e1mw74j7.tiktok-1vs0u64-7937d88b--SubMainNavContentContainer
 www.tiktok.com##.e1mw74j9.tiktok-1gvgfgc-7937d88b--SubMainNavFooterContainer
 www.tiktok.com##.e1sleddd1.tiktok-1comlxd-7937d88b--DivFixedTopContainer
