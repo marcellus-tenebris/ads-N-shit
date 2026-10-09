@@ -630,8 +630,11 @@
 ||sider.live^
 ||sider.net^
 ||similarweb.com^
+||sizmek.com^
+||skimlinks.com^
 ||slack.com/beacon^
 ||smartadserver.com^
+||smartlook.cloud^
 ||snowplowanalytics.com^
 ||softonic.com^
 ||sonobi.com^
@@ -1277,9 +1280,6 @@ $removeparam=yclid
 ||similarweb.com^$third-party
 ||singular.net^$third-party
 ||sirdata.com^$third-party
-||sizmek.com^$third-party
-||skimlinks.com^$third-party
-||smartlook.cloud^$third-party
 ||smartlook.com^$third-party
 ||smetrics.samsung.com^$third-party
 ||snapchat.com/widgets.js$third-party
@@ -1879,6 +1879,11 @@ m.youtube.com##ytm-search ytm-video-with-context-renderer:has([href^="/shorts/"]
 mcpelife.com##.app-panel-wrap
 ok.ru###hook_Block_AuthLoginAutoOpen
 pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
+reddit.com##shreddit-post [class*="avatar"], shreddit-post [class*="avatar"] *, shreddit-post faceplate-img, shreddit-post a[href^="/user/"] img, shreddit-post a[href^="/r/"] img:style(border-radius: 50% !important)
+reddit.com##shreddit-post a[href^="/r/"] img, shreddit-post a[href^="/r/"] faceplate-img, shreddit-post faceplate-img img, shreddit-post [class*="icon"], shreddit-post [class*="icon"] img, shreddit-post [class*="subreddit"] img, shreddit-post [slot="credit-bar"] img, shreddit-post [slot="credit-bar"] faceplate-img:style(border-radius: 50% !important)
+reddit.com##shreddit-post, shreddit-post *:style(border-radius: 0 !important)
+reddit.com##span[slot="repost-button"]
+reddit.com##svg[slot="leadingIcon"]:has(circle[fill="#FF4500"])
 search.brave.com###main > .svelte-jz8lnl
 search.brave.com###quick-goggles-button > .svelte-7b1tqz.header-button-icon
 search.brave.com###voice-input-button
@@ -2002,6 +2007,7 @@ www.youtube.com###country-code
 www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
 www.youtube.com###footer
 www.youtube.com###related :is(ytd-compact-video-renderer,yt-lockup-view-model):has([overlay-style="SHORTS"],[href^="/shorts/"])
+www.youtube.com###subscribe-button > .ytd-watch-metadata.style-scope
 www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
 www.youtube.com##.ytChipShapeOnlyTextPadding.ytChipShapeInactive.ytChipShapeChip
 www.youtube.com##.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost
@@ -2025,14 +2031,6 @@ x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-1kqtdi0.cs
 x.com##[data-testid="reply-boost-upsell"]
 x.com##[role="main"] [aria-label="Home timeline"] [href$="/header_photo"]:upward(2):style(max-width: 999px !important)
 x.com##[role="main"] [aria-label="Home timeline"] section:upward(1):style(max-width: 999px !important)
-youtube.com##.ytp-popup-content .ytp-panel-menu .ytp-menuitem:has(> .ytp-menuitem-icon > svg > path[d^="M12.33 1.00C12.22 1.00 12.11 1.00 12 1C5.92 1 1 5.92 1 12C1 18.07 5.92 23 12 23C13.90 23.00"])
-youtube.com##*:style(border-radius: 0 !important)
-youtube.com##.ytp-progress-bar-container, .ytp-progress-bar, .ytp-chapters-container, .ytp-chapter-hover-container, .ytp-progress-list, .ytp-play-progress, .ytp-load-progress, .ytp-hover-progress, .ytp-scrubber-container, .ytp-scrubber-button:style(border-radius: 99px !important)
-youtube.com##.ytp-time-wrapper, .ytp-time-display, .ytp-chapter-container, .ytp-chapter-title, button.ytp-chapter-title, .ytp-chapter-title-content, .ytp-autonav-toggle-button-container:style(border-radius: 99px !important)
-youtube.com##.ytp-autonav-toggle-button, .ytp-autonav-toggle-button::after:style(border-radius: 50% !important)
-youtube.com##yt-avatar-shape, .yt-spec-avatar-shape, .yt-spec-avatar-shape *, yt-img-shadow#avatar, yt-img-shadow#avatar img, yt-decorated-avatar-view-model, yt-decorated-avatar-view-model *:style(border-radius: 50% !important)
-youtube.com##yt-page-header-renderer .yt-spec-avatar-shape, yt-page-header-renderer .yt-spec-avatar-shape *, page-header-view-model .yt-spec-avatar-shape, page-header-view-model .yt-spec-avatar-shape *:style(border-radius: 50% !important)
-youtube.com##.ytp-button, .ytp-play-button, .ytp-volume-area, .ytp-subtitles-button, .ytp-settings-button, .ytp-size-button, .ytp-fullscreen-button:style(border-radius: 99px !important)
 x.com##[role="main"] [aria-label="Home timeline"]:upward(1):style(max-width: 700px !important; margin-right: 30px !important)
 x.com##[role="main"] [aria-label="Home timeline"]:upward(5) .r-113js5t:style(width: 1150px !important)
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
@@ -2041,4 +2039,19 @@ x.com##a[href="/i/premium_sign_up"]
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
 x.com##div[role="dialog"]:has(a[href*="/i/premium_sign_up"])
 x.com##div[role="dialog"]:has(button[data-testid*="subscribe"])
+youtube.com##*:style(border-radius: 0 !important)
+youtube.com##.ytSearchboxComponentHost:style(margin-left: 0px !important;)
+youtube.com##.ytSearchboxComponentInnerSearchIcon
+youtube.com##.ytSearchboxComponentInput:style(padding-left: 0px !important; margin-left: 0px !important;)
+youtube.com##.ytSearchboxComponentInputBox:style(padding-left: 16px !important; margin-left: 0px !important;)
+youtube.com##.ytp-autonav-toggle-button, .ytp-autonav-toggle-button::after:style(border-radius: 50% !important)
+youtube.com##.ytp-button, .ytp-play-button, .ytp-volume-area, .ytp-subtitles-button, .ytp-settings-button, .ytp-size-button, .ytp-fullscreen-button:style(border-radius: 99px !important)
+youtube.com##.ytp-popup-content .ytp-panel-menu .ytp-menuitem:has(> .ytp-menuitem-icon > svg > path[d^="M12.33 1.00C12.22 1.00 12.11 1.00 12 1C5.92 1 1 5.92 1 12C1 18.07 5.92 23 12 23C13.90 23.00"])
+youtube.com##.ytp-progress-bar-container, .ytp-progress-bar, .ytp-chapters-container, .ytp-chapter-hover-container, .ytp-progress-list, .ytp-play-progress, .ytp-load-progress, .ytp-hover-progress, .ytp-scrubber-container, .ytp-scrubber-button:style(border-radius: 99px !important)
+youtube.com##.ytp-spinner, .ytp-spinner-container, .ytp-spinner-circle, .ytp-spinner-svg, tp-yt-paper-spinner, tp-yt-paper-spinner *:style(border-radius: 50% !important)
+youtube.com##.ytp-time-wrapper, .ytp-time-display, .ytp-chapter-container, .ytp-chapter-title, button.ytp-chapter-title, .ytp-chapter-title-content, .ytp-autonav-toggle-button-container:style(border-radius: 99px !important)
 youtube.com##[is-shorts]
+youtube.com##form.ytSearchboxComponentSearchForm:style(margin-left: 0px !important;)
+youtube.com##yt-avatar-shape, .yt-spec-avatar-shape, .yt-spec-avatar-shape *, yt-img-shadow#avatar, yt-img-shadow#avatar img, yt-decorated-avatar-view-model, yt-decorated-avatar-view-model *:style(border-radius: 50% !important)
+youtube.com##yt-page-header-renderer .yt-spec-avatar-shape, yt-page-header-renderer .yt-spec-avatar-shape *, page-header-view-model .yt-spec-avatar-shape, page-header-view-model .yt-spec-avatar-shape *:style(border-radius: 50% !important)
+youtube.com##ytd-searchbox:style(margin-left: 0px !important;)
