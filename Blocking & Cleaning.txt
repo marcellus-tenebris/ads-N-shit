@@ -1875,11 +1875,6 @@ facebook.com##div.xnp8db0:nth-child(1)
 flickr.com##.requiredToShowOnServer.footer-full-view.view
 krx18.com##footer.main
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
-m.youtube.com##:is(ytm-rich-section-renderer,grid-shelf-view-model):has([href^="/shorts/"])
-m.youtube.com##[tab-identifier="FEhistory"] ytm-compact-video-renderer:has(>div>a[href^="/shorts/"])
-m.youtube.com##[tab-title="Shorts"]
-m.youtube.com##ytm-pivot-bar-item-renderer:has(>.pivot-shorts)
-m.youtube.com##ytm-search ytm-video-with-context-renderer:has([href^="/shorts/"])
 mcpelife.com##.app-panel-wrap
 ok.ru###hook_Block_AuthLoginAutoOpen
 pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
@@ -1978,34 +1973,6 @@ www.tiktok.com##h2:nth-of-type(2)
 www.tiktok.com##h2:nth-of-type(4)
 www.tiktok.com##h2:nth-of-type(5)
 www.tumblr.com##[src="https://assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-with-patio-47ce20b6.gif"]
-www.youtube.com###button-shape > .ytSpecButtonShapeNextMainstagePadding.ytSpecButtonShapeNextMainstageIconSize.ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextIconButton.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextTonal.ytSpecButtonShapeNextHost
-www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope > yt-button-shape
-www.youtube.com###copyright
-www.youtube.com###country-code
-www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
-www.youtube.com###footer
-www.youtube.com###related :is(ytd-compact-video-renderer,yt-lockup-view-model):has([overlay-style="SHORTS"],[href^="/shorts/"])
-www.youtube.com###subscribe-button > .ytd-watch-metadata.style-scope
-www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
-www.youtube.com##.ytChipShapeOnlyTextPadding.ytChipShapeInactive.ytChipShapeChip
-www.youtube.com##.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost
-www.youtube.com##.ytSmartImationsContent > ytd-button-renderer > yt-button-shape > .ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextTonal.ytSpecButtonShapeNextHost
-www.youtube.com##:is(ytd-rich-item-renderer,yt-lockup-view-model):has(.ytBadgeShapeMembership,[aria-label="Members only"],[d^="M6 .5a5.5 5.5"])
-www.youtube.com##[tab-title="Shorts"]
-www.youtube.com##div.ytFlexibleActionsViewModelAction:nth-of-type(2)
-www.youtube.com##grid-shelf-view-model.ytd-item-section-renderer.ytGridShelfViewModelHost:nth-of-type(1)
-www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(8)
-www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-grid-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
-www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-rich-item-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
-www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
-www.youtube.com##ytd-menu-renderer.ytd-watch-metadata > div:nth-child(2)
-www.youtube.com##ytd-reel-shelf-renderer
-www.youtube.com##ytd-rich-grid-renderer.style-scope > div:nth-child(1)
-www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
-www.youtube.com##ytd-search ytd-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
 www1.solarmovies.co##footer
 x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-1kqtdi0.css-175oi2r
 x.com##[data-testid="reply-boost-upsell"]
@@ -2020,18 +1987,8 @@ x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.c
 x.com##div[role="dialog"]:has(a[href*="/i/premium_sign_up"])
 x.com##div[role="dialog"]:has(button[data-testid*="subscribe"])
 youtube.com##*:style(border-radius: 0 !important)
-youtube.com##.ytSearchboxComponentHost:style(margin-left: 0px !important;)
-youtube.com##.ytSearchboxComponentInnerSearchIcon
-youtube.com##.ytSearchboxComponentInput:style(padding-left: 0px !important; margin-left: 0px !important;)
-youtube.com##.ytSearchboxComponentInputBox:style(padding-left: 16px !important; margin-left: 0px !important;)
 youtube.com##.ytp-autonav-toggle-button, .ytp-autonav-toggle-button::after:style(border-radius: 50% !important)
 youtube.com##.ytp-button, .ytp-play-button, .ytp-volume-area, .ytp-subtitles-button, .ytp-settings-button, .ytp-size-button, .ytp-fullscreen-button:style(border-radius: 99px !important)
-youtube.com##.ytp-popup-content .ytp-panel-menu .ytp-menuitem:has(> .ytp-menuitem-icon > svg > path[d^="M12.33 1.00C12.22 1.00 12.11 1.00 12 1C5.92 1 1 5.92 1 12C1 18.07 5.92 23 12 23C13.90 23.00"])
 youtube.com##.ytp-progress-bar-container, .ytp-progress-bar, .ytp-chapters-container, .ytp-chapter-hover-container, .ytp-progress-list, .ytp-play-progress, .ytp-load-progress, .ytp-hover-progress, .ytp-scrubber-container, .ytp-scrubber-button:style(border-radius: 99px !important)
 youtube.com##.ytp-spinner, .ytp-spinner-container, .ytp-spinner-circle, .ytp-spinner-svg, tp-yt-paper-spinner, tp-yt-paper-spinner *:style(border-radius: 50% !important)
 youtube.com##.ytp-time-wrapper, .ytp-time-display, .ytp-chapter-container, .ytp-chapter-title, button.ytp-chapter-title, .ytp-chapter-title-content, .ytp-autonav-toggle-button-container:style(border-radius: 99px !important)
-youtube.com##[is-shorts]
-youtube.com##form.ytSearchboxComponentSearchForm:style(margin-left: 0px !important;)
-youtube.com##yt-avatar-shape, .yt-spec-avatar-shape, .yt-spec-avatar-shape *, yt-img-shadow#avatar, yt-img-shadow#avatar img, yt-decorated-avatar-view-model, yt-decorated-avatar-view-model *:style(border-radius: 50% !important)
-youtube.com##yt-page-header-renderer .yt-spec-avatar-shape, yt-page-header-renderer .yt-spec-avatar-shape *, page-header-view-model .yt-spec-avatar-shape, page-header-view-model .yt-spec-avatar-shape *:style(border-radius: 50% !important)
-youtube.com##ytd-searchbox:style(margin-left: 0px !important;)
