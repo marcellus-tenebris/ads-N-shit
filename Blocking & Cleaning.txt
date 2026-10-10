@@ -1779,6 +1779,7 @@ $removeparam=yclid
 ||f-droid.org/assets/phone-frame_kEDoOnDDPLnsqH4lVaEun9wfQgM9ivrhk5OiUWWdKHc=.png$image
 ||images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/72c8301a-da3a-4f18-992e-605965c98685/dm6px0b-953ca72c-ff1a-46ff-91bb-d1a6dd83787b.jpg/v1/fill/w_1280,h_720,q_75,strp/qwen_image_1780688828149_by_artwork_casting_dm6px0b-fullview.jpg$image
 ||images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d4a13668-ba85-4fbc-868b-3a90729bf0ca/dmduyf8-7ae32d46-e974-47bb-8f1f-c05192645d7c.jpg/v1/fill/w_1024,h_495,q_75,strp/0044_by_whispercurves_dmduyf8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDk1IiwicGF0aCI6Ii9mL2Q0YTEzNjY4LWJhODUtNGZiYy04NjhiLTNhOTA3MjliZjBjYS9kbWR1eWY4LTdhZTMyZDQ2LWU5NzQtNDdiYi04ZjFmLWMwNTE5MjY0NWQ3Yy5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.O9zjmLUWv_mEVE0Dj2zYIav3oScz3m5vUpcNfmiwkus$image
+||st.deviantart.net/badges/*$image
 ||st.deviantart.net/eclipse/profile-skins/dark_rain.gif$image
 ||static.xhpingcdn.com/xh-images/components/footer/creator-3.component.jpg$image
 ||static.xhpingcdn.com/xh-images/components/footer/rta.component.png$image
@@ -1868,6 +1869,9 @@ www.apkmirror.com,www.lyricsify.com,www.serializd.com,www.speedtest.net,www.stor
 an1.com##body > .wrp
 artvee.com##.woodmart-prefooter
 codeberg.org###tou-announcement
+facebook.com###right_rail_container
+facebook.com##.xgmub6v
+facebook.com##div.xnp8db0:nth-child(1)
 flickr.com##.requiredToShowOnServer.footer-full-view.view
 krx18.com##footer.main
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
@@ -1912,6 +1916,10 @@ www.apkmirror.com##div.listWidget:nth-of-type(3)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(6)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
 www.deviantart.com##.DuRxKc
+www.deviantart.com##.Q4hL4R
+www.deviantart.com##.TTXf7A
+www.deviantart.com##.c6PdRy
+www.deviantart.com##div.WlC1rB:nth-child(2)
 www.file-upload.org##.bg-cover.fix.footer-section
 www.gnome-look.org##.container-wide.footer
 www.google.com###sfooter
@@ -1995,6 +2003,7 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-menu-renderer.ytd-watch-metadata > div:nth-child(2)
 www.youtube.com##ytd-reel-shelf-renderer
+www.youtube.com##ytd-rich-grid-renderer.style-scope > div:nth-child(1)
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
 www.youtube.com##ytd-search ytd-video-renderer:has([overlay-style="SHORTS"],[href^="/shorts/"])
 www1.solarmovies.co##footer
