@@ -1987,6 +1987,7 @@ x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.c
 x.com##div[role="dialog"]:has(a[href*="/i/premium_sign_up"])
 x.com##div[role="dialog"]:has(button[data-testid*="subscribe"])
 youtube.com###owner > div:nth-child(2)
+youtube.com###sponsor-button
 youtube.com##*:style(border-radius: 0 !important)
 youtube.com##.ytp-autonav-toggle-button, .ytp-autonav-toggle-button::after:style(border-radius: 50% !important)
 youtube.com##.ytp-button, .ytp-play-button, .ytp-volume-area, .ytp-subtitles-button, .ytp-settings-button, .ytp-size-button, .ytp-fullscreen-button:style(border-radius: 99px !important)
