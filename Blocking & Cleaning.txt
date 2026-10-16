@@ -272,6 +272,7 @@
 ||deviantartads.com^
 ||discord.com/api/science^
 ||discountedporn.com^
+||discover-tech.io^
 ||disqus.com^
 ||doppiocdn.com^
 ||doubleclick.net^
@@ -728,6 +729,7 @@
 ||twinred.com^
 ||typingdna.com^
 ||uberhorny.com^
+||ucweb.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
 ||umeng.com^
@@ -740,6 +742,7 @@
 ||undress.org^
 ||undressai.tools^
 ||undressme.ai^
+||unity.com^
 ||updatestar.com^
 ||us.i.posthog.com^
 ||userapi.com^
@@ -1919,6 +1922,8 @@ www.deviantart.com##.Q4hL4R
 www.deviantart.com##.TTXf7A
 www.deviantart.com##.c6PdRy
 www.deviantart.com##div.WlC1rB:nth-child(2)
+www.deviantart.com##div.jI6fQl.IM6IXh:nth-of-type(3) > span.boBk3j:nth-of-type(2)
+www.deviantart.com##html body.theme-dark.surface.surface-primary main._R4pYB div.L2uumn.gDJxf_ div.HLH4WN.v2LHGI div.ACfFZC
 www.file-upload.org##.bg-cover.fix.footer-section
 www.gnome-look.org##.container-wide.footer
 www.google.com###sfooter
