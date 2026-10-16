@@ -6,9 +6,6 @@
 ||4dsply.com^
 ||6sense.com^
 ||7lha.com^
-||a.exoclick.com^
-||a.happyleafmotion.com^
-||a.magsrv.com^
 ||ab-tasty.com^
 ||abcam.ai^
 ||abcam.co^
@@ -21,7 +18,6 @@
 ||accounts.google.com^
 ||acquiredeceasedundress.com^
 ||acxiom.com^
-||ad.doubleclick.net^
 ||ad.twinrdengine.com^
 ||adc3-launch.adcolony.com^
 ||adcolony.com^
@@ -33,6 +29,7 @@
 ||adjust.com^
 ||adjust.io^
 ||adjust.net.in^
+||adk2x.com^
 ||adl.org^
 ||adnium.com^
 ||adnx.de^
@@ -43,9 +40,7 @@
 ||ads-api.tiktok.com^
 ||ads-api.twitter.com^
 ||ads-sg.tiktok.com^
-||ads.adk2x.com^
 ||ads.facebook.com^
-||ads.juicyads.me^
 ||ads.linkedin.com^
 ||ads.microsoft.com^
 ||ads.pinterest.com^
@@ -54,12 +49,10 @@
 ||ads.trafficjunky.net^
 ||ads.yahoo.com^
 ||ads.youtube.com^
-||ads30.adcolony.com^
 ||adsafeprotected.com^
 ||adserver.unityads.unity3d.com^
 ||adservetx.media.net^
 ||adservice.google.com^
-||adsfs.oppomobile.com^
 ||adsgcc.com^
 ||adsmanager.facebook.com^
 ||adsmovil.com^
@@ -85,7 +78,6 @@
 ||advertising-api-eu.amazon.com^
 ||advertising.apple.com^
 ||advice-ads.s3.amazonaws.com^
-||adx.ads.oppomobile.com^
 ||adxpansion.com^
 ||adxxx.com^
 ||adyoulike.com^
@@ -125,7 +117,6 @@
 ||analytics.yahoo.com^
 ||anthropic.com/crawlers^
 ||api-adservices.apple.com^
-||api.ad.xiaomi.com^
 ||api.bigdatacloud.net^
 ||api.segment.io^
 ||app-measurement.com^
@@ -153,6 +144,7 @@
 ||awempire.com^
 ||awin1.com^
 ||aznude.pics^
+||aznudelive.com^
 ||baidu.com^
 ||bakestubborn.com^
 ||bannedsextapes.com^
@@ -229,6 +221,7 @@
 ||chartbeat.net^
 ||chatsex.xxx^
 ||chatsexocam.com^
+||chaturbate.com^
 ||chaturbate.lat^
 ||chevron.com^
 ||chioclick.com^
@@ -389,6 +382,7 @@
 ||guidepaparazzisurface.com^
 ||gukahdbam.com^
 ||hagezi.com^
+||happyleafmotion.com^
 ||heap.io^
 ||heapanalytics.com^
 ||heatedaffairs.com^
@@ -432,6 +426,7 @@
 ||js.ad-score.com^
 ||jsecoin.com^
 ||juicyads.com^
+||juicyads.me^
 ||juneworewyjyna.com^
 ||justservingfiles.net^
 ||jwplatform.com/analytics^
@@ -535,6 +530,7 @@
 ||omtrdc.net^
 ||openai.com/gptbot^
 ||openx.net^
+||oppomobile.com^
 ||oracle.com^
 ||orders.temp-mail.org^
 ||ourdream.ai^
@@ -810,6 +806,7 @@
 ||xandr.com^
 ||xenalive.me^
 ||xhamsterlive.com^
+||xiaomi.com^
 ||xliiirdr.com^
 ||xmodeai-asian.com^
 ||xn--42c6ac5cyaw4e1e.net^
@@ -841,6 +838,7 @@
 ||zopim.com^
 !
 ||.ac^
+||.ar^
 ||.il^
 ||.in^
 !
@@ -1977,8 +1975,10 @@ x.com##a[href="/i/premium_sign_up"]
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
 x.com##div[role="dialog"]:has(a[href*="/i/premium_sign_up"])
 x.com##div[role="dialog"]:has(button[data-testid*="subscribe"])
+youtube.com###movie_player > div:nth-child(8) > div:nth-child(2)
 youtube.com###owner > div:nth-child(2)
 youtube.com###sponsor-button
+youtube.com###ytp-id-5 > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(5)
 youtube.com##*:style(border-radius: 0 !important)
 youtube.com##.ytSearchboxComponentHost:style(margin-left: 0px !important;)
 youtube.com##.ytSearchboxComponentInnerSearchIcon
