@@ -69,7 +69,6 @@
 ||adsupply.com^
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
-||adtng.com^
 ||adult-match.xxx^
 ||adultadnetwork.com^
 ||adultadworld.com^
@@ -161,6 +160,7 @@
 ||bbwsexdates.net^
 ||bd742.com^
 ||bdstatic.com^
+||beacons.com^
 ||beeg.porn^
 ||behaviosec.com^
 ||belacash.net^
@@ -231,6 +231,7 @@
 ||chatsexocam.com^
 ||chaturbate.lat^
 ||chevron.com^
+||chioclick.com^
 ||cia.gov^
 ||cj.com^
 ||clearbit.com^
@@ -270,6 +271,7 @@
 ||deliver.ptgncdn.com^
 ||demandbase.com^
 ||deviantartads.com^
+||dfrs31kg.com^
 ||discord.com/api/science^
 ||discountedporn.com^
 ||discover-tech.io^
@@ -435,12 +437,14 @@
 ||jwplatform.com/analytics^
 ||kctag.net^
 ||kickoffo.site^
+||kink.com^
 ||kount.com^
 ||krux.com^
 ||krxd.net^
 ||kuaishou.com^
 ||lazybumblebee.com^
 ||lcdn.tsyndicate.com^
+||letsdoeit.com^
 ||lexisnexis.com^
 ||lijit.com^
 ||liner.com^
@@ -569,6 +573,7 @@
 ||primis.io^
 ||primis.org^
 ||primis.tech^
+||privatehost.com^
 ||propellerads.com^
 ||propellerclick.com^
 ||psee.ly^
@@ -688,6 +693,7 @@
 ||telemetry.mozilla.org^
 ||thealphaboost.com^
 ||thegay.com^
+||thepaug.com^
 ||thesexiercams.com^
 ||thetradedesk.com^
 ||threatmetrix.com^
