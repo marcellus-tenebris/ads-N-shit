@@ -281,6 +281,7 @@
 ||earthcleaner.cc^
 ||elbitamerica.com^
 ||elbitsystems.com^
+||elomlat.net^
 ||engine.trialhd.com^
 ||engine.trialhd^
 ||erofights.com^
@@ -304,6 +305,7 @@
 ||faphouse1.com^
 ||faphouse4k.com^
 ||fapify.com^
+||fasel-hd.com^
 ||fauxporn.com^
 ||fb.com^
 ||fbi.gov^
@@ -335,6 +337,7 @@
 ||fucklocal.com^
 ||fullstory.com^
 ||fullstory.net^
+||futuretodayinc.com^
 ||fxpro.com^
 ||fyber.com^
 ||g2fame.com^
@@ -1787,6 +1790,8 @@ $removeparam=yclid
 ||youtube.com^$removeparam=si
 ||youtube.com^$removeparam=ucbcb
 !
+||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-ea6ecb6d.gif$image
+||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-with-patio-47ce20b6.gif$image
 ||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-bottom-dark.n8eIvPwY.svg$image
 ||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-top-dark.DqQ0PKGR.svg$image
 ||e.deviantart.net/emoticons/c/clap2.gif$image
