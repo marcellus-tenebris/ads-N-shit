@@ -280,6 +280,8 @@
 ||dudeai.click^
 ||dune.com/api/analytics^
 ||earthcleaner.cc^
+||egydead.app^
+||egydead.yachts^
 ||elbitamerica.com^
 ||elbitsystems.com^
 ||elomlat.net^
