@@ -1899,6 +1899,10 @@ artvee.com##.woodmart-prefooter
 codeberg.org###tou-announcement
 facebook.com###right_rail_container
 facebook.com##.xgmub6v
+facebook.com##:xpath(//a[@role='link']/parent::span/parent::span/parent::div/parent::span/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div)
+facebook.com##:xpath(//a[contains(@href, '/ads/about/')]/parent::span/parent::span/parent::div/parent::span/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div)
+facebook.com##:xpath(//span[contains(text(), 'Ad')]/parent::span/parent::span/parent::a/parent::span/parent::span/parent::div/parent::span/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div)
+facebook.com##:xpath(//span[contains(text(), 'Sponsored')]/parent::div/parent::div/parent::span/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div)
 facebook.com##div.xnp8db0:nth-child(1)
 flickr.com##.requiredToShowOnServer.footer-full-view.view
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
