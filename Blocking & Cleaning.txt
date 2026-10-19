@@ -1913,6 +1913,7 @@ reddit.com##svg[slot="leadingIcon"]:has(circle[fill="#FF4500"])
 search.brave.com###main > .svelte-jz8lnl
 search.brave.com###quick-goggles-button > .svelte-7b1tqz.header-button-icon
 search.brave.com###voice-input-button
+search.brave.com##*:style(border-radius: 0 !important)
 search.brave.com##.svelte-19urzty.t-tertiary.desktop-xsmall-regular
 search.brave.com##.svelte-4jwo3w.t-tertiary.desktop-small-regular
 search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(3)
