@@ -590,6 +590,7 @@
 ||redgifs.ai^
 ||redirect.traff.pro^
 ||refpa39407.com^
+||reoxidizedkenchescyaneous.forum^
 ||reporo.net^
 ||revcontent.com^
 ||rgcams.com^
@@ -777,6 +778,7 @@
 ||vortex.data.microsoft.com^
 ||vrporn.com^
 ||vwo.com^
+||waelgames.com^
 ||walkme.com^
 ||wandb.ai^
 ||watson.telemetry.microsoft.com^
@@ -1992,7 +1994,9 @@ youtube.com##.ytSearchboxComponentInputBox:style(padding-left: 16px !important; 
 youtube.com##.ytp-autonav-toggle-button, .ytp-autonav-toggle-button::after:style(border-radius: 50% !important)
 youtube.com##.ytp-button, .ytp-play-button, .ytp-volume-area, .ytp-subtitles-button, .ytp-settings-button, .ytp-size-button, .ytp-fullscreen-button:style(border-radius: 99px !important)
 youtube.com##.ytp-progress-bar-container, .ytp-progress-bar, .ytp-chapters-container, .ytp-chapter-hover-container, .ytp-progress-list, .ytp-play-progress, .ytp-load-progress, .ytp-hover-progress, .ytp-scrubber-container, .ytp-scrubber-button:style(border-radius: 99px !important)
+youtube.com##.ytp-size-button
 youtube.com##.ytp-spinner, .ytp-spinner-container, .ytp-spinner-circle, .ytp-spinner-svg, tp-yt-paper-spinner, tp-yt-paper-spinner *:style(border-radius: 50% !important)
+youtube.com##.ytp-subtitles-button
 youtube.com##.ytp-time-wrapper, .ytp-time-display, .ytp-chapter-container, .ytp-chapter-title, button.ytp-chapter-title, .ytp-chapter-title-content, .ytp-autonav-toggle-button-container:style(border-radius: 99px !important)
 youtube.com##div.ytFlexibleActionsViewModelAction:nth-child(2)
 youtube.com##div.ytFlexibleActionsViewModelAction:nth-child(3)
