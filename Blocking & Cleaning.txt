@@ -302,6 +302,7 @@
 ||f11-ads.com^
 ||facemix.app^
 ||fact.com^
+||familystrokes.com^
 ||fantecio.com^
 ||faperoni.chat^
 ||faphouse.com^
@@ -314,7 +315,6 @@
 ||fbi.gov^
 ||fetishes.cam^
 ||fetlife.com^
-||fhgte.com^
 ||fidf.mylegacygift.org^
 ||fidf.org^
 ||figma.com/api/analytics^
@@ -460,6 +460,7 @@
 ||lovescape.com^
 ||luckyorange.com^
 ||made.porn^
+||magmaclick.com^
 ||magsrv.com^
 ||mail-ads.google.com^
 ||mail.ru^
@@ -689,6 +690,7 @@
 ||tango.ai^
 ||tango.me^
 ||tapad.com^
+||tckcandy.com^
 ||teads.tv^
 ||teamskeet.com^
 ||techs4arab.com^
