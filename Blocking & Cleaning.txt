@@ -654,6 +654,7 @@
 ||slack.com/beacon^
 ||smartadserver.com^
 ||smartlook.cloud^
+||snailscrambledcontrivance.com^
 ||snowplowanalytics.com^
 ||softonic.com^
 ||sonobi.com^
