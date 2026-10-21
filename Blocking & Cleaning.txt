@@ -852,6 +852,14 @@
 ||zoominfo.com^
 ||zopim.com^
 !
+||camsoda.ai^
+||camsoda.com^
+||jsdelivr.net^
+||playbox.com^
+||psmcdn.net^
+||qwerty24.net^
+||tubetraffic.com^
+!
 ||.ac^
 ||.ar^
 ||.il^
