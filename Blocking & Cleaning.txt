@@ -147,6 +147,8 @@
 ||aznudelive.com^
 ||baidu.com^
 ||bakestubborn.com^
+||bangbros.com^
+||bangbrosnetwork.com^
 ||bannedsextapes.com^
 ||barilliance.com^
 ||bbwsexdates.net^
@@ -183,6 +185,7 @@
 ||brazzersnetwork.com^
 ||brightcove.com/analytics^
 ||browser-intake-datadoghq.com^
+||bulecams.com^
 ||business.facebook.com^
 ||business.google.com^
 ||business.instagram.com^
@@ -693,6 +696,7 @@
 ||tckcandy.com^
 ||teads.tv^
 ||teamskeet.com^
+||teamskeet2.com^
 ||techs4arab.com^
 ||telemetry.dropbox.com^
 ||telemetry.mozilla.org^
