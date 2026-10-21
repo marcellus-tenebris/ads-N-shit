@@ -198,6 +198,8 @@
 ||campfirecroutondecorator.com^
 ||cams.bdsmstreak.com^
 ||camsexfree.net^
+||camsoda.ai^
+||camsoda.com^
 ||candiru.com^
 ||candy.ai^
 ||candyai.ai^
@@ -433,6 +435,7 @@
 ||joyup-cloud.com^
 ||jpmorganchase.com^
 ||js.ad-score.com^
+||jsdelivr.net^
 ||jsecoin.com^
 ||juicyads.com^
 ||juicyads.me^
@@ -556,6 +559,7 @@
 ||pixel.facebook.com^
 ||pixel.tiktok.com^
 ||pixel.wp.com^
+||playbox.com^
 ||players.brightcove.net/analytics^
 ||playhubconnect.com^
 ||pnonolet.com^
@@ -583,6 +587,7 @@
 ||propellerads.com^
 ||propellerclick.com^
 ||psee.ly^
+||psmcdn.net^
 ||pub4164.online^
 ||pub4164.zbuef.online^
 ||pub4164.zbuef^
@@ -590,6 +595,7 @@
 ||pulsepoint.com^
 ||puretaboo.com^
 ||quillbot.com^
+||qwerty24.net^
 ||rabbitscams.sex^
 ||radware.com^
 ||rambler.ru^
@@ -737,6 +743,7 @@
 ||trustarc.com^
 ||tsthots.com^
 ||tsyndicate.com^
+||tubetraffic.com^
 ||tugpass.com^
 ||tune.com^
 ||tv21macedonia.xyz^
@@ -816,6 +823,7 @@
 ||wistia.net/analytics^
 ||wixnm.com^
 ||woopra.com^
+||woowebtools.com^
 ||www.business.reddit.com^
 ||x.bidswitch.net^
 ||xandr.com^
@@ -851,14 +859,6 @@
 ||zizzle.updatestar.com^
 ||zoominfo.com^
 ||zopim.com^
-!
-||camsoda.ai^
-||camsoda.com^
-||jsdelivr.net^
-||playbox.com^
-||psmcdn.net^
-||qwerty24.net^
-||tubetraffic.com^
 !
 ||.ac^
 ||.ar^
