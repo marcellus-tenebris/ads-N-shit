@@ -134,6 +134,7 @@
 ||arkoselabs.com^
 ||as.fontheader.com^
 ||asana.com/api/1.0/track^
+||ashemaletube.com^
 ||ashleymadison.com^
 ||asiansingles.me^
 ||atdmt.com^
@@ -391,6 +392,7 @@
 ||googleads.g.doubleclick.net^
 ||googlesyndication.com^
 ||graph.facebook.com^
+||growcdnssedge.com^
 ||guidepaparazzisurface.com^
 ||gukahdbam.com^
 ||hagezi.com^
@@ -792,6 +794,7 @@
 ||vitals.vercel-insights.com^
 ||vkontakte.ru^
 ||vocaroo.com^
+||voidlinux.eu^
 ||voodoo.io^
 ||vortex.data.microsoft.com^
 ||vrporn.com^
@@ -834,6 +837,7 @@
 ||xliiirdr.com^
 ||xmodeai-asian.com^
 ||xn--42c6ac5cyaw4e1e.net^
+||xo.show^
 ||xpeach.app^
 ||xujangram.com^
 ||xxx-tracker.com^
@@ -1789,8 +1793,6 @@ $removeparam=yclid
 ||twitter.com^$removeparam=cn
 ||twitter.com^$removeparam=ref_url
 ||twitter.com^$removeparam=t
-||walmart.com^$removeparam=/^ath[a-z]*=/
-||walmart.com^$removeparam=u1
 ||wired.com^$removeparam=intcid
 ||wps.com^$removeparam=from
 ||x.com^$removeparam=/^(ref_?)?src=/
@@ -1821,8 +1823,6 @@ $removeparam=yclid
 ||f-droid.org/assets/opencollective_button_iIGF0Hixdj0EaYR3Sd7FRigTVcl7QPGu6kaoBmXHjZI=.png$image
 ||f-droid.org/assets/phone-frame_kEDoOnDDPLnsqH4lVaEun9wfQgM9ivrhk5OiUWWdKHc=.png$image
 ||gstatic.com/youtube/img/promos/$image
-||images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/72c8301a-da3a-4f18-992e-605965c98685/dm6px0b-953ca72c-ff1a-46ff-91bb-d1a6dd83787b.jpg/v1/fill/w_1280,h_720,q_75,strp/qwen_image_1780688828149_by_artwork_casting_dm6px0b-fullview.jpg$image
-||images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d4a13668-ba85-4fbc-868b-3a90729bf0ca/dmduyf8-7ae32d46-e974-47bb-8f1f-c05192645d7c.jpg/v1/fill/w_1024,h_495,q_75,strp/0044_by_whispercurves_dmduyf8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDk1IiwicGF0aCI6Ii9mL2Q0YTEzNjY4LWJhODUtNGZiYy04NjhiLTNhOTA3MjliZjBjYS9kbWR1eWY4LTdhZTMyZDQ2LWU5NzQtNDdiYi04ZjFmLWMwNTE5MjY0NWQ3Yy5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.O9zjmLUWv_mEVE0Dj2zYIav3oScz3m5vUpcNfmiwkus$image
 ||st.deviantart.net/badges/*$image
 ||st.deviantart.net/eclipse/profile-skins/dark_rain.gif$image
 ||store.kde.org/stores/media/store_kde/kde-header-bg.webp$image
@@ -1842,6 +1842,7 @@ $removeparam=yclid
 ###geo-flag-wrap
 ##.ad
 ##.ad-container
+##.ad-placeholder
 ##.ad-sdk-pause-overlay.ad-sdk-overlay
 ##.adbox
 ##.ads
@@ -1890,6 +1891,7 @@ $removeparam=yclid
 ##.promo
 ##.promotion
 ##.push-notification-prompt
+##.shown.player-top-line
 ##.social-share-popup
 ##.sponsored
 ##.sticky-banner
