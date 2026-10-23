@@ -387,6 +387,7 @@
 ||gold73.gaya-sa.org^
 ||goldmansachs.com^
 ||golovehub.com^
+||goodle.com^
 ||googleads.g.doubleclick.net^
 ||googlesyndication.com^
 ||graph.facebook.com^
