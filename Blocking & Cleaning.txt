@@ -547,9 +547,11 @@
 ||openai.com/gptbot^
 ||openx.net^
 ||oppomobile.com^
+||optibet.ee^
 ||oracle.com^
 ||orders.temp-mail.org^
 ||ourdream.ai^
+||ourdream.biz^
 ||ourdreamersai16.com^
 ||outbrain.com^
 ||pagead2.googleadservices.com^
@@ -659,6 +661,7 @@
 ||sider.live^
 ||sider.net^
 ||similarweb.com^
+||sivycafybemude.com^
 ||sizmek.com^
 ||skimlinks.com^
 ||slack.com/beacon^
