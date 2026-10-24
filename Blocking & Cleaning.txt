@@ -303,7 +303,6 @@
 ||exoclick.com^
 ||exosrv.com^
 ||exposedwife.com^
-||external-content.duckduckgo.com/iu/
 ||exxonmobil.com^
 ||ey43.com^
 ||f11-ads.com^
@@ -533,7 +532,6 @@
 ||nitropack.io^
 ||northropgrumman.com^
 ||notegpt.io^
-||notion.so/api/v3/ping^
 ||nowifigames.org^
 ||nsa.gov^
 ||nsfwlists.com^
@@ -552,6 +550,7 @@
 ||oracle.com^
 ||orders.temp-mail.org^
 ||ourdream.ai^
+||ourdreamersai16.com^
 ||outbrain.com^
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
@@ -1851,6 +1850,7 @@ $removeparam=yclid
 ##.adbox
 ##.ads
 ##.advertisement
+##.ag-cookiebar
 ##.age-gate
 ##.ai-prompt
 ##.ai-suggestion
@@ -1892,6 +1892,7 @@ $removeparam=yclid
 ##.paywall
 ##.paywall-notice
 ##.popup
+##.premium-offer-banner
 ##.promo
 ##.promotion
 ##.push-notification-prompt
