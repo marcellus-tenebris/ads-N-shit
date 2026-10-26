@@ -222,6 +222,7 @@
 ||celebricunt.com^
 ||celebrityzoom.com^
 ||cellebrite.com^
+||cgatgpt.com^
 ||chamet.com^
 ||chantacam.com^
 ||chartbeat.com^
@@ -294,6 +295,7 @@
 ||elomlat.net^
 ||engine.trialhd.com^
 ||engine.trialhd^
+||epornercams.com^
 ||erofights.com^
 ||es.faperoni.chat^
 ||escortsites.org^
@@ -539,6 +541,7 @@
 ||nudata.com^
 ||nudatasecurity.com^
 ||nudify.now^
+||nurumassage.com^
 ||okporn.xxx^
 ||olecams.com^
 ||omg10.com^
@@ -725,6 +728,7 @@
 ||thumb-ah.flixcdn.com^
 ||toboads.com^
 ||tokiapp.net^
+||tophqcam.com^
 ||topinsearch.com^
 ||topinsearch.metetes.com^
 ||toutiao.com^
@@ -830,8 +834,6 @@
 ||widgets.outbrain.com^
 ||widgets.wp.com^
 ||windows-pro.net^
-||wistia.com/analytics^
-||wistia.net/analytics^
 ||wixnm.com^
 ||woopra.com^
 ||woowebtools.com^
@@ -840,6 +842,7 @@
 ||xandr.com^
 ||xenalive.me^
 ||xhamsterlive.com^
+||xhcdn.com^
 ||xiaomi.com^
 ||xliiirdr.com^
 ||xmodeai-asian.com^
@@ -1864,6 +1867,7 @@ $removeparam=yclid
 ||www.opendesktop.org/stores/media/store_pling/pling-header-bg-default.png$image
 !
 ###ad_popup
+###adinhead
 ###ag-cookiebar
 ###geo-flag-wrap
 ##.ad
@@ -1930,6 +1934,7 @@ $removeparam=yclid
 ##.survey-popup
 ##.tracking-consent-popup
 ##.video-overlay
+##[href^="https://fhgte.com/tour"]
 ##div#status-bubble
 ##div[id="status-bubble"]
 !
