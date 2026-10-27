@@ -398,6 +398,7 @@
 ||googlesyndication.com^
 ||graph.facebook.com^
 ||growcdnssedge.com^
+||gsrv.dev^
 ||guidepaparazzisurface.com^
 ||gukahdbam.com^
 ||hagezi.com^
@@ -461,6 +462,7 @@
 ||lcdn.tsyndicate.com^
 ||letsdoeit.com^
 ||lexisnexis.com^
+||lifeselector.com^
 ||lijit.com^
 ||liner.com^
 ||links.services.disqus.com^
@@ -590,6 +592,7 @@
 ||porndudeshop.com^
 ||porngames.tv^
 ||pornhubapparel.com^
+||pornlynx.com^
 ||pornmaker.ai^
 ||pornworksai.com^
 ||pornx.co^
@@ -1914,6 +1917,7 @@ $removeparam=yclid
 ##.fluid_start_container
 ##.fp-embed
 ##.fq-footer-ad
+##.fq-sponsored-strip
 ##.gdpr-consent
 ##.geo-gate
 ##.header-ai-porn.item
