@@ -194,6 +194,7 @@
 ||buyextenze.com^
 ||bxcdn.net^
 ||cam4.porn^
+||cambash.com^
 ||cambb.xxx^
 ||camjke.com^
 ||cammodels.site^
@@ -248,6 +249,7 @@
 ||coinhive.com^
 ||cointraffic.com^
 ||coinzilla.com^
+||comatozze.com^
 ||comscore.com^
 ||contextweb.com^
 ||copilot.cloud.microsoft^
@@ -264,6 +266,7 @@
 ||crushon.ai^
 ||crxmouse.com^
 ||cryptoloot.pro^
+||cum4k.com^
 ||cumeroplay.com^
 ||cuteboyfriend.top^
 ||datalogix.com^
@@ -560,6 +563,7 @@
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
 ||palantir.com^
+||payshows.com^
 ||pcupdater.pro^
 ||pemsrv.com^
 ||perplexitybot.com^
@@ -1883,6 +1887,7 @@ $removeparam=yclid
 ##.ai-suggestion
 ##.announcement
 ##.app-download-banner
+##.aside-avd-wrap
 ##.avd-heading.heading
 ##.browser-update-notice
 ##.chat-bubble
@@ -1903,11 +1908,14 @@ $removeparam=yclid
 ##.floating-banner
 ##.floating-button
 ##.fluid_html_on_pause_container
+##.fluid_start_container
 ##.fp-embed
 ##.fq-footer-ad
 ##.gdpr-consent
 ##.geo-gate
+##.header-ai-porn.item
 ##.header-preference-hint.preference-hint.straight.hint-dbf50
+##.header_premium_bar
 ##.header_roulette_button
 ##.install-app-banner
 ##.lightbox
@@ -1927,6 +1935,7 @@ $removeparam=yclid
 ##.shown.player-top-line
 ##.social-share-popup
 ##.sponsored
+##.spot-live-cam.thumb
 ##.sticky-banner
 ##.sticky-footer
 ##.sticky-header
