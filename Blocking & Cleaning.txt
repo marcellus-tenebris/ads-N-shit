@@ -62,6 +62,7 @@
 ||adsupply.com^
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
+||adtng.com^
 ||adult-match.xxx^
 ||adultadnetwork.com^
 ||adultadworld.com^
@@ -89,6 +90,7 @@
 ||aipac.org^
 ||airbrake.io^
 ||airtable.com/v0.3/track^
+||aislut.top^
 ||aistudio.facebook.com^
 ||aistudio.instagram.com^
 ||aivanta76.com^
@@ -1899,6 +1901,7 @@ $removeparam=yclid
 ##.chat-bubble
 ##.chat-widget
 ##.close-play__container
+##.comments__warning
 ##.consent-banner
 ##.consent-popup
 ##.cookie-banner
@@ -1908,6 +1911,7 @@ $removeparam=yclid
 ##.download-btn
 ##.download-overlay
 ##.exit-intent
+##.fade_in.text_link_holder
 ##.fake-play
 ##.feedback-widget
 ##.fixed-header
@@ -1924,6 +1928,7 @@ $removeparam=yclid
 ##.header-preference-hint.preference-hint.straight.hint-dbf50
 ##.header_premium_bar
 ##.header_roulette_button
+##.hqb-topbar
 ##.install-app-banner
 ##.lightbox
 ##.location-request
@@ -1950,7 +1955,10 @@ $removeparam=yclid
 ##.survey-popup
 ##.tracking-consent-popup
 ##.video-overlay
+##[href="https://go.aawdlvr.com/"]
+##[href="https://www.vividdreamsai.com/"]
 ##[href^="https://fhgte.com/tour"]
+##[href^="https://www.tckcandy.com/"]
 ##div#status-bubble
 ##div[id="status-bubble"]
 !
