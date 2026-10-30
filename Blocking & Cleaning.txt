@@ -1,5 +1,6 @@
 ! Title: Blocking & Cleaning
-! Expires: 1 hour
+! Expires: 5 hour
+! Syntax: AdBlock
 !
 ||1000fapvids.com^
 ||11oysters.com^
@@ -728,6 +729,7 @@
 ||teamskeet.com^
 ||teamskeet2.com^
 ||techs4arab.com^
+||telegram.com^
 ||telemetry.dropbox.com^
 ||telemetry.mozilla.org^
 ||thealphaboost.com^
