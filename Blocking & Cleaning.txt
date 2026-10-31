@@ -802,6 +802,7 @@
 ||userstyles.org^
 ||vanguard.com^
 ||vdads2019.com^
+||vdo2pk.com^
 ||vdohd.com^
 ||vercel-insights.com^
 ||verint.com^
@@ -1958,6 +1959,7 @@ $removeparam=yclid
 ##.tracking-consent-popup
 ##.video-overlay
 ##[href="https://go.aawdlvr.com/"]
+##[href="https://whatslove.ai/"]
 ##[href="https://www.vividdreamsai.com/"]
 ##[href^="https://fhgte.com/tour"]
 ##[href^="https://www.tckcandy.com/"]
