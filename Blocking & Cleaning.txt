@@ -829,6 +829,7 @@
 ||vortex.data.microsoft.com^
 ||vrporn.com^
 ||vwo.com^
+||vxf3d.cachefly.net^
 ||waelgames.com^
 ||walkme.com^
 ||wandb.ai^
@@ -1964,6 +1965,7 @@ $removeparam=yclid
 ##.sticky-header
 ##.subscribe-popup
 ##.survey-popup
+##.table
 ##.tracking-consent-popup
 ##.video-overlay
 ##[href="https://go.aawdlvr.com/"]
