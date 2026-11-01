@@ -14,6 +14,7 @@
 ||abcam.io^
 ||abcam.online^
 ||abcam.tv^
+||abgay.com^
 ||about.google^
 ||accountkit.com^
 ||accounts.google.com^
@@ -1920,6 +1921,7 @@ $removeparam=yclid
 ##.fixed-header
 ##.floating-banner
 ##.floating-button
+##.fluid_button_download.fluid_control_bar_link.fluid_button.fluid_control_bar_link_holder
 ##.fluid_html_on_pause_container
 ##.fluid_start_container
 ##.fp-embed
@@ -1961,6 +1963,8 @@ $removeparam=yclid
 ##[href="https://go.aawdlvr.com/"]
 ##[href="https://whatslove.ai/"]
 ##[href="https://www.vividdreamsai.com/"]
+##[href^="https://candyai.gg"]
+##[href^="https://faphouse.com"]
 ##[href^="https://fhgte.com/tour"]
 ##[href^="https://www.tckcandy.com/"]
 ##div#status-bubble
