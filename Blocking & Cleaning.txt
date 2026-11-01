@@ -1,6 +1,5 @@
 ! Title: Blocking & Cleaning
 ! Expires: 5 hour
-! Syntax: AdBlock
 !
 ||1000fapvids.com^
 ||11oysters.com^
@@ -55,6 +54,7 @@
 ||adserver.unityads.unity3d.com^
 ||adservetx.media.net^
 ||adservice.google.com^
+||adsession.com^
 ||adsgcc.com^
 ||adsmanager.facebook.com^
 ||adsmovil.com^
@@ -254,6 +254,7 @@
 ||cointraffic.com^
 ||coinzilla.com^
 ||comatozze.com^
+||comatozze.net^
 ||comscore.com^
 ||contextweb.com^
 ||copilot.cloud.microsoft^
@@ -441,6 +442,7 @@
 ||ixigua.com^
 ||jacquieetmicheltv.net^
 ||jasonsavard.com^
+||javmit.com^
 ||jerkmate.com^
 ||jerkmates.com^
 ||join.teamskeet.com^
@@ -592,6 +594,7 @@
 ||porn-download.org^
 ||porn4fap.com^
 ||pornabc.com^
+||porndig.club^
 ||porndiscounts.com^
 ||porndudeshop.com^
 ||porngames.tv^
@@ -1839,6 +1842,8 @@ $removeparam=yclid
 ||youtube.com^$removeparam=si
 ||youtube.com^$removeparam=ucbcb
 !
+||www.fapnado.com/ads/*.mp4$media
+!
 ||ic-vrm-nss.xhpingcdn.com/a/*/webp(q:75),s(w:2692,h:80)/promo/message/51*/6ab*.jpg$image
 ||static.xhpingcdn.com/xh-shared/*.svg$image
 ||www.opendesktop.org/*.png$image
@@ -1885,6 +1890,7 @@ $removeparam=yclid
 ###ad_popup
 ###adinhead
 ###ag-cookiebar
+###channel-promo
 ###geo-flag-wrap
 ##.ad
 ##.ad-container
@@ -1961,7 +1967,9 @@ $removeparam=yclid
 ##.tracking-consent-popup
 ##.video-overlay
 ##[href="https://go.aawdlvr.com/"]
+##[href="https://theporndude.com"]
 ##[href="https://whatslove.ai/"]
+##[href="https://www.comatozze.com/"]
 ##[href="https://www.vividdreamsai.com/"]
 ##[href^="https://candyai.gg"]
 ##[href^="https://faphouse.com"]
@@ -1970,6 +1978,11 @@ $removeparam=yclid
 ##div#status-bubble
 ##div[id="status-bubble"]
 !
+abbdsm.com##+js(set-cookie, _agev, 1)
+abebony.com##+js(set-cookie, _agev, 1)
+abjav.com##+js(set-cookie, _agev, 1)
+ablesbian.com##+js(set-cookie, _agev, 1)
+abmilf.com##+js(set-cookie, _agev, 1)
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.ab_pl_man, false)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, false)
