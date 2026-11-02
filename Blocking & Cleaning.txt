@@ -249,6 +249,7 @@
 ||clientjs.io^
 ||clientjs.org^
 ||clothoff.app^
+||cmonbae.com^
 ||cognyte.com^
 ||coin-hive.com^
 ||coinhive.com^
@@ -689,6 +690,7 @@
 ||skimlinks.com^
 ||slack.com/beacon^
 ||smartadserver.com^
+||smartfloralab.com^
 ||smartlook.cloud^
 ||snailscrambledcontrivance.com^
 ||snowplowanalytics.com^
@@ -808,6 +810,7 @@
 ||usermaven.com^
 ||userpilot.io^
 ||userstyles.org^
+||uvpn.ai^
 ||vanguard.com^
 ||vdads2019.com^
 ||vdo2pk.com^
@@ -1947,6 +1950,7 @@ $removeparam=yclid
 ##[href^="https://faphouse.com"]
 ##[href^="https://fhgte.com/tour"]
 ##[href^="https://landing.candynetwork.ai/elara"]
+##[href^="https://www.cmonbae.com/"]
 ##[href^="https://www.tckcandy.com/"]
 ##div#status-bubble
 ##div[id="status-bubble"]
