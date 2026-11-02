@@ -213,6 +213,7 @@
 ||candyai.com^
 ||candyai.gg^
 ||candyai.love^
+||candynetwork.ai^
 ||canva.com/api/analytics^
 ||casalemedia.com^
 ||ccbot.org^
@@ -337,6 +338,7 @@
 ||files.gay^
 ||fingerprint-pro.com^
 ||fingerprintjs.com^
+||finishhim.com^
 ||firebaseio.com^
 ||flickrads.com^
 ||fling.com^
@@ -604,6 +606,7 @@
 ||pornworksai.com^
 ||pornx.co^
 ||posthog.com^
+||potpourrichordataoscilloscope.com^
 ||primis.com^
 ||primis.io^
 ||primis.org^
@@ -742,6 +745,7 @@
 ||thesexiercams.com^
 ||thetradedesk.com^
 ||theync.com^
+||thickcash.com^
 ||threatmetrix.com^
 ||thumb-ah.flixcdn.com^
 ||toboads.com^
@@ -1934,6 +1938,7 @@ $removeparam=yclid
 ##[href="https://go.aawdlvr.com/"]
 ##[href="https://theporndude.com"]
 ##[href="https://theporndude.com/"]
+##[href="https://theporndude.com/ru"]
 ##[href="https://whatslove.ai/"]
 ##[href="https://www.comatozze.com/"]
 ##[href="https://www.ourdreamersai16.com/81D5R3H/3QQG7/"]
@@ -1941,6 +1946,7 @@ $removeparam=yclid
 ##[href^="https://candyai.gg"]
 ##[href^="https://faphouse.com"]
 ##[href^="https://fhgte.com/tour"]
+##[href^="https://landing.candynetwork.ai/elara"]
 ##[href^="https://www.tckcandy.com/"]
 ##div#status-bubble
 ##div[id="status-bubble"]
