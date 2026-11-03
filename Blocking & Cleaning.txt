@@ -530,6 +530,7 @@
 ||my.com^
 ||mydreamcompanion.com^
 ||myeroblog.com^
+||myheritage.com^
 ||n2j9y0x0.bxcdn.net^
 ||nativo.com^
 ||nelvoroq.com^
@@ -906,6 +907,7 @@
 ||.ar^
 ||.il^
 ||.in^
+||.php^
 !
 *$permissions=battery=()
 !
@@ -1970,6 +1972,7 @@ www.apkmirror.com,www.lyricsify.com,www.serializd.com,www.speedtest.net,www.stor
 !
 an1.com##body > .wrp
 artvee.com##.woodmart-prefooter
+chatgpt.com##div.ms-auto:nth-child(1) > div:nth-child(2)
 codeberg.org###tou-announcement
 facebook.com###right_rail_container
 facebook.com##.xgmub6v
