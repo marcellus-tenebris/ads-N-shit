@@ -1,5 +1,5 @@
 ! Title: Blocking & Cleaning
-! Expires: 5 hour
+! Expires: 2 hour
 !
 ||1000fapvids.com^
 ||11oysters.com^
@@ -907,7 +907,6 @@
 ||.ar^
 ||.il^
 ||.in^
-||.php^
 !
 *$permissions=battery=()
 !
