@@ -467,6 +467,7 @@
 ||krux.com^
 ||krxd.net^
 ||kuaishou.com^
+||labadena.com^
 ||lazybumblebee.com^
 ||lcdn.tsyndicate.com^
 ||letsdoeit.com^
@@ -505,6 +506,7 @@
 ||maxai.live^
 ||maxai.net^
 ||maxai.org^
+||maxmix.ai^
 ||media.net^
 ||medialab.la^
 ||mediamath.com^
@@ -721,6 +723,7 @@
 ||stayfocusd.com^
 ||stickyadstv.com^
 ||storygize.net^
+||stripchat.com^
 ||stuffserve.me^
 ||subwaysurfersapkworld.com^
 ||sugarlab.ai^
@@ -1948,6 +1951,7 @@ $removeparam=yclid
 ##[href="https://www.ourdreamersai16.com/81D5R3H/3QQG7/"]
 ##[href="https://www.vividdreamsai.com/"]
 ##[href^="https://candyai.gg"]
+##[href^="https://du.maxmix.ai"]
 ##[href^="https://faphouse.com"]
 ##[href^="https://fhgte.com/tour"]
 ##[href^="https://landing.candynetwork.ai/elara"]
