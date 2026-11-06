@@ -1983,10 +1983,8 @@ www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, fals
 !
 codeberg.org,temp-mail.org##.page-footer
 store.kde.org,www.gnome-look.org##.container-wide.footer
-www.apkmirror.com,www.lyricsify.com,www.serializd.com,www.speedtest.net,www.storysaver.net##.footer
+www.apkmirror.com,www.serializd.com##.footer
 !
-an1.com##body > .wrp
-artvee.com##.woodmart-prefooter
 chatgpt.com##div.ms-auto:nth-child(1) > div:nth-child(2)
 codeberg.org###tou-announcement
 facebook.com###right_rail_container
@@ -1996,7 +1994,6 @@ facebook.com##:xpath(//a[contains(@href, '/ads/about/')]/parent::span/parent::sp
 facebook.com##:xpath(//span[contains(text(), 'Ad')]/parent::span/parent::span/parent::a/parent::span/parent::span/parent::div/parent::span/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div)
 facebook.com##:xpath(//span[contains(text(), 'Sponsored')]/parent::div/parent::div/parent::span/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div)
 facebook.com##div.xnp8db0:nth-child(1)
-flickr.com##.requiredToShowOnServer.footer-full-view.view
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
 mcpelife.com##.app-panel-wrap
 ok.ru###hook_Block_AuthLoginAutoOpen
@@ -2006,17 +2003,6 @@ reddit.com##shreddit-post a[href^="/r/"] img, shreddit-post a[href^="/r/"] facep
 reddit.com##shreddit-post, shreddit-post *:style(border-radius: 0 !important)
 reddit.com##span[slot="repost-button"]
 reddit.com##svg[slot="leadingIcon"]:has(circle[fill="#FF4500"])
-search.brave.com###main > .svelte-jz8lnl
-search.brave.com###quick-goggles-button > .svelte-7b1tqz.header-button-icon
-search.brave.com###voice-input-button
-search.brave.com##*:style(border-radius: 0 !important)
-search.brave.com##.svelte-19urzty.t-tertiary.desktop-xsmall-regular
-search.brave.com##.svelte-4jwo3w.t-tertiary.desktop-small-regular
-search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(3)
-search.brave.com##li.svelte-l0weru.tab-item:nth-of-type(4)
-search.brave.com##li.svelte-l0weru.tab-item:nth-of-type(4) > .svelte-l0weru.desktop-default-semibold
-search.brave.com##li.svelte-l0weru.tab-item:nth-of-type(6) > .svelte-l0weru.desktop-default-semibold
-search.brave.com##li.svelte-l0weru.tab-item:nth-of-type(7)
 temp-mail.org##.bottom-seo-text
 temp-mail.org##.goPremiumBtn.goPremium.btn-outline-dark.tm-btn
 temp-mail.org##.hidden-xs-sm.align-v-mid.col > .btn-appstore
@@ -2028,21 +2014,6 @@ www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
 www.apkmirror.com##div.listWidget:nth-of-type(3)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(6)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
-www.deviantart.com##.DuRxKc
-www.deviantart.com##.Q4hL4R
-www.deviantart.com##.TTXf7A
-www.deviantart.com##.c6PdRy
-www.deviantart.com##div.WlC1rB:nth-child(2)
-www.deviantart.com##div.jI6fQl.IM6IXh:nth-of-type(3) > span.boBk3j:nth-of-type(2)
-www.deviantart.com##html body.theme-dark.surface.surface-primary main._R4pYB div.L2uumn.gDJxf_ div.HLH4WN.v2LHGI div.ACfFZC
-www.file-upload.org##.bg-cover.fix.footer-section
-www.gnome-look.org##.container-wide.footer
-www.google.com###sfooter
-www.google.com##.O3yKUb
-www.imdb.com##.footer.imdb-footer.kaonoi.sc-62727d1a-0
-www.instagram.com##div:has(> div[role="button"] > svg[aria-label="Repost"])
-www.nga.gov##.c-site-footer
-www.nga.gov##.region-sitewide-alert.region
 www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
 www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN > div
 www.pinterest.com##.zEVE_X.xdjfP5.n62I2n._tKaHB.NYgy1O.ADXRXN
