@@ -364,6 +364,7 @@
 ||futuretodayinc.com^
 ||fxpro.com^
 ||fyber.com^
+||fynna.ai^
 ||g2fame.com^
 ||gamcore.com^
 ||gamebol.com^
@@ -423,6 +424,7 @@
 ||hilltopads.net^
 ||holed.com^
 ||homelivesex.com^
+||honeypot.com^
 ||hot-local-babes.com^
 ||hotjar.com^
 ||hotjar.io^
@@ -474,6 +476,7 @@
 ||lazybumblebee.com^
 ||lcdn.tsyndicate.com^
 ||letsdoeit.com^
+||lewdsteam.com^
 ||lexisnexis.com^
 ||lifeselector.com^
 ||lijit.com^
@@ -532,6 +535,7 @@
 ||monetag.com^
 ||mouseflow.com^
 ||mouseflow.de^
+||musebox.ai^
 ||my.com^
 ||mydreamcompanion.com^
 ||myeroblog.com^
@@ -592,7 +596,9 @@
 ||pixel.tiktok.com^
 ||pixel.wp.com^
 ||playbox.com^
+||playbun.com^
 ||players.brightcove.net/analytics^
+||playflux.ai^
 ||playhubconnect.com^
 ||pnonolet.com^
 ||po.st^
@@ -1871,6 +1877,7 @@ $removeparam=yclid
 ###adinhead
 ###ag-cookiebar
 ###channel-promo
+###ck-bar
 ###geo-flag-wrap
 ##.ad
 ##.ad-container
