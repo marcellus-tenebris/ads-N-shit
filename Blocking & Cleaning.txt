@@ -1,5 +1,13 @@
 ! Title: Blocking & Cleaning
+! Description:My prsonal uBlock Origin filters
+! Homepage: https://github.com/marcellus-tenebris/ads-N-shit/tree/main 
+! License: https://github.com/marcellus-tenebris/ads-N-shit/blob/main/LICENSE
 ! Expires: 2 hour
+!
+! Warning: This list may cause website breakages.
+! It is primarily maintained for personal use and is not
+! tested for compatibility with every website.
+! Use at your own risk. You may need to create exceptions
 !
 ||1000fapvids.com^
 ||11oysters.com^
