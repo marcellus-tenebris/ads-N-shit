@@ -1,5 +1,5 @@
 ! Title: Blocking & Cleaning
-! Description:My prsonal uBlock Origin filters
+! Description: My prsonal uBlock Origin filters
 ! Homepage: https://github.com/marcellus-tenebris/ads-N-shit/tree/main 
 ! License: https://github.com/marcellus-tenebris/ads-N-shit/blob/main/LICENSE
 ! Expires: 2 hour
