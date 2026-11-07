@@ -5,9 +5,9 @@
 ! Expires: 2 hour
 !
 ! Warning: This list may cause website breakages.
-! It is primarily maintained for personal use and is not
-! tested for compatibility with every website.
-! Use at your own risk. You may need to create exceptions
+! It is primarily maintained for personal use and is not tested for compatibility with every website.
+! Use at your own risk. 
+! You may need to create exceptions
 !
 ||1000fapvids.com^
 ||11oysters.com^
@@ -456,9 +456,11 @@
 ||iovation.com^
 ||ironsrc.com^
 ||is.com^
+||istripper.com^
 ||ixigua.com^
 ||jacquieetmicheltv.net^
 ||jasonsavard.com^
+||javhdporn.live^
 ||javmit.com^
 ||jerkmate.com^
 ||jerkmates.com^
@@ -646,6 +648,7 @@
 ||pubmatic.com^
 ||pulsepoint.com^
 ||puretaboo.com^
+||qufolima.com^
 ||quillbot.com^
 ||qwerty24.net^
 ||rabbitscams.sex^
@@ -862,6 +865,7 @@
 ||vrporn.com^
 ||vwo.com^
 ||vxf3d.cachefly.net^
+||vxf3db5.cachefly.net^
 ||waelgames.com^
 ||walkme.com^
 ||wandb.ai^
@@ -891,6 +895,7 @@
 ||woowebtools.com^
 ||www.business.reddit.com^
 ||x.bidswitch.net^
+||xalivexo.com^
 ||xandr.com^
 ||xenalive.me^
 ||xhamsterlive.com^
@@ -1980,6 +1985,7 @@ $removeparam=yclid
 ##[href^="https://www.cmonbae.com/"]
 ##[href^="https://www.tckcandy.com/"]
 ##div#status-bubble
+##div.dh-ad-box
 ##div[id="status-bubble"]
 !
 abbdsm.com##+js(set-cookie, _agev, 1)
