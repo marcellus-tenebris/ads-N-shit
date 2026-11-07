@@ -366,6 +366,7 @@
 ||fyber.com^
 ||fynna.ai^
 ||g2fame.com^
+||gadlt.nl^
 ||gamcore.com^
 ||gamebol.com^
 ||gay0day.com^
@@ -843,6 +844,7 @@
 ||vionservices.com^
 ||visualwebsiteoptimizer.com^
 ||vitals.vercel-insights.com^
+||vivid.com^
 ||vividdreamsai.com^
 ||vkontakte.ru^
 ||vocaroo.com^
@@ -2003,6 +2005,7 @@ reddit.com##shreddit-post a[href^="/r/"] img, shreddit-post a[href^="/r/"] facep
 reddit.com##shreddit-post, shreddit-post *:style(border-radius: 0 !important)
 reddit.com##span[slot="repost-button"]
 reddit.com##svg[slot="leadingIcon"]:has(circle[fill="#FF4500"])
+search.brave.com##*:style(border-radius: 0 !important)
 temp-mail.org##.bottom-seo-text
 temp-mail.org##.goPremiumBtn.goPremium.btn-outline-dark.tm-btn
 temp-mail.org##.hidden-xs-sm.align-v-mid.col > .btn-appstore
