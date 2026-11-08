@@ -1,13 +1,7 @@
 ! Title: Blocking & Cleaning
-! Description: My prsonal uBlock Origin filters
 ! Homepage: https://github.com/marcellus-tenebris/ads-N-shit/tree/main 
 ! License: https://github.com/marcellus-tenebris/ads-N-shit/blob/main/LICENSE
 ! Expires: 2 hour
-!
-! Warning: This list may cause website breakages.
-! It is primarily maintained for personal use and is not tested for compatibility with every website.
-! Use at your own risk. 
-! You may need to create exceptions
 !
 ||1000fapvids.com^
 ||11oysters.com^
@@ -154,6 +148,7 @@
 ||atonads.me^
 ||auction.unityads.unity3d.com^
 ||avantlink.com^
+||avrevenue.com^
 ||awempire.com^
 ||awin1.com^
 ||aznude.pics^
@@ -165,6 +160,7 @@
 ||bannedsextapes.com^
 ||barilliance.com^
 ||bbwsexdates.net^
+||bcash4you.com^
 ||bd742.com^
 ||bdstatic.com^
 ||beacons.com^
@@ -377,9 +373,11 @@
 ||gadlt.nl^
 ||gamcore.com^
 ||gamebol.com^
+||gammae.com^
 ||gay0day.com^
 ||gaya-sa.org^
 ||gayads.biz^
+||gayalarab.net^
 ||gayck.com^
 ||gaydesirexhub.com^
 ||gaymaletube.com^
@@ -460,6 +458,7 @@
 ||ixigua.com^
 ||jacquieetmicheltv.net^
 ||jasonsavard.com^
+||javhd-trk.com^
 ||javhdporn.live^
 ||javmit.com^
 ||jerkmate.com^
@@ -805,6 +804,7 @@
 ||trump.com
 ||trumpmobile.com^
 ||trustarc.com^
+||trwl1.com^
 ||tsthots.com^
 ||tsyndicate.com^
 ||tubetraffic.com^
@@ -869,6 +869,7 @@
 ||waelgames.com^
 ||walkme.com^
 ||wandb.ai^
+||watch4beauty.com^
 ||watson.telemetry.microsoft.com^
 ||wd.adcolony.com^
 ||weather-analytics-events.apple.com^
@@ -1959,6 +1960,7 @@ $removeparam=yclid
 ##.push-notification-prompt
 ##.shown.player-top-line
 ##.social-share-popup
+##.sponsor__info
 ##.sponsored
 ##.spot-live-cam.thumb
 ##.sticky-banner
@@ -1968,6 +1970,7 @@ $removeparam=yclid
 ##.survey-popup
 ##.table
 ##.tracking-consent-popup
+##.video-archive-ad
 ##.video-overlay
 ##[href="https://go.aawdlvr.com/"]
 ##[href="https://theporndude.com"]
@@ -1979,6 +1982,7 @@ $removeparam=yclid
 ##[href="https://www.vividdreamsai.com/"]
 ##[href^="https://candyai.gg"]
 ##[href^="https://du.maxmix.ai"]
+##[href^="https://facemix.app/"]
 ##[href^="https://faphouse.com"]
 ##[href^="https://fhgte.com/tour"]
 ##[href^="https://landing.candynetwork.ai/elara"]
