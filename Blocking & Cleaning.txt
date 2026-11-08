@@ -195,9 +195,11 @@
 ||brightcove.com/analytics^
 ||browser-intake-datadoghq.com^
 ||bulecams.com^
+||bunnyranch.com^
 ||business.facebook.com^
 ||business.google.com^
 ||business.instagram.com^
+||business.reddit.com^
 ||business.x.com^
 ||buyextenze.com^
 ||bxcdn.net^
@@ -361,6 +363,7 @@
 ||freecamgirl.com^
 ||freecamgirl.net^
 ||freehdcams.xxx^
+||freehentaistream.com^
 ||fucker.chat^
 ||fucklocal.com^
 ||fullstory.com^
@@ -478,6 +481,7 @@
 ||kctag.net^
 ||kickoffo.site^
 ||kink.com^
+||kinkedai.com^
 ||kount.com^
 ||krux.com^
 ||krxd.net^
@@ -497,6 +501,7 @@
 ||liveramp.com^
 ||liveramp.io^
 ||lockheedmartin.com^
+||london-prive.co.uk^
 ||lotame.com^
 ||lovender.net^
 ||lovescape.com^
@@ -558,6 +563,7 @@
 ||netnut.io^
 ||networkpb.com^
 ||neustar.biz^
+||nevadaescorts.us^
 ||newrelic.com^
 ||newsdaily.fun^
 ||nice.com^
@@ -627,6 +633,7 @@
 ||pornlynx.com^
 ||pornmaker.ai^
 ||pornmate.com^
+||pornnetworkdeals.com^
 ||pornworksai.com^
 ||pornx.co^
 ||posthog.com^
@@ -793,7 +800,7 @@
 ||trafficjunky.org^
 ||trafficshop.com^
 ||trc.taboola.com^
-||trello.com/1/resources/track^
+||trello.com^
 ||trendyporn.com^
 ||trialhd.com^
 ||triplelift.com^
@@ -830,6 +837,7 @@
 ||undressai.tools^
 ||undressme.ai^
 ||unity.com^
+||unity3d.com^
 ||updatestar.com^
 ||us.i.posthog.com^
 ||userapi.com^
@@ -846,7 +854,6 @@
 ||verint.com^
 ||viber.com^
 ||vidazoo.com^
-||videojs.com/analytics^
 ||viglink.com^
 ||vigrxdelayspray.com^
 ||vigrxplus.com^
@@ -894,7 +901,6 @@
 ||wixnm.com^
 ||woopra.com^
 ||woowebtools.com^
-||www.business.reddit.com^
 ||x.bidswitch.net^
 ||xalivexo.com^
 ||xandr.com^
@@ -1881,7 +1887,7 @@ $removeparam=yclid
 ||youtube.com^$removeparam=si
 ||youtube.com^$removeparam=ucbcb
 !
-||www.fapnado.com/ads/*.mp4$media
+||www.fapnado.com/ads/*$media
 !
 ||f-droid.org/assets/download-fdroid-qr_rt62kUMmGMIMhgDgUUWjYefCQjazGqLRlAZ7WOgSSlg=.png$image
 ||f-droid.org/assets/liberapay_donate_button_GHdOOfmFJNeSXjfjnA-98XtIuEfvE6cNJjHgHOhjdv0=.svg$image
@@ -2005,7 +2011,6 @@ codeberg.org,temp-mail.org##.page-footer
 store.kde.org,www.gnome-look.org##.container-wide.footer
 www.apkmirror.com,www.serializd.com##.footer
 !
-chatgpt.com##div.ms-auto:nth-child(1) > div:nth-child(2)
 codeberg.org###tou-announcement
 facebook.com###right_rail_container
 facebook.com##.xgmub6v
@@ -2062,6 +2067,7 @@ www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2)
 www.serializd.com##.r-13qz1uu.r-3pj75a.r-w7s2jr.r-11c0sde.r-1peese0.r-15pk7w6.r-1dzdj1l.r-bnwqim.r-1udh08x.css-g5y9jx
 www.serializd.com##.tvtime-banner
 www.serializd.com##div[data-testid="responsive-social-buttons"]:style( display: contents !important; )
+www.threads.com##.xzkaem6.x1n2onr6.__fb-light-mode
 x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-1kqtdi0.css-175oi2r
 x.com##[data-testid="reply-boost-upsell"]
 x.com##[role="main"] [aria-label="Home timeline"] [href$="/header_photo"]:upward(2):style(max-width: 999px !important)
