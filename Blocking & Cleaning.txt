@@ -1899,11 +1899,14 @@ $removeparam=yclid
 ||gstatic.com/youtube/img/promos/$image
 ||watchseries.*/assets/img/00833cdc9f0b.webp$image
 !
+@@||gravatar.com^$domain=letterboxd.com
+!
 ###ad_popup
 ###adinhead
 ###ag-cookiebar
 ###channel-promo
 ###ck-bar
+###disclaimer_background
 ###geo-flag-wrap
 ##.ad
 ##.ad-container
@@ -1965,6 +1968,7 @@ $removeparam=yclid
 ##.paywall-notice
 ##.popup
 ##.premium-offer-banner
+##.premium.download-option
 ##.promo
 ##.promotion
 ##.push-notification-prompt
@@ -1982,6 +1986,7 @@ $removeparam=yclid
 ##.tracking-consent-popup
 ##.video-archive-ad
 ##.video-overlay
+##[href="/cams/"]
 ##[href="https://go.aawdlvr.com/"]
 ##[href="https://theporndude.com"]
 ##[href="https://theporndude.com/"]
