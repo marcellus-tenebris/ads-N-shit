@@ -1889,6 +1889,7 @@ $removeparam=yclid
 !
 ||www.fapnado.com/ads/*$media
 !
+||a.ltrbxd.com/resized/sm/upload/*-crop-fill.*g?k=*$image
 ||f-droid.org/assets/download-fdroid-qr_rt62kUMmGMIMhgDgUUWjYefCQjazGqLRlAZ7WOgSSlg=.png$image
 ||f-droid.org/assets/liberapay_donate_button_GHdOOfmFJNeSXjfjnA-98XtIuEfvE6cNJjHgHOhjdv0=.svg$image
 ||f-droid.org/assets/opencollective_button_iIGF0Hixdj0EaYR3Sd7FRigTVcl7QPGu6kaoBmXHjZI=.png$image
@@ -1994,6 +1995,7 @@ $removeparam=yclid
 ##[href^="https://landing.candynetwork.ai/elara"]
 ##[href^="https://www.cmonbae.com/"]
 ##[href^="https://www.tckcandy.com/"]
+##app-age-verification
 ##div#status-bubble
 ##div.dh-ad-box
 ##div[id="status-bubble"]
@@ -2019,6 +2021,7 @@ facebook.com##:xpath(//a[contains(@href, '/ads/about/')]/parent::span/parent::sp
 facebook.com##:xpath(//span[contains(text(), 'Ad')]/parent::span/parent::span/parent::a/parent::span/parent::span/parent::div/parent::span/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div)
 facebook.com##:xpath(//span[contains(text(), 'Sponsored')]/parent::div/parent::div/parent::span/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div)
 facebook.com##div.xnp8db0:nth-child(1)
+letterboxd.com##.film-news.section-margin
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
 mcpelife.com##.app-panel-wrap
 ok.ru###hook_Block_AuthLoginAutoOpen
@@ -2040,9 +2043,6 @@ www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
 www.apkmirror.com##div.listWidget:nth-of-type(3)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(6)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
-www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
-www.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN > div
-www.pinterest.com##.zEVE_X.xdjfP5.n62I2n._tKaHB.NYgy1O.ADXRXN
 www.reddit.com###games_section
 www.reddit.com###mosaic-pdp-feed
 www.reddit.com##.border-neutral-border.border-solid.border-e-0.border-s-0.border-t-0.border-b-sm.bg-neutral-background.py-xs.xs\:px-0.relative.px-md.text-12.justify-between.flex > span.items-center.flex:nth-of-type(2)
