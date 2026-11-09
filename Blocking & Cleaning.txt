@@ -638,6 +638,7 @@
 ||pornx.co^
 ||posthog.com^
 ||potpourrichordataoscilloscope.com^
+||powered-by-creatortraffic.com^
 ||primis.com^
 ||primis.io^
 ||primis.org^
@@ -1887,6 +1888,7 @@ $removeparam=yclid
 ||youtube.com^$removeparam=si
 ||youtube.com^$removeparam=ucbcb
 !
+||vxf3db5.cachefly.net/*.mp4$media
 ||www.fapnado.com/ads/*$media
 !
 ||a.ltrbxd.com/resized/sm/upload/*-crop-fill.*g?k=*$image
@@ -1895,6 +1897,7 @@ $removeparam=yclid
 ||f-droid.org/assets/opencollective_button_iIGF0Hixdj0EaYR3Sd7FRigTVcl7QPGu6kaoBmXHjZI=.png$image
 ||f-droid.org/assets/phone-frame_kEDoOnDDPLnsqH4lVaEun9wfQgM9ivrhk5OiUWWdKHc=.png$image
 ||gstatic.com/youtube/img/promos/$image
+||watchseries.*/assets/img/00833cdc9f0b.webp$image
 !
 ###ad_popup
 ###adinhead
