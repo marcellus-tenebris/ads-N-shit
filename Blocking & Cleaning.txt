@@ -686,6 +686,7 @@
 ||s.imdb.com/ref=*
 ||s.pemsrv.com^
 ||s.zline0.com^
+||samsami.online^
 ||savedvids.com^
 ||sber.ru^
 ||sberbank.ru^
@@ -1957,10 +1958,13 @@ $removeparam=yclid
 ##.header_roulette_button
 ##.hqb-topbar
 ##.install-app-banner
+##.jw-custom-btn.jw-related-toggle-button
+##.jw-reset-text.jw-title
 ##.lightbox
 ##.location-request
 ##.mobile-app-banner
 ##.newsletter-popup
+##.nopop.jw-hardlink-btn.jw-custom-btn
 ##.notification-bar
 ##.notification-request
 ##.overlay
