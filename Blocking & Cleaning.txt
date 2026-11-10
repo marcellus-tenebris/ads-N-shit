@@ -2026,23 +2026,10 @@ store.kde.org,www.gnome-look.org##.container-wide.footer
 www.apkmirror.com,www.serializd.com##.footer
 !
 codeberg.org###tou-announcement
-facebook.com###right_rail_container
-facebook.com##.xgmub6v
-facebook.com##:xpath(//a[@role='link']/parent::span/parent::span/parent::div/parent::span/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div)
-facebook.com##:xpath(//a[contains(@href, '/ads/about/')]/parent::span/parent::span/parent::div/parent::span/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div)
-facebook.com##:xpath(//span[contains(text(), 'Ad')]/parent::span/parent::span/parent::a/parent::span/parent::span/parent::div/parent::span/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div)
-facebook.com##:xpath(//span[contains(text(), 'Sponsored')]/parent::div/parent::div/parent::span/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div/parent::div)
-facebook.com##div.xnp8db0:nth-child(1)
 letterboxd.com##.film-news.section-margin
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
 mcpelife.com##.app-panel-wrap
 ok.ru###hook_Block_AuthLoginAutoOpen
-pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
-reddit.com##shreddit-post [class*="avatar"], shreddit-post [class*="avatar"] *, shreddit-post faceplate-img, shreddit-post a[href^="/user/"] img, shreddit-post a[href^="/r/"] img:style(border-radius: 50% !important)
-reddit.com##shreddit-post a[href^="/r/"] img, shreddit-post a[href^="/r/"] faceplate-img, shreddit-post faceplate-img img, shreddit-post [class*="icon"], shreddit-post [class*="icon"] img, shreddit-post [class*="subreddit"] img, shreddit-post [slot="credit-bar"] img, shreddit-post [slot="credit-bar"] faceplate-img:style(border-radius: 50% !important)
-reddit.com##shreddit-post, shreddit-post *:style(border-radius: 0 !important)
-reddit.com##span[slot="repost-button"]
-reddit.com##svg[slot="leadingIcon"]:has(circle[fill="#FF4500"])
 search.brave.com##*:style(border-radius: 0 !important)
 temp-mail.org##.bottom-seo-text
 temp-mail.org##.goPremiumBtn.goPremium.btn-outline-dark.tm-btn
@@ -2055,43 +2042,8 @@ www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
 www.apkmirror.com##div.listWidget:nth-of-type(3)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(6)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
-www.reddit.com###games_section
-www.reddit.com###mosaic-pdp-feed
 www.reddit.com##.border-neutral-border.border-solid.border-e-0.border-s-0.border-t-0.border-b-sm.bg-neutral-background.py-xs.xs\:px-0.relative.px-md.text-12.justify-between.flex > span.items-center.flex:nth-of-type(2)
-www.reddit.com##.gap-xs.items-center.flex-wrap.gap-2xs.flex.list-none.m-0.p-0.text-caption-1.text-neutral-content-weak
-www.reddit.com##.inline-flex.button.justify-center.items-center.button-plain.px-\[calc\(var\(--rem12\)-var\(--button-border-width\,0px\)\)\].button-medium.active\:no-underline.hover\:no-underline.no-underline
-www.reddit.com##.justify-end.flex-col.flex.grow.py-md.visible
-www.reddit.com##.left-nav-create-community-button.mt-0.list-none.relative > .bg-transparent.s\:rounded-2.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
-www.reddit.com##.nd\:hidden > .rounded-none.border-none.bg-transparent.m-0.p-0
-www.reddit.com##.nd\:visible > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0
-www.reddit.com##.nd\:visible > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > .mt-0.list-none.relative > .s\:rounded-2.bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
-www.reddit.com##.nd\:w-\[54px\].nd\:invisible.nd\:h-xl.nd\:max-h-\[32px\].nd\:block
-www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > faceplate-expandable-section-helper:nth-of-type(1) > .rounded-none.border-none.bg-transparent.m-0.p-0
-www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > faceplate-expandable-section-helper:nth-of-type(1) > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative > .s\:rounded-2.bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
-www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(1)
-www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(2)
-www.reddit.com##faceplate-tracker.contents:nth-of-type(4) > .mt-0.list-none.relative > .no-underline.-outline-offset-1.py-xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
-www.reddit.com##faceplate-tracker.contents:nth-of-type(5) > .mt-0.list-none.relative
-www.reddit.com##hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(3)
-www.reddit.com##left-nav-top-section
-www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(1) > faceplate-tracker.contents:nth-of-type(2) > .mt-0.list-none.relative > .no-underline.-outline-offset-1.py-xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-xs.px-md.relative.justify-between.flex
-www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2)
-www.serializd.com##.r-13qz1uu.r-3pj75a.r-w7s2jr.r-11c0sde.r-1peese0.r-15pk7w6.r-1dzdj1l.r-bnwqim.r-1udh08x.css-g5y9jx
-www.serializd.com##.tvtime-banner
-www.serializd.com##div[data-testid="responsive-social-buttons"]:style( display: contents !important; )
 www.threads.com##.xzkaem6.x1n2onr6.__fb-light-mode
-x.com##.r-1yadl64.r-1niwhzg.r-1udh08x.r-1ifxtd0.r-1phboty.r-1867qdf.r-1kqtdi0.css-175oi2r
-x.com##[data-testid="reply-boost-upsell"]
-x.com##[role="main"] [aria-label="Home timeline"] [href$="/header_photo"]:upward(2):style(max-width: 999px !important)
-x.com##[role="main"] [aria-label="Home timeline"] section:upward(1):style(max-width: 999px !important)
-x.com##[role="main"] [aria-label="Home timeline"]:upward(1):style(max-width: 700px !important; margin-right: 30px !important)
-x.com##[role="main"] [aria-label="Home timeline"]:upward(5) .r-113js5t:style(width: 1150px !important)
-x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
-x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
-x.com##a[href="/i/premium_sign_up"]
-x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
-x.com##div[role="dialog"]:has(a[href*="/i/premium_sign_up"])
-x.com##div[role="dialog"]:has(button[data-testid*="subscribe"])
 youtube.com###movie_player > div:nth-child(8) > div:nth-child(2)
 youtube.com###owner > div:nth-child(2)
 youtube.com###sponsor-button
