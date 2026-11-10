@@ -2030,6 +2030,9 @@ letterboxd.com##.film-news.section-margin
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
 mcpelife.com##.app-panel-wrap
 ok.ru###hook_Block_AuthLoginAutoOpen
+reddit.com##shreddit-post a[href^="/r/"] img, shreddit-post a[href^="/user/"] img, shreddit-post [slot="credit-bar"] img, shreddit-post [slot="credit-bar"] faceplate-img:style(border-radius: 50% !important)
+reddit.com##shreddit-post, shreddit-post *:style(border-radius: 0 !important)
+reddit.com##span[slot="repost-button"]
 search.brave.com##*:style(border-radius: 0 !important)
 temp-mail.org##.bottom-seo-text
 temp-mail.org##.goPremiumBtn.goPremium.btn-outline-dark.tm-btn
@@ -2042,8 +2045,6 @@ www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
 www.apkmirror.com##div.listWidget:nth-of-type(3)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(6)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
-www.reddit.com##.mb-md.mx-md.flex.justify-self-end.legal-links
-www.reddit.com##img:is([src*="communityIcon"], [src*="profileIcon"], [src*="snoo"]):style(border-radius: 50% !important)
 www.threads.com##.xzkaem6.x1n2onr6.__fb-light-mode
 youtube.com###movie_player > div:nth-child(8) > div:nth-child(2)
 youtube.com###owner > div:nth-child(2)
