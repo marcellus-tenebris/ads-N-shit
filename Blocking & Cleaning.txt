@@ -2042,7 +2042,8 @@ www.apkmirror.com##.f-stretch.sidebar-widget.col-padding.f-md-33
 www.apkmirror.com##div.listWidget:nth-of-type(3)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(6)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
-www.reddit.com##.border-neutral-border.border-solid.border-e-0.border-s-0.border-t-0.border-b-sm.bg-neutral-background.py-xs.xs\:px-0.relative.px-md.text-12.justify-between.flex > span.items-center.flex:nth-of-type(2)
+www.reddit.com##.mb-md.mx-md.flex.justify-self-end.legal-links
+www.reddit.com##img:is([src*="communityIcon"], [src*="profileIcon"], [src*="snoo"]):style(border-radius: 50% !important)
 www.threads.com##.xzkaem6.x1n2onr6.__fb-light-mode
 youtube.com###movie_player > div:nth-child(8) > div:nth-child(2)
 youtube.com###owner > div:nth-child(2)
