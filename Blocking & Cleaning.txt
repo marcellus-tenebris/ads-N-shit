@@ -642,6 +642,7 @@
 ||posthog.com^
 ||potpourrichordataoscilloscope.com^
 ||powered-by-creatortraffic.com^
+||primepropertynow.com^
 ||primis.com^
 ||primis.io^
 ||primis.org^
@@ -941,6 +942,7 @@
 ||zionads.com^
 ||zizzle.com^
 ||zizzle.updatestar.com^
+||zlink7.com^
 ||zoominfo.com^
 ||zopim.com^
 !
