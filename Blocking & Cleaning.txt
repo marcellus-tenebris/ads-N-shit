@@ -336,6 +336,7 @@
 ||faphouse4k.com^
 ||fapify.com^
 ||fasel-hd.com^
+||fasr.com^
 ||fauxporn.com^
 ||fb.com^
 ||fbi.gov^
@@ -377,6 +378,7 @@
 ||gamcore.com^
 ||gamebol.com^
 ||gammae.com^
+||gay-male-celebs.com^
 ||gay0day.com^
 ||gaya-sa.org^
 ||gayads.biz^
@@ -531,6 +533,7 @@
 ||media.net^
 ||medialab.la^
 ||mediamath.com^
+||mencelebrities.com^
 ||meta.ai^
 ||meta.com/facebookbot^
 ||meta.com^
@@ -1888,6 +1891,10 @@ $removeparam=yclid
 ||youtube.com^$removeparam=rco
 ||youtube.com^$removeparam=si
 ||youtube.com^$removeparam=ucbcb
+!
+||*/rta.*
+||*/rta3.*
+||*/rtalabel.*
 !
 ||vxf3db5.cachefly.net/*.mp4$media
 ||www.fapnado.com/ads/*$media
