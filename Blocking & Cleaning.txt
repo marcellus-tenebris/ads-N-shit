@@ -6,6 +6,7 @@
 ||1000fapvids.com^
 ||11oysters.com^
 ||4dsply.com^
+||4kwallpapers.top^
 ||6sense.com^
 ||7lha.com^
 ||ab-tasty.com^
@@ -247,6 +248,8 @@
 ||chaturbate.lat^
 ||chevron.com^
 ||chioclick.com^
+||chromestore.store^
+||chromestore.us
 ||cia.gov^
 ||cj.com^
 ||clearbit.com^
@@ -428,6 +431,7 @@
 ||gsrv.dev^
 ||guidepaparazzisurface.com^
 ||gukahdbam.com^
+||gunsofglorygame.com^
 ||hagezi.com^
 ||happyleafmotion.com^
 ||heap.io^
@@ -545,6 +549,7 @@
 ||metetes.com^
 ||mexc.com^
 ||mgid.com^
+||mi.com^
 ||miafoster.com^
 ||mintegral.com^
 ||minute.ly^
@@ -703,7 +708,6 @@
 ||sber.ru^
 ||sberbank.ru^
 ||sbrf.ru^
-||scontent.cdninstagram.com^
 ||security.atonads.me^
 ||securitypc.xyz^
 ||seduced.com^
@@ -962,6 +966,8 @@
 ||.in^
 !
 *$permissions=battery=()
+!
+||shortpixel.ai^$script
 !
 ||google-analytics.com/collect$important,third-party
 !
