@@ -1002,7 +1002,6 @@ $removeparam=mc_eid
 $removeparam=msclkid
 $removeparam=ocid
 $removeparam=pcrid
-$removeparam=pid
 $removeparam=psid
 $removeparam=pstd
 $removeparam=psts
