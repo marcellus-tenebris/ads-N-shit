@@ -153,8 +153,10 @@
 ||awempire.com^
 ||awin1.com^
 ||ayhaidwao.com^
+||azmen.com^
 ||aznude.pics^
 ||aznudelive.com^
+||aztube.com^
 ||baidu.com^
 ||bakestubborn.com^
 ||bangbros.com^
@@ -1918,6 +1920,8 @@ $removeparam=yclid
 ||www.fapnado.com/ads/*$media
 !
 ||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-with-patio-47ce20b6.gif$image
+||aznude.com/*.ico$image
+||azrating.com/*.gif$image
 ||f-droid.org/assets/download-fdroid-qr_rt62kUMmGMIMhgDgUUWjYefCQjazGqLRlAZ7WOgSSlg=.png$image
 ||f-droid.org/assets/liberapay_donate_button_GHdOOfmFJNeSXjfjnA-98XtIuEfvE6cNJjHgHOhjdv0=.svg$image
 ||f-droid.org/assets/opencollective_button_iIGF0Hixdj0EaYR3Sd7FRigTVcl7QPGu6kaoBmXHjZI=.png$image
