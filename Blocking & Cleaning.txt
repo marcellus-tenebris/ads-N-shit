@@ -569,6 +569,7 @@
 ||myeroblog.com^
 ||myheritage.com^
 ||n2j9y0x0.bxcdn.net^
+||naswup.com^
 ||nativo.com^
 ||nelvoroq.com^
 ||neo4j.com^
@@ -1931,6 +1932,7 @@ $removeparam=yclid
 ###ag-cookiebar
 ###channel-promo
 ###ck-bar
+###cookie-wall-short
 ###disclaimer_background
 ###geo-flag-wrap
 ##.ad
