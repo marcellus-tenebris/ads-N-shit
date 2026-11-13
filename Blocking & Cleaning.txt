@@ -394,6 +394,7 @@
 ||gaydesirexhub.com^
 ||gaymaletube.com^
 ||gayporntube.com^
+||gayxo.com^
 ||gemini.google.com^
 ||gemini.media^
 ||genesisporn.net^
@@ -508,6 +509,7 @@
 ||lijit.com^
 ||liner.com^
 ||links.services.disqus.com^
+||litionsmeaseling.com^
 ||livehdcams.net^
 ||liveintent.com^
 ||liveramp.com^
@@ -562,6 +564,7 @@
 ||moat.com^
 ||moatads.com^
 ||mobvista.com^
+||monatglobal.com^
 ||monetag.com^
 ||mouseflow.com^
 ||mouseflow.de^
@@ -611,6 +614,7 @@
 ||oppomobile.com^
 ||optibet.ee^
 ||oracle.com^
+||orders.speedtest.net^
 ||orders.temp-mail.org^
 ||ourdream.ai^
 ||ourdream.biz^
@@ -821,6 +825,7 @@
 ||trafficjunky.net^
 ||trafficjunky.org^
 ||trafficshop.com^
+||trafokit.com^
 ||trc.taboola.com^
 ||trello.com^
 ||trendyporn.com^
@@ -960,6 +965,7 @@
 ||zizzle.com^
 ||zizzle.updatestar.com^
 ||zlink7.com^
+||zlink8.com^
 ||zoominfo.com^
 ||zopim.com^
 !
@@ -1914,6 +1920,7 @@ $removeparam=yclid
 !
 ||*/rta.*
 ||*/rta3.*
+||*/rta_verified.*
 ||*/rtalabel.*
 !
 ||vxf3db5.cachefly.net/*.mp4$media
@@ -1944,6 +1951,7 @@ $removeparam=yclid
 ##.ad-container
 ##.ad-placeholder
 ##.ad-sdk-pause-overlay.ad-sdk-overlay
+##.ad-unit__label
 ##.adbox
 ##.ads
 ##.advertisement
