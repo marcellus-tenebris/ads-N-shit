@@ -1917,12 +1917,13 @@ $removeparam=yclid
 ||vxf3db5.cachefly.net/*.mp4$media
 ||www.fapnado.com/ads/*$media
 !
-||a.ltrbxd.com/resized/sm/upload/*-crop-fill.*g?k=*$image
+||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-with-patio-47ce20b6.gif$image
 ||f-droid.org/assets/download-fdroid-qr_rt62kUMmGMIMhgDgUUWjYefCQjazGqLRlAZ7WOgSSlg=.png$image
 ||f-droid.org/assets/liberapay_donate_button_GHdOOfmFJNeSXjfjnA-98XtIuEfvE6cNJjHgHOhjdv0=.svg$image
 ||f-droid.org/assets/opencollective_button_iIGF0Hixdj0EaYR3Sd7FRigTVcl7QPGu6kaoBmXHjZI=.png$image
 ||f-droid.org/assets/phone-frame_kEDoOnDDPLnsqH4lVaEun9wfQgM9ivrhk5OiUWWdKHc=.png$image
 ||gstatic.com/youtube/img/promos/$image
+||temp-mail.org/*$image
 ||watchseries.*/assets/img/00833cdc9f0b.webp$image
 !
 @@||gravatar.com^$domain=letterboxd.com
@@ -2052,6 +2053,8 @@ store.kde.org,www.gnome-look.org##.container-wide.footer
 www.apkmirror.com,www.serializd.com##.footer
 !
 codeberg.org###tou-announcement
+f-droid.org##.site-footer
+letterboxd.com##*:not(.avatar *):not(.avatar):not(.attribution *):not(.attribution):style(border-radius: 0 !important)
 letterboxd.com##.film-news.section-margin
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
 mcpelife.com##.app-panel-wrap
