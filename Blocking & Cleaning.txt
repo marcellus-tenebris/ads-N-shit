@@ -685,6 +685,7 @@
 ||rabbitscams.sex^
 ||radware.com^
 ||rambler.ru^
+||realitykings.com^
 ||reasedoper.pw^
 ||redgifs.ai^
 ||redirect.traff.pro^
@@ -703,6 +704,7 @@
 ||rlcdn.com^
 ||robbyporn.com^
 ||rollbar.com^
+||rosetoyofficial-us.com^
 ||rosey.link^
 ||rr.rndomnm.com^
 ||rtx.com^
@@ -1920,6 +1922,7 @@ $removeparam=yclid
 ||youtube.com^$removeparam=ucbcb
 !
 ||*/rta.*
+||*/rta1.*
 ||*/rta3.*
 ||*/rta_verified.*
 ||*/rtalabel.*
