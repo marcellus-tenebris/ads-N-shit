@@ -1,5 +1,2 @@
-# Format
 /*.txt linguist-language=adblock linguist-detectable
-
-# Normalize line endings
 * text=auto eol=lf
