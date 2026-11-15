@@ -302,6 +302,7 @@
 ||discountedporn.com^
 ||discover-tech.io^
 ||disqus.com^
+||donaldjtrump.com^
 ||doppiocdn.com^
 ||doubleclick.net^
 ||doubleverify.com^
@@ -2074,6 +2075,7 @@ ok.ru###hook_Block_AuthLoginAutoOpen
 reddit.com##shreddit-post a[href^="/r/"] img, shreddit-post a[href^="/user/"] img, shreddit-post [slot="credit-bar"] img, shreddit-post [slot="credit-bar"] faceplate-img:style(border-radius: 50% !important)
 reddit.com##shreddit-post, shreddit-post *:style(border-radius: 0 !important)
 reddit.com##span[slot="repost-button"]
+search.brave.com###main > .svelte-jz8lnl
 search.brave.com##*:style(border-radius: 0 !important)
 temp-mail.org##.bottom-seo-text
 temp-mail.org##.goPremiumBtn.goPremium.btn-outline-dark.tm-btn
