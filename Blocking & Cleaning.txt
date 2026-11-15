@@ -93,6 +93,7 @@
 ||afs.googlesyndication.com^
 ||ai.meta.com^
 ||aipac.org^
+||aipure.ai^
 ||airbrake.io^
 ||airtable.com/v0.3/track^
 ||aislut.top^
@@ -126,6 +127,7 @@
 ||api-adservices.apple.com^
 ||api.bigdatacloud.net^
 ||api.segment.io^
+||apk.com^
 ||app-measurement.com^
 ||app.appsflyer.com^
 ||app.liner.com^
@@ -469,6 +471,7 @@
 ||intentiq.com^
 ||inv.lapippa.com^
 ||iovation.com^
+||iphone.apkpure.com^
 ||ironsrc.com^
 ||is.com^
 ||istripper.com^
@@ -503,6 +506,7 @@
 ||labadena.com^
 ||lazybumblebee.com^
 ||lcdn.tsyndicate.com^
+||ldplayer.net^
 ||letsdoeit.com^
 ||lewdsteam.com^
 ||lexisnexis.com^
@@ -774,6 +778,7 @@
 ||startappnetwork.com^
 ||startappservice.com^
 ||statestreet.com^
+||static-proxy.strpst.com^
 ||static-worker.ourdream.ai^
 ||static.airserve.net^
 ||statsig.com^
@@ -978,6 +983,7 @@
 ||.in^
 !
 *$permissions=battery=()
+*$permissions=geolocation=()
 !
 ||shortpixel.ai^$script
 !
@@ -1952,7 +1958,9 @@ $removeparam=yclid
 ###disclaimer_background
 ###geo-flag-wrap
 ##.ad
+##.ad-bottom-holder.ad-zone
 ##.ad-container
+##.ad-ingrid-holder.ad-zone
 ##.ad-placeholder
 ##.ad-sdk-pause-overlay.ad-sdk-overlay
 ##.ad-unit__label
@@ -1977,9 +1985,11 @@ $removeparam=yclid
 ##.cookie-banner
 ##.cookie-consent
 ##.cookie-notice
+##.discord-widget-content
 ##.discount-popup
 ##.download-btn
 ##.download-overlay
+##.download-vip-subscribe
 ##.exit-intent
 ##.fade_in.text_link_holder
 ##.fake-play
@@ -2020,6 +2030,7 @@ $removeparam=yclid
 ##.promotion
 ##.push-notification-prompt
 ##.shown.player-top-line
+##.social
 ##.social-share-popup
 ##.sponsor__info
 ##.sponsored
