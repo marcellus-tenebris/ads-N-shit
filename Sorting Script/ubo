@@ -1,0 +1,57 @@
+#!/bin/bash
+
+file=~/Personal/"uBlock Origin"/ubo.txt
+
+LC_ALL=C awk '
+function flush(    cmd) {
+    if (buf != "") {
+        cmd = "LC_ALL=C sort -u"
+        printf "%s", buf | cmd
+        close(cmd)
+    }
+    buf = ""
+}
+function sortlist(s, sep,    n, a, i, j, t, out, prev) {
+    n = split(s, a, sep)
+    for (i = 2; i <= n; i++) {
+        t = a[i]
+        for (j = i - 1; j >= 1 && a[j] > t; j--) a[j+1] = a[j]
+        a[j+1] = t
+    }
+    out = ""
+    prev = ""
+    for (i = 1; i <= n; i++) {
+        if (a[i] != "" && a[i] != prev) out = out (out == "" ? "" : sep) a[i]
+        prev = a[i]
+    }
+    return out
+}
+function sortopts(line,    out, m, eq) {
+    if (line ~ /#@?[$%?]?#/) return line
+    out = ""
+    while (match(line, /[$,](domain|from)=[^,]*/)) {
+        m = substr(line, RSTART, RLENGTH)
+        eq = index(m, "=")
+        out = out substr(line, 1, RSTART - 1) substr(m, 1, eq) sortlist(substr(m, eq + 1), "|")
+        line = substr(line, RSTART + RLENGTH)
+    }
+    return out line
+}
+{
+    if ($0 ~ /^!/) {
+        flush()
+        print
+    } else if ($0 != "") {
+        line = $0
+        if (match(line, /#@?[$%?]?#/) && RSTART > 1) {
+            pre = substr(line, 1, RSTART - 1)
+            if (pre !~ /[ \/|$]/) line = sortlist(pre, ",") substr(line, RSTART)
+        }
+        line = sortopts(line)
+        buf = buf line "\n"
+    }
+}
+END {
+    flush()
+}
+' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
