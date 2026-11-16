@@ -278,6 +278,7 @@
 ||copilot.microsoft.com^
 ||core.dreamserve.dev^
 ||coreforgegame.online^
+||couplescinema.com^
 ||cpg-cdn.com^
 ||crazyegg.com^
 ||createaiasian.com^
@@ -463,6 +464,7 @@
 ||indexexchange.com^
 ||inflection.ai^
 ||ingest.sentry.io^
+||inglezi.com^
 ||inner-active.com^
 ||inneractive.com^
 ||innovid.com^
@@ -717,6 +719,7 @@
 ||s.imdb.com/ref=*
 ||s.pemsrv.com^
 ||s.zline0.com^
+||s1q2105.com^
 ||samsami.online^
 ||savedvids.com^
 ||sber.ru^
@@ -1927,6 +1930,7 @@ $removeparam=yclid
 ||youtube.com^$removeparam=si
 ||youtube.com^$removeparam=ucbcb
 !
+||*/rta-dark.*
 ||*/rta.*
 ||*/rta1.*
 ||*/rta3.*
@@ -1944,6 +1948,8 @@ $removeparam=yclid
 ||f-droid.org/assets/opencollective_button_iIGF0Hixdj0EaYR3Sd7FRigTVcl7QPGu6kaoBmXHjZI=.png$image
 ||f-droid.org/assets/phone-frame_kEDoOnDDPLnsqH4lVaEun9wfQgM9ivrhk5OiUWWdKHc=.png$image
 ||gstatic.com/youtube/img/promos/$image
+||static.xhpingcdn.com/*/flags/*$image
+||static.xhpingcdn.com/*/flags/*.svg$image
 ||temp-mail.org/*$image
 ||watchseries.*/assets/img/00833cdc9f0b.webp$image
 !
@@ -2059,6 +2065,7 @@ $removeparam=yclid
 ##[href^="https://faphouse.com"]
 ##[href^="https://fhgte.com/tour"]
 ##[href^="https://landing.candynetwork.ai/elara"]
+##[href^="https://spicy-box.com/"]
 ##[href^="https://www.cmonbae.com/"]
 ##[href^="https://www.tckcandy.com/"]
 ##app-age-verification
