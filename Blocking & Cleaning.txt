@@ -324,6 +324,7 @@
 ||engine.trialhd.com^
 ||engine.trialhd^
 ||epornercams.com^
+||erikalust.com^
 ||erofights.com^
 ||es.faperoni.chat^
 ||escortsites.org^
@@ -943,6 +944,7 @@
 ||x.bidswitch.net^
 ||xalivexo.com^
 ||xandr.com^
+||xconfessions.com^
 ||xenalive.me^
 ||xhamsterlive.com^
 ||xhcdn.com^
@@ -2048,6 +2050,7 @@ $removeparam=yclid
 ##.survey-popup
 ##.table
 ##.tracking-consent-popup
+##.v2-pause-ad-open
 ##.video-archive-ad
 ##.video-overlay
 ##[href="/cams/"]
