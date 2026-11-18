@@ -92,6 +92,9 @@
 ||affluent.io^
 ||afs.googlesyndication.com^
 ||ai.meta.com^
+||aiangels.io^
+||aigirl.one^
+||ainudegirls.com^
 ||aipac.org^
 ||aipure.ai^
 ||airbrake.io^
@@ -312,6 +315,7 @@
 ||downloadkeeper.com^
 ||downloadrr.com^
 ||dpnode.online^
+||dreamyshorts.com^
 ||dscgirls.live^
 ||dudeai.click^
 ||dune.com/api/analytics^
@@ -377,6 +381,7 @@
 ||freecamgirl.net^
 ||freehdcams.xxx^
 ||freehentaistream.com^
+||fuckd.ai^
 ||fucker.chat^
 ||fucklocal.com^
 ||fullstory.com^
@@ -429,10 +434,12 @@
 ||go.xxx-tracker.com^
 ||gold73.gaya-sa.org^
 ||goldmansachs.com^
+||goloveai.com^
 ||golovehub.com^
 ||goodle.com^
 ||googleads.g.doubleclick.net^
 ||googlesyndication.com^
+||gptgirlfriend.online^
 ||graph.facebook.com^
 ||gravatar.com^
 ||growcdnssedge.com^
@@ -496,6 +503,7 @@
 ||juicyads.com^
 ||juicyads.me^
 ||juneworewyjyna.com^
+||justaisha.com^
 ||justservingfiles.net^
 ||jwplatform.com/analytics^
 ||kctag.net^
@@ -676,6 +684,7 @@
 ||primis.tech^
 ||privatehost.com^
 ||prizeunlock.top^
+||promptchan.com^
 ||propellerads.com^
 ||propellerclick.com^
 ||psee.ly^
@@ -768,6 +777,7 @@
 ||sovrn.com^
 ||spicy-box.com^
 ||splcenter.org^
+||spmates.com^
 ||spotx.tv^
 ||springserve.com^
 ||st-n.ads1-adnow.com^
@@ -795,6 +805,7 @@
 ||subwaysurfersapkworld.com^
 ||sugarlab.ai^
 ||supercent.io^
+||supernova.to^
 ||swapperai.com^
 ||swissadserver.ch^
 ||syndication.exoclick.com^
@@ -874,6 +885,7 @@
 ||undress.live^
 ||undress.org^
 ||undressai.tools^
+||undressherapp.org^
 ||undressme.ai^
 ||unity.com^
 ||unity3d.com^
@@ -889,6 +901,7 @@
 ||vdads2019.com^
 ||vdo2pk.com^
 ||vdohd.com^
+||velvetcompanionai.com^
 ||vercel-insights.com^
 ||verint.com^
 ||viber.com^
@@ -984,6 +997,7 @@
 !
 ||.ac^
 ||.ar^
+||.icu^
 ||.il^
 ||.in^
 !
