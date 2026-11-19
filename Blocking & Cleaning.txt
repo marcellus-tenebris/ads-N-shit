@@ -127,6 +127,7 @@
 ||analytics.twitter.com^
 ||analytics.yahoo.com^
 ||anthropic.com/crawlers^
+||antisemitism.org^
 ||api-adservices.apple.com^
 ||api.bigdatacloud.net^
 ||api.segment.io^
@@ -376,6 +377,7 @@
 ||flurry.com^
 ||fonts.googleapis.com^
 ||forbusiness.snapchat.com^
+||forter.com^
 ||fp.clarity.ms^
 ||freecamgirl.com^
 ||freecamgirl.net^
@@ -457,6 +459,7 @@
 ||hh-yin.pages.dev^
 ||hilltopads.net^
 ||holed.com^
+||holocaustremembrance.com^
 ||homelivesex.com^
 ||honeypot.com^
 ||hot-local-babes.com^
@@ -618,6 +621,7 @@
 ||nsogroup.com^
 ||nudata.com^
 ||nudatasecurity.com^
+||nudex.top^
 ||nudify.now^
 ||nurumassage.com^
 ||nxtfiledrop.com^
@@ -826,6 +830,7 @@
 ||telemetry.mozilla.org^
 ||thealphaboost.com^
 ||thegay.com^
+||thejc.com^
 ||thepaug.com^
 ||thesexiercams.com^
 ||thetradedesk.com^
@@ -833,6 +838,7 @@
 ||thickcash.com^
 ||threatmetrix.com^
 ||thumb-ah.flixcdn.com^
+||timhortons.com^
 ||toboads.com^
 ||tokiapp.net^
 ||tophqcam.com^
@@ -1951,6 +1957,7 @@ $removeparam=yclid
 ||*/rta.*
 ||*/rta1.*
 ||*/rta3.*
+||*/rta_normal.*
 ||*/rta_verified.*
 ||*/rtalabel.*
 !
