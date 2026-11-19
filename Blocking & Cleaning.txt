@@ -970,6 +970,7 @@
 ||xhcdn.com^
 ||xiaomi.com^
 ||xliiirdr.com^
+||xlovecam.com^
 ||xmodeai-asian.com^
 ||xn--42c6ac5cyaw4e1e.net^
 ||xo.show^
@@ -1961,6 +1962,8 @@ $removeparam=yclid
 ||*/rta_verified.*
 ||*/rtalabel.*
 !
+||juicyvid.com/ads/*.$subdocument
+!
 ||vxf3db5.cachefly.net/*.mp4$media
 ||www.fapnado.com/ads/*$media
 !
@@ -1975,6 +1978,8 @@ $removeparam=yclid
 ||static.xhpingcdn.com/*/flags/*$image
 ||static.xhpingcdn.com/*/flags/*.svg$image
 ||temp-mail.org/*$image
+||wallpaperaccess.com/ig.png$image
+||wallpaperaccess.com/tw.png$image
 ||watchseries.*/assets/img/00833cdc9f0b.webp$image
 !
 @@||gravatar.com^$domain=letterboxd.com
@@ -2063,6 +2068,7 @@ $removeparam=yclid
 ##.shown.player-top-line
 ##.social
 ##.social-share-popup
+##.sp-bottom
 ##.sponsor__info
 ##.sponsored
 ##.spot-live-cam.thumb
@@ -2075,6 +2081,7 @@ $removeparam=yclid
 ##.tracking-consent-popup
 ##.v2-pause-ad-open
 ##.video-archive-ad
+##.video-holder > .sponsor
 ##.video-overlay
 ##[href="/cams/"]
 ##[href="https://go.aawdlvr.com/"]
