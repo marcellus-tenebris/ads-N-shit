@@ -156,6 +156,7 @@
 ||auction.unityads.unity3d.com^
 ||avantlink.com^
 ||avrevenue.com^
+||awdeliverynet.com^
 ||awempire.com^
 ||awin1.com^
 ||ayhaidwao.com^
@@ -333,6 +334,7 @@
 ||erofights.com^
 ||es.faperoni.chat^
 ||escortsites.org^
+||eunow4u.com^
 ||everesttech.net^
 ||exacttarget.com^
 ||exelate.com^
@@ -441,6 +443,7 @@
 ||goodle.com^
 ||googleads.g.doubleclick.net^
 ||googlesyndication.com^
+||googleusercontent.com^
 ||gptgirlfriend.online^
 ||graph.facebook.com^
 ||gravatar.com^
@@ -451,9 +454,11 @@
 ||gunsofglorygame.com^
 ||hagezi.com^
 ||happyleafmotion.com^
+||hashcounts.com^
 ||heap.io^
 ||heapanalytics.com^
 ||heatedaffairs.com^
+||herag.net^
 ||hersolution.com^
 ||hersolutiongel.com^
 ||hh-yin.pages.dev^
@@ -505,6 +510,7 @@
 ||jsdelivr.net^
 ||jsecoin.com^
 ||juicyads.com^
+||juicyads.in^
 ||juicyads.me^
 ||juneworewyjyna.com^
 ||justaisha.com^
@@ -762,6 +768,7 @@
 ||shemale-ai.com^
 ||shemalez.com^
 ||shesfreakylive.com^
+||shortpixel.ai^
 ||sider.ai^
 ||sider.com^
 ||sider.live^
@@ -772,6 +779,7 @@
 ||sizmek.com^
 ||skimlinks.com^
 ||slack.com/beacon^
+||sloppy67.com^
 ||smartadserver.com^
 ||smartfloralab.com^
 ||smartlook.cloud^
@@ -1011,8 +1019,6 @@
 !
 *$permissions=battery=()
 *$permissions=geolocation=()
-!
-||shortpixel.ai^$script
 !
 ||google-analytics.com/collect$important,third-party
 !
@@ -1982,6 +1988,7 @@ $removeparam=yclid
 ||wallpaperaccess.com/tw.png$image
 ||watchseries.*/assets/img/00833cdc9f0b.webp$image
 !
+@@||googleusercontent.com^$domain=youtube.com
 @@||gravatar.com^$domain=letterboxd.com
 !
 ###ad_popup
@@ -2100,6 +2107,7 @@ $removeparam=yclid
 ##[href^="https://landing.candynetwork.ai/elara"]
 ##[href^="https://spicy-box.com/"]
 ##[href^="https://www.cmonbae.com/"]
+##[href^="https://www.playbox.com/"]
 ##[href^="https://www.tckcandy.com/"]
 ##app-age-verification
 ##div#status-bubble
@@ -2144,6 +2152,7 @@ www.apkmirror.com##div.p-relative.listWidget:nth-of-type(6)
 www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
 www.aznude.com##.native-footer-mobile
 www.threads.com##.xzkaem6.x1n2onr6.__fb-light-mode
+x.com##.r-12vffkv.r-13awgt0.css-g5y9jx > .r-ipm5af.r-u8s1d.r-1d2f490.r-zchlnj
 youtube.com###movie_player > div:nth-child(8) > div:nth-child(2)
 youtube.com###owner > div:nth-child(2)
 youtube.com###sponsor-button
