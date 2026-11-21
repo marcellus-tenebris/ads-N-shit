@@ -246,6 +246,7 @@
 ||celebricunt.com^
 ||celebrityzoom.com^
 ||cellebrite.com^
+||cendrava.site^
 ||cgatgpt.com^
 ||chamet.com^
 ||chantacam.com^
@@ -413,6 +414,7 @@
 ||gemini.media^
 ||genesisporn.net^
 ||get.adobe.com^
+||getadblock.com^
 ||getriffri.com^
 ||ggptnetwork.com^
 ||ggtrk.ai^
@@ -516,6 +518,7 @@
 ||justaisha.com^
 ||justservingfiles.net^
 ||jwplatform.com/analytics^
+||katybigcherry.com^
 ||kctag.net^
 ||kickoffo.site^
 ||kink.com^
@@ -630,6 +633,7 @@
 ||nudex.top^
 ||nudify.now^
 ||nurumassage.com^
+||nxtbucks.com^
 ||nxtfiledrop.com^
 ||okporn.xxx^
 ||olecams.com^
@@ -743,6 +747,7 @@
 ||s1q2105.com^
 ||samsami.online^
 ||savedvids.com^
+||savina_oficial.com^
 ||sber.ru^
 ||sberbank.ru^
 ||sbrf.ru^
@@ -761,6 +766,7 @@
 ||sexcamgold.com^
 ||sexflirtbox.com^
 ||sexvr.com^
+||sexyhub.com^
 ||shag.co.uk^
 ||shag.co^
 ||shag.com^
@@ -976,6 +982,7 @@
 ||xenalive.me^
 ||xhamsterlive.com^
 ||xhcdn.com^
+||xhubtraffic^
 ||xiaomi.com^
 ||xliiirdr.com^
 ||xlovecam.com^
@@ -1960,13 +1967,9 @@ $removeparam=yclid
 ||youtube.com^$removeparam=si
 ||youtube.com^$removeparam=ucbcb
 !
-||*/rta-dark.*
-||*/rta.*
-||*/rta1.*
-||*/rta3.*
-||*/rta_normal.*
-||*/rta_verified.*
+||*/pornlynx-icon.*
 ||*/rtalabel.*
+||*rta*.*
 !
 ||juicyvid.com/ads/*.$subdocument
 !
@@ -2057,9 +2060,11 @@ $removeparam=yclid
 ##.install-app-banner
 ##.jw-custom-btn.jw-related-toggle-button
 ##.jw-reset-text.jw-title
+##.left-nav-sponsor
 ##.lightbox
 ##.location-request
 ##.mobile-app-banner
+##.more-porn-links-menu
 ##.mt-ad-footer_global.mt-ad-slot
 ##.newsletter-popup
 ##.nopop.jw-hardlink-btn.jw-custom-btn
@@ -2100,6 +2105,7 @@ $removeparam=yclid
 ##[href="https://whatslove.ai/"]
 ##[href="https://www.comatozze.com/"]
 ##[href="https://www.ourdreamersai16.com/81D5R3H/3QQG7/"]
+##[href="https://www.pornlynx.com"]
 ##[href="https://www.vividdreamsai.com/"]
 ##[href^="https://candyai.gg"]
 ##[href^="https://du.maxmix.ai"]
