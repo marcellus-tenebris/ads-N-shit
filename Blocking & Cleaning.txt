@@ -669,6 +669,7 @@
 ||players.brightcove.net/analytics^
 ||playflux.ai^
 ||playhubconnect.com^
+||plbgfcn.shop^
 ||pnonolet.com^
 ||po.st^
 ||popads.net^
