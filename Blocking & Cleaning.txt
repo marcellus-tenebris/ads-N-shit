@@ -1976,6 +1976,7 @@ $removeparam=yclid
 ||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-with-patio-47ce20b6.gif$image
 ||aznude.com/*.ico$image
 ||azrating.com/*.gif$image
+||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-bottom-dark.n8eIvPwY.svg$image
 ||f-droid.org/assets/download-fdroid-qr_rt62kUMmGMIMhgDgUUWjYefCQjazGqLRlAZ7WOgSSlg=.png$image
 ||f-droid.org/assets/liberapay_donate_button_GHdOOfmFJNeSXjfjnA-98XtIuEfvE6cNJjHgHOhjdv0=.svg$image
 ||f-droid.org/assets/opencollective_button_iIGF0Hixdj0EaYR3Sd7FRigTVcl7QPGu6kaoBmXHjZI=.png$image
@@ -1990,6 +1991,7 @@ $removeparam=yclid
 !
 @@||googleusercontent.com^$domain=youtube.com
 @@||gravatar.com^$domain=letterboxd.com
+@@||jsdelivr.net^$domain=fawesome.tv
 !
 ###ad_popup
 ###adinhead
