@@ -214,6 +214,7 @@
 ||business.x.com^
 ||buyextenze.com^
 ||bxcdn.net^
+||c4cgmn8trk.com^
 ||cam4.porn^
 ||cambash.com^
 ||cambb.xxx^
@@ -297,6 +298,7 @@
 ||cryptoloot.pro^
 ||ctosrd.com^
 ||cum4k.com^
+||cumcoming.com^
 ||cumeroplay.com^
 ||cuteboyfriend.top^
 ||datalogix.com^
@@ -424,6 +426,8 @@
 ||ggtrk.net^
 ||ggtrk.online^
 ||ggtrk.org^
+||girlawy.com^
+||glazingretentionupcoming.com^
 ||go.ggtrk.com^
 ||go.gsrv.co^
 ||go.gsrv.com^
@@ -602,6 +606,7 @@
 ||mydreamcompanion.com^
 ||myeroblog.com^
 ||myheritage.com^
+||mylfdom.com^
 ||n2j9y0x0.bxcdn.net^
 ||naswup.com^
 ||nativo.com^
@@ -652,6 +657,7 @@
 ||ourdreamersai16.com^
 ||outbrain.com^
 ||paddle.com^
+||padresprotegen.com^
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
 ||palantir.com^
@@ -839,6 +845,7 @@
 ||teads.tv^
 ||teamskeet.com^
 ||teamskeet2.com^
+||techpump.com^
 ||techs4arab.com^
 ||telegram.com^
 ||telemetry.dropbox.com^
@@ -874,6 +881,7 @@
 ||trc.taboola.com^
 ||trello.com^
 ||trendyporn.com^
+||trfpump.com^
 ||trialhd.com^
 ||triplelift.com^
 ||trk.cash^
@@ -920,6 +928,7 @@
 ||userstyles.org^
 ||uvpn.ai^
 ||vanguard.com^
+||vcmdiawe.com^
 ||vdads2019.com^
 ||vdo2pk.com^
 ||vdohd.com^
@@ -994,6 +1003,7 @@
 ||xujangram.com^
 ||xxx-tracker.com^
 ||yaahlan.fun^
+||yapacams.com^
 ||yastatic.net^
 ||ybbp.us^
 ||yieldmo.com^
@@ -2167,6 +2177,7 @@ www.apkmirror.com##div.p-relative.listWidget:nth-of-type(7)
 www.aznude.com##.native-footer-mobile
 www.threads.com##.xzkaem6.x1n2onr6.__fb-light-mode
 x.com##.r-12vffkv.r-13awgt0.css-g5y9jx > .r-ipm5af.r-u8s1d.r-1d2f490.r-zchlnj
+x.com##.r-13qz1uu.r-18jm5s1.r-axxi2z.r-dkhcqf.r-u8s1d.r-633pao.css-g5y9jx
 youtube.com###movie_player > div:nth-child(8) > div:nth-child(2)
 youtube.com###owner > div:nth-child(2)
 youtube.com###sponsor-button
