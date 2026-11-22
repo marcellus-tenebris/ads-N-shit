@@ -244,6 +244,7 @@
 ||cdn.storagexhd.com
 ||cdn.twinrdengine.com^
 ||cdn77.com/analytics^
+||celebjihad.live^
 ||celebricunt.com^
 ||celebrityzoom.com^
 ||cellebrite.com^
@@ -1021,6 +1022,7 @@
 ||zendesk.com^
 ||zeotap.com^
 ||zergnet.com^
+||zilla.cash^
 ||zionads.com^
 ||zizzle.com^
 ||zizzle.updatestar.com^
