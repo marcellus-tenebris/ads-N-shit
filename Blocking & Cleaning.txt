@@ -18,6 +18,7 @@
 ||abcam.tv^
 ||abgay.com^
 ||about.google^
+||aboutwayfair.com^
 ||accountkit.com^
 ||accounts.google.com^
 ||acquiredeceasedundress.com^
@@ -364,6 +365,7 @@
 ||fbi.gov^
 ||fetishes.cam^
 ||fetlife.com^
+||fi.google.com^
 ||fidf.mylegacygift.org^
 ||fidf.org^
 ||figma.com/api/analytics^
@@ -580,6 +582,7 @@
 ||media.net^
 ||medialab.la^
 ||mediamath.com^
+||mega-traffic.com^
 ||mencelebrities.com^
 ||meta.ai^
 ||meta.com/facebookbot^
@@ -607,6 +610,7 @@
 ||mydreamcompanion.com^
 ||myeroblog.com^
 ||myheritage.com^
+||mylf.com^
 ||mylfdom.com^
 ||n2j9y0x0.bxcdn.net^
 ||naswup.com^
@@ -671,6 +675,7 @@
 ||pixel.facebook.com^
 ||pixel.tiktok.com^
 ||pixel.wp.com^
+||play.google.com^
 ||playbox.com^
 ||playbun.com^
 ||players.brightcove.net/analytics^
@@ -700,6 +705,7 @@
 ||posthog.com^
 ||potpourrichordataoscilloscope.com^
 ||powered-by-creatortraffic.com^
+||premiummod.com^
 ||primepropertynow.com^
 ||primis.com^
 ||primis.io^
@@ -894,7 +900,6 @@
 ||trustarc.com^
 ||trwl1.com^
 ||tsthots.com^
-||tsyndicate.com^
 ||tubetraffic.com^
 ||tugpass.com^
 ||tune.com^
@@ -963,6 +968,8 @@
 ||wandb.ai^
 ||watch4beauty.com^
 ||watson.telemetry.microsoft.com^
+||wayfair.co^
+||wayfair.com^
 ||wd.adcolony.com^
 ||weather-analytics-events.apple.com^
 ||webminepool.com^
@@ -986,6 +993,7 @@
 ||wixnm.com^
 ||woopra.com^
 ||woowebtools.com^
+||workspace.google.com^
 ||x.bidswitch.net^
 ||xalivexo.com^
 ||xandr.com^
@@ -1998,7 +2006,9 @@ $removeparam=yclid
 ||f-droid.org/assets/liberapay_donate_button_GHdOOfmFJNeSXjfjnA-98XtIuEfvE6cNJjHgHOhjdv0=.svg$image
 ||f-droid.org/assets/opencollective_button_iIGF0Hixdj0EaYR3Sd7FRigTVcl7QPGu6kaoBmXHjZI=.png$image
 ||f-droid.org/assets/phone-frame_kEDoOnDDPLnsqH4lVaEun9wfQgM9ivrhk5OiUWWdKHc=.png$image
+||fapello.com/assets/images/welcomebar*.png$image
 ||gstatic.com/youtube/img/promos/$image
+||i.bgicdn.com/live/*$image
 ||serializd.com/images/*.svg$image
 ||static.xhpingcdn.com/*/flags/*$image
 ||temp-mail.org/*$image
