@@ -3,17 +3,6 @@
 ! License: https://github.com/marcellus-tenebris/ads-N-shit/blob/main/LICENSE
 ! Expires: 2 hour
 !
-||belacash.net^
-||ayhaidwao.com^
-||yastatic.net^
-||cleantalk.org^
-||pervarchive.com^
-||candyai.gg^
-||teamskeet.com^
-||camsconnect.dev^
-||virtualcrush.com^
-||fapnow.live^
-||cammodels.site^
 ||1000fapvids.com^
 ||11oysters.com^
 ||4dsply.com^
@@ -234,6 +223,7 @@
 ||cammodels.site^
 ||campfirecroutondecorator.com^
 ||cams.bdsmstreak.com^
+||camsconnect.dev^
 ||camsexfree.net^
 ||camsoda.ai^
 ||camsoda.com^
@@ -275,6 +265,7 @@
 ||chromestore.us
 ||cia.gov^
 ||cj.com^
+||cleantalk.org^
 ||clearbit.com^
 ||clearbit.io^
 ||clearview.ai^
@@ -368,6 +359,7 @@
 ||faphouse1.com^
 ||faphouse4k.com^
 ||fapify.com^
+||fapnow.live^
 ||fasel-hd.com^
 ||fasr.com^
 ||fauxporn.com^
@@ -680,6 +672,7 @@
 ||pcupdater.pro^
 ||pemsrv.com^
 ||perplexitybot.com^
+||pervarchive.com^
 ||phallomax.com^
 ||ping.chartbeat.net^
 ||pixel.facebook.com^
@@ -959,6 +952,7 @@
 ||viiukuhe.com^
 ||vimeo.com/stats^
 ||vionservices.com^
+||virtualcrush.com^
 ||visualwebsiteoptimizer.com^
 ||vitals.vercel-insights.com^
 ||vivid.com^
