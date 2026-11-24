@@ -1997,11 +1997,13 @@ $removeparam=yclid
 !
 ||vxf3db5.cachefly.net/*.mp4$media
 ||www.fapnado.com/ads/*$media
+||x-x-x.tube/*/spicy-box.*$media
 !
 ||assets.tumblr.com/pop/src/assets/images/house-rightrail-premium-with-patio-47ce20b6.gif$image
 ||aznude.com/*.ico$image
 ||azrating.com/*.gif$image
 ||cdn.search.brave.com/serp/v3/_app/immutable/assets/waves-bg-bottom-dark.n8eIvPwY.svg$image
+||cdn77.pornoxo.com/pxo/www/img/fpbg/bg2.webp$image
 ||f-droid.org/assets/download-fdroid-qr_rt62kUMmGMIMhgDgUUWjYefCQjazGqLRlAZ7WOgSSlg=.png$image
 ||f-droid.org/assets/liberapay_donate_button_GHdOOfmFJNeSXjfjnA-98XtIuEfvE6cNJjHgHOhjdv0=.svg$image
 ||f-droid.org/assets/opencollective_button_iIGF0Hixdj0EaYR3Sd7FRigTVcl7QPGu6kaoBmXHjZI=.png$image
@@ -2015,6 +2017,7 @@ $removeparam=yclid
 ||wallpaperaccess.com/ig.png$image
 ||wallpaperaccess.com/tw.png$image
 ||watchseries.*/assets/img/00833cdc9f0b.webp$image
+||xmissy.nl/*/adfiles/*$image
 !
 @@||.ai^$domain=claude.ai
 @@||googleusercontent.com^$domain=youtube.com
@@ -2168,9 +2171,7 @@ letterboxd.com##.film-news.section-margin
 letterboxd.com##.js-hide-in-app.js-page-footer.page-footer
 mcpelife.com##.app-panel-wrap
 ok.ru###hook_Block_AuthLoginAutoOpen
-reddit.com##shreddit-post a[href^="/r/"] img, shreddit-post a[href^="/user/"] img, shreddit-post [slot="credit-bar"] img, shreddit-post [slot="credit-bar"] faceplate-img:style(border-radius: 50% !important)
-reddit.com##shreddit-post, shreddit-post *:style(border-radius: 0 !important)
-reddit.com##span[slot="repost-button"]
+reddit.com##*:style(border-radius: 0 !important)
 search.brave.com###main > .svelte-jz8lnl
 search.brave.com##*:style(border-radius: 0 !important)
 serializd.com##.r-13qz1uu.r-3pj75a.r-w7s2jr.r-11c0sde.r-1peese0.r-15pk7w6.r-1dzdj1l.r-bnwqim.r-1udh08x.css-g5y9jx
