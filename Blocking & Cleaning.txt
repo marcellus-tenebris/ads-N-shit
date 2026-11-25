@@ -3,6 +3,9 @@
 ! License: https://github.com/marcellus-tenebris/ads-N-shit/blob/main/LICENSE
 ! Expires: 2 hour
 !
+||bang.com^
+||camsoda.webcam^
+||rule34gen.com^
 ||1000fapvids.com^
 ||11oysters.com^
 ||4dsply.com^
@@ -10,7 +13,6 @@
 ||6sense.com^
 ||7lha.com^
 ||ab-tasty.com^
-||abcam.ai^
 ||abcam.co^
 ||abcam.com^
 ||abcam.io^
@@ -98,7 +100,7 @@
 ||aipac.org^
 ||aipure.ai^
 ||airbrake.io^
-||airtable.com/v0.3/track^
+||airtable.com^
 ||aislut.top^
 ||aistudio.facebook.com^
 ||aistudio.instagram.com^
@@ -216,7 +218,6 @@
 ||bxcdn.net^
 ||c4cgmn8trk.com^
 ||cam4.porn^
-||cambash.com^
 ||cambb.xxx^
 ||camgirlsreal.com^
 ||camjke.com^
@@ -228,12 +229,8 @@
 ||camsoda.ai^
 ||camsoda.com^
 ||candiru.com^
-||candy.ai^
-||candyai.ai^
 ||candyai.com^
-||candyai.gg^
 ||candyai.love^
-||candynetwork.ai^
 ||canva.com/api/analytics^
 ||casalemedia.com^
 ||ccbot.org^
@@ -241,7 +238,6 @@
 ||cdn.amplifo^
 ||cdn.bakestubborn.com^
 ||cdn.havenclick.com^
-||cdn.pornhaven.ai^
 ||cdn.storagexhd.com
 ||cdn.twinrdengine.com^
 ||cdn77.com/analytics^
@@ -268,7 +264,6 @@
 ||cleantalk.org^
 ||clearbit.com^
 ||clearbit.io^
-||clearview.ai^
 ||click-on-this-now.online^
 ||clicky.com^
 ||clientjs.io^
@@ -296,7 +291,6 @@
 ||createaishemale.com^
 ||creepjs.com^
 ||criteo.com^
-||crushon.ai^
 ||crxmouse.com^
 ||cryptoloot.pro^
 ||ctosrd.com^
@@ -393,7 +387,6 @@
 ||freecamgirl.net^
 ||freehdcams.xxx^
 ||freehentaistream.com^
-||fuckd.ai^
 ||fucker.chat^
 ||fucklocal.com^
 ||fullstory.com^
@@ -401,7 +394,6 @@
 ||futuretodayinc.com^
 ||fxpro.com^
 ||fyber.com^
-||fynna.ai^
 ||g2fame.com^
 ||gadlt.nl^
 ||gamcore.com^
@@ -424,7 +416,6 @@
 ||getadblock.com^
 ||getriffri.com^
 ||ggptnetwork.com^
-||ggtrk.ai^
 ||ggtrk.co^
 ||ggtrk.com^
 ||ggtrk.dev^
@@ -489,7 +480,6 @@
 ||imprezzer.com^
 ||improvedigital.com^
 ||indexexchange.com^
-||inflection.ai^
 ||ingest.sentry.io^
 ||inglezi.com^
 ||inner-active.com^
@@ -565,28 +555,24 @@
 ||mail.ru^
 ||mailchimp.com/track^
 ||main.exoclick.com^
-||makeherporn.ai^
 ||malaktube.online^
 ||mandrillapp.com/track^
 ||maskify-ai-video-effects.en.softonic.com^
 ||maskify.com^
 ||mathtag.com^
 ||mavrtracktor.com^
-||maxai.ai^
 ||maxai.app^
 ||maxai.co^
 ||maxai.com^
 ||maxai.live^
 ||maxai.net^
 ||maxai.org^
-||maxmix.ai^
 ||mbaretimes.com^
 ||media.net^
 ||medialab.la^
 ||mediamath.com^
 ||mega-traffic.com^
 ||mencelebrities.com^
-||meta.ai^
 ||meta.com/facebookbot^
 ||meta.com^
 ||metetes.com^
@@ -607,7 +593,6 @@
 ||monetag.com^
 ||mouseflow.com^
 ||mouseflow.de^
-||musebox.ai^
 ||my.com^
 ||mydreamcompanion.com^
 ||myeroblog.com^
@@ -682,7 +667,6 @@
 ||playbox.com^
 ||playbun.com^
 ||players.brightcove.net/analytics^
-||playflux.ai^
 ||playhubconnect.com^
 ||plbgfcn.shop^
 ||pnonolet.com^
@@ -700,7 +684,6 @@
 ||porngames.tv^
 ||pornhubapparel.com^
 ||pornlynx.com^
-||pornmaker.ai^
 ||pornmate.com^
 ||pornnetworkdeals.com^
 ||pornworksai.com^
@@ -790,8 +773,6 @@
 ||shemale-ai.com^
 ||shemalez.com^
 ||shesfreakylive.com^
-||shortpixel.ai^
-||sider.ai^
 ||sider.com^
 ||sider.live^
 ||sider.net^
@@ -803,7 +784,6 @@
 ||slack.com/beacon^
 ||sloppy67.com^
 ||smartadserver.com^
-||smartfloralab.com^
 ||smartlook.cloud^
 ||snailscrambledcontrivance.com^
 ||snowplowanalytics.com^
@@ -828,7 +808,6 @@
 ||startappservice.com^
 ||statestreet.com^
 ||static-proxy.strpst.com^
-||static-worker.ourdream.ai^
 ||static.airserve.net^
 ||statsig.com^
 ||statsigapi.net^
@@ -838,7 +817,6 @@
 ||stripchat.com^
 ||stuffserve.me^
 ||subwaysurfersapkworld.com^
-||sugarlab.ai^
 ||supercent.io^
 ||supernova.to^
 ||swapperai.com^
@@ -847,7 +825,6 @@
 ||taboola.com^
 ||tags.bluekai.com^
 ||talkie-ai.com^
-||tango.ai^
 ||tango.me^
 ||tapad.com^
 ||tckcandy.com^
@@ -886,7 +863,6 @@
 ||trafficjunky.net^
 ||trafficjunky.org^
 ||trafficshop.com^
-||trafokit.com^
 ||trc.taboola.com^
 ||trello.com^
 ||trendyporn.com^
@@ -924,7 +900,6 @@
 ||undress.org^
 ||undressai.tools^
 ||undressherapp.org^
-||undressme.ai^
 ||unity.com^
 ||unity3d.com^
 ||updatestar.com^
@@ -934,7 +909,6 @@
 ||usermaven.com^
 ||userpilot.io^
 ||userstyles.org^
-||uvpn.ai^
 ||vanguard.com^
 ||vcmdiawe.com^
 ||vdads2019.com^
@@ -968,7 +942,6 @@
 ||vxf3db5.cachefly.net^
 ||waelgames.com^
 ||walkme.com^
-||wandb.ai^
 ||watch4beauty.com^
 ||watson.telemetry.microsoft.com^
 ||wayfair.co^
@@ -979,7 +952,6 @@
 ||webview.unityads.unity3d.com^
 ||webz.io^
 ||weights.gg^
-||wetab.ai^
 ||wetab.co^
 ||wetab.com^
 ||wetab.link^
@@ -988,7 +960,6 @@
 ||wetab.org^
 ||whatfix.com^
 ||whatruns.com^
-||whatslove.ai^
 ||wicked.com^
 ||widgets.outbrain.com^
 ||widgets.wp.com^
@@ -1006,7 +977,6 @@
 ||xhcdn.com^
 ||xhubtraffic^
 ||xiaomi.com^
-||xliiirdr.com^
 ||xlovecam.com^
 ||xmodeai-asian.com^
 ||xn--42c6ac5cyaw4e1e.net^
@@ -1025,7 +995,6 @@
 ||yourpcupdater.com^
 ||yt.psee.ly^
 ||yt.psee^
-||yvmads.com^
 ||zazufi.com^
 ||zbuef.online^
 ||zdassets.com^
@@ -1042,6 +1011,7 @@
 ||zoominfo.com^
 ||zopim.com^
 !
+||.shop^
 ||.ac^
 ||.ai^
 ||.ar^
