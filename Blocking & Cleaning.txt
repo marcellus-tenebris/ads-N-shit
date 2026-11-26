@@ -648,7 +648,6 @@
 ||orders.temp-mail.org^
 ||ourdream.ai^
 ||ourdream.biz^
-||ourdreamersai16.com^
 ||outbrain.com^
 ||paddle.com^
 ||padresprotegen.com^
@@ -2031,8 +2030,6 @@ $removeparam=yclid
 ##.aside-avd-wrap
 ##.avd-heading.heading
 ##.browser-update-notice
-##.chat-bubble
-##.chat-widget
 ##.close-play__container
 ##.comments__warning
 ##.consent-banner
@@ -2067,7 +2064,6 @@ $removeparam=yclid
 ##.hqb-topbar
 ##.install-app-banner
 ##.left-nav-sponsor
-##.lightbox
 ##.location-request
 ##.mobile-app-banner
 ##.more-porn-links-menu
@@ -2086,8 +2082,6 @@ $removeparam=yclid
 ##.promotion
 ##.push-notification-prompt
 ##.shown.player-top-line
-##.social
-##.social-share-popup
 ##.sp-bottom
 ##.sponsor__info
 ##.sponsored
@@ -2100,12 +2094,10 @@ $removeparam=yclid
 ##.tracking-consent-popup
 ##.v2-pause-ad-open
 ##.video-archive-ad
-##.video-holder > .sponsor
 ##.video-overlay
 ##app-age-verification
 ##div#status-bubble
 ##div.dh-ad-box
-##div[id="status-bubble"]
 !
 abbdsm.com##+js(set-cookie, _agev, 1)
 abebony.com##+js(set-cookie, _agev, 1)
