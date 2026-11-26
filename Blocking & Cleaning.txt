@@ -3,11 +3,9 @@
 ! License: https://github.com/marcellus-tenebris/ads-N-shit/blob/main/LICENSE
 ! Expires: 2 hour
 !
-||bang.com^
-||camsoda.webcam^
-||rule34gen.com^
 ||1000fapvids.com^
 ||11oysters.com^
+||1passforallsites.com^
 ||4dsply.com^
 ||4kwallpapers.top^
 ||6sense.com^
@@ -120,6 +118,7 @@
 ||amplifo.com^
 ||amplitude.com^
 ||an.facebook.com^
+||anal-angels.com^
 ||analytics-api.samsunghealthcn.com^
 ||analytics.google.com^
 ||analytics.letterboxd.com^
@@ -168,6 +167,7 @@
 ||aztube.com^
 ||baidu.com^
 ||bakestubborn.com^
+||bang.com^
 ||bangbros.com^
 ||bangbrosnetwork.com^
 ||bannedsextapes.com^
@@ -228,6 +228,7 @@
 ||camsexfree.net^
 ||camsoda.ai^
 ||camsoda.com^
+||camsoda.webcam^
 ||candiru.com^
 ||candyai.com^
 ||candyai.love^
@@ -451,6 +452,7 @@
 ||gravatar.com^
 ||growcdnssedge.com^
 ||gsrv.dev^
+||gstatic.com^
 ||guidepaparazzisurface.com^
 ||gukahdbam.com^
 ||gunsofglorygame.com^
@@ -593,6 +595,7 @@
 ||monetag.com^
 ||mouseflow.com^
 ||mouseflow.de^
+||mrskin.com^
 ||my.com^
 ||mydreamcompanion.com^
 ||myeroblog.com^
@@ -739,6 +742,7 @@
 ||rr.rndomnm.com^
 ||rtx.com^
 ||rubiconproject.com^
+||rule34gen.com^
 ||rytr.me^
 ||s.imdb.com/ref=*
 ||s.pemsrv.com^
@@ -878,6 +882,7 @@
 ||trustarc.com^
 ||trwl1.com^
 ||tsthots.com^
+||tubepartnership.com^
 ||tubetraffic.com^
 ||tugpass.com^
 ||tune.com^
@@ -904,6 +909,7 @@
 ||unity3d.com^
 ||updatestar.com^
 ||us.i.posthog.com^
+||use.fontawesome.com^
 ||userapi.com^
 ||usercentrics.com^
 ||usermaven.com^
@@ -951,6 +957,7 @@
 ||webminepool.com^
 ||webview.unityads.unity3d.com^
 ||webz.io^
+||wechatbot.te.eg^
 ||weights.gg^
 ||wetab.co^
 ||wetab.com^
@@ -1011,13 +1018,13 @@
 ||zoominfo.com^
 ||zopim.com^
 !
-||.shop^
 ||.ac^
 ||.ai^
 ||.ar^
 ||.icu^
 ||.il^
 ||.in^
+||.shop^
 !
 *$permissions=battery=()
 *$permissions=geolocation=()
@@ -2059,8 +2066,6 @@ $removeparam=yclid
 ##.header_roulette_button
 ##.hqb-topbar
 ##.install-app-banner
-##.jw-custom-btn.jw-related-toggle-button
-##.jw-reset-text.jw-title
 ##.left-nav-sponsor
 ##.lightbox
 ##.location-request
@@ -2092,33 +2097,11 @@ $removeparam=yclid
 ##.sticky-header
 ##.subscribe-popup
 ##.survey-popup
-##.table
 ##.tracking-consent-popup
 ##.v2-pause-ad-open
 ##.video-archive-ad
 ##.video-holder > .sponsor
 ##.video-overlay
-##[href="/cams/"]
-##[href="https://go.aawdlvr.com/"]
-##[href="https://theporndude.com"]
-##[href="https://theporndude.com/"]
-##[href="https://theporndude.com/ru"]
-##[href="https://whatslove.ai/"]
-##[href="https://www.comatozze.com/"]
-##[href="https://www.ourdreamersai16.com/81D5R3H/3QQG7/"]
-##[href="https://www.playwire.com/contact-direct-sales"]
-##[href="https://www.pornlynx.com"]
-##[href="https://www.vividdreamsai.com/"]
-##[href^="https://candyai.gg"]
-##[href^="https://du.maxmix.ai"]
-##[href^="https://facemix.app/"]
-##[href^="https://faphouse.com"]
-##[href^="https://fhgte.com/tour"]
-##[href^="https://landing.candynetwork.ai/elara"]
-##[href^="https://spicy-box.com/"]
-##[href^="https://www.cmonbae.com/"]
-##[href^="https://www.playbox.com/"]
-##[href^="https://www.tckcandy.com/"]
 ##app-age-verification
 ##div#status-bubble
 ##div.dh-ad-box
