@@ -452,7 +452,6 @@
 ||gravatar.com^
 ||growcdnssedge.com^
 ||gsrv.dev^
-||gstatic.com^
 ||guidepaparazzisurface.com^
 ||gukahdbam.com^
 ||gunsofglorygame.com^
@@ -734,7 +733,6 @@
 ||rjc.org^
 ||rjchq.org^
 ||rk.com^
-||rlcdn.com^
 ||robbyporn.com^
 ||rollbar.com^
 ||rosetoyofficial-us.com^
@@ -1998,6 +1996,8 @@ $removeparam=yclid
 ||wallpaperaccess.com/tw.png$image
 ||watchseries.*/assets/img/00833cdc9f0b.webp$image
 ||xmissy.nl/*/adfiles/*$image
+!
+||google.com^$domain=reddit.com|videa.hu
 !
 @@||.ai^$domain=claude.ai
 @@||googleusercontent.com^$domain=youtube.com
